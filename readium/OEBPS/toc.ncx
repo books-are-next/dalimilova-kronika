@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="f796d2aa-d751-4509-aa55-547e24fd395b"/>
+        <meta name="dtb:depth" content="2"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Dalimilova kronika</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>POČÍNÁ SĚ KRONIKA ČESKÁ</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml"/>
+            <navPoint id="navPoint-2" playOrder="2">
+                <navLabel>
+                    <text>I.</text>
+                </navLabel>
+                <content src="Text/Section0002.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-3" playOrder="3">
+                <navLabel>
+                    <text>II.</text>
+                </navLabel>
+                <content src="Text/Section0002.xhtml#heading_id_4"/>
+            </navPoint>
+            <navPoint id="navPoint-4" playOrder="4">
+                <navLabel>
+                    <text>III.</text>
+                </navLabel>
+                <content src="Text/Section0002.xhtml#heading_id_5"/>
+            </navPoint>
+            <navPoint id="navPoint-5" playOrder="5">
+                <navLabel>
+                    <text>IV.</text>
+                </navLabel>
+                <content src="Text/Section0002.xhtml#heading_id_6"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>I.</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml"/>
+            <navPoint id="navPoint-7" playOrder="7">
+                <navLabel>
+                    <text>Od babylonské věže a o sedmi dcát jazyciech.</text>
+                </navLabel>
+                <content src="Text/Section0003.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>II.</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml"/>
+            <navPoint id="navPoint-9" playOrder="9">
+                <navLabel>
+                    <text>O počátcě našeho jazyka v Čechách.</text>
+                </navLabel>
+                <content src="Text/Section0004.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>III.</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml"/>
+            <navPoint id="navPoint-11" playOrder="11">
+                <navLabel>
+                    <text>Ot Libušina otce múdrého.</text>
+                </navLabel>
+                <content src="Text/Section0005.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>IV.</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml"/>
+            <navPoint id="navPoint-13" playOrder="13">
+                <navLabel>
+                    <text>O Libušinu proročství.</text>
+                </navLabel>
+                <content src="Text/Section0006.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-14" playOrder="14">
+                <navLabel>
+                    <text>O Libušinu koni, ježto Přěmysla přinesl.</text>
+                </navLabel>
+                <content src="Text/Section0006.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>V.</text>
+            </navLabel>
+            <content src="Text/Section0007.xhtml"/>
+            <navPoint id="navPoint-16" playOrder="16">
+                <navLabel>
+                    <text>Od Přěmyslového nalezenie knězě.</text>
+                </navLabel>
+                <content src="Text/Section0007.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-17" playOrder="17">
+                <navLabel>
+                    <text>Ot vzkvetlé otky Přěmyslovy.</text>
+                </navLabel>
+                <content src="Text/Section0007.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>VI.</text>
+            </navLabel>
+            <content src="Text/Section0008.xhtml"/>
+            <navPoint id="navPoint-19" playOrder="19">
+                <navLabel>
+                    <text>O Přěmyslově zvoleniu.</text>
+                </navLabel>
+                <content src="Text/Section0008.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>VII.</text>
+            </navLabel>
+            <content src="Text/Section0009.xhtml"/>
+            <navPoint id="navPoint-21" playOrder="21">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0009.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-22" playOrder="22">
+                <navLabel>
+                    <text>O Praze založení.</text>
+                </navLabel>
+                <content src="Text/Section0009.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>VIII.</text>
+            </navLabel>
+            <content src="Text/Section0010.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+                <text>IX.</text>
+            </navLabel>
+            <content src="Text/Section0011.xhtml"/>
+            <navPoint id="navPoint-25" playOrder="25">
+                <navLabel>
+                    <text>Od Vlastiny múdré rady.</text>
+                </navLabel>
+                <content src="Text/Section0011.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+                <text>X.</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml"/>
+            <navPoint id="navPoint-27" playOrder="27">
+                <navLabel>
+                    <text>O prvém dievčiem pleně.</text>
+                </navLabel>
+                <content src="Text/Section0012.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-28" playOrder="28">
+                <navLabel>
+                    <text>Hajtmanice.</text>
+                </navLabel>
+                <content src="Text/Section0012.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>XI.</text>
+            </navLabel>
+            <content src="Text/Section0013.xhtml"/>
+            <navPoint id="navPoint-30" playOrder="30">
+                <navLabel>
+                    <text>O mužském ostrabeniu a o Vyšehradě.</text>
+                </navLabel>
+                <content src="Text/Section0013.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+                <text>XII.</text>
+            </navLabel>
+            <content src="Text/Section0014.xhtml"/>
+            <navPoint id="navPoint-32" playOrder="32">
+                <navLabel>
+                    <text>O rozličných dievčích lestěch.</text>
+                </navLabel>
+                <content src="Text/Section0014.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+                <text>XIII.</text>
+            </navLabel>
+            <content src="Text/Section0015.xhtml"/>
+            <navPoint id="navPoint-34" playOrder="34">
+                <navLabel>
+                    <text>O Ctiradově zrádě.</text>
+                </navLabel>
+                <content src="Text/Section0015.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+                <text>XIV.</text>
+            </navLabel>
+            <content src="Text/Section0016.xhtml"/>
+            <navPoint id="navPoint-36" playOrder="36">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0016.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-37" playOrder="37">
+                <navLabel>
+                    <text>O mužskej lsti proti dievkám.</text>
+                </navLabel>
+                <content src="Text/Section0016.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+                <text>XV.</text>
+            </navLabel>
+            <content src="Text/Section0017.xhtml"/>
+            <navPoint id="navPoint-39" playOrder="39">
+                <navLabel>
+                    <text>O dievčiej smrti.</text>
+                </navLabel>
+                <content src="Text/Section0017.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+                <text>XVI.</text>
+            </navLabel>
+            <content src="Text/Section0018.xhtml"/>
+            <navPoint id="navPoint-41" playOrder="41">
+                <navLabel>
+                    <text>O Přěmyslovu osypániu.</text>
+                </navLabel>
+                <content src="Text/Section0018.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+                <text>XVII.</text>
+            </navLabel>
+            <content src="Text/Section0019.xhtml"/>
+            <navPoint id="navPoint-43" playOrder="43">
+                <navLabel>
+                    <text>Ot Neklaná múdrého.</text>
+                </navLabel>
+                <content src="Text/Section0019.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-44" playOrder="44">
+                <navLabel>
+                    <text>O Vlastislavovi.</text>
+                </navLabel>
+                <content src="Text/Section0019.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+                <text>XVIII.</text>
+            </navLabel>
+            <content src="Text/Section0020.xhtml"/>
+            <navPoint id="navPoint-46" playOrder="46">
+                <navLabel>
+                    <text>Od Vlastislava, žateckého kniežete.</text>
+                </navLabel>
+                <content src="Text/Section0020.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+                <text>XIX.</text>
+            </navLabel>
+            <content src="Text/Section0021.xhtml"/>
+            <navPoint id="navPoint-48" playOrder="48">
+                <navLabel>
+                    <text>O pražskej vědi.</text>
+                </navLabel>
+                <content src="Text/Section0021.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-49" playOrder="49">
+                <navLabel>
+                    <text>O žatecké prorokyni.</text>
+                </navLabel>
+                <content src="Text/Section0021.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+                <text>XX.</text>
+            </navLabel>
+            <content src="Text/Section0022.xhtml"/>
+            <navPoint id="navPoint-51" playOrder="51">
+                <navLabel>
+                    <text>O turském boju.</text>
+                </navLabel>
+                <content src="Text/Section0022.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+                <text>XXI.</text>
+            </navLabel>
+            <content src="Text/Section0023.xhtml"/>
+            <navPoint id="navPoint-53" playOrder="53">
+                <navLabel>
+                    <text>O smrti kniežete žatečského.</text>
+                </navLabel>
+                <content src="Text/Section0023.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+                <text>XXII.</text>
+            </navLabel>
+            <content src="Text/Section0024.xhtml"/>
+            <navPoint id="navPoint-55" playOrder="55">
+                <navLabel>
+                    <text>Ot Hostivíta a od Děpolta.</text>
+                </navLabel>
+                <content src="Text/Section0024.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+                <text>XXIII.</text>
+            </navLabel>
+            <content src="Text/Section0025.xhtml"/>
+            <navPoint id="navPoint-57" playOrder="57">
+                <navLabel>
+                    <text>Od Bořivoje, prvého křesťanského kniezete.</text>
+                </navLabel>
+                <content src="Text/Section0025.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+                <text>XXIV.</text>
+            </navLabel>
+            <content src="Text/Section0026.xhtml"/>
+            <navPoint id="navPoint-59" playOrder="59">
+                <navLabel>
+                    <text>Od Svatopluka, moravského krále.</text>
+                </navLabel>
+                <content src="Text/Section0026.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+            <navLabel>
+                <text>XXV.</text>
+            </navLabel>
+            <content src="Text/Section0027.xhtml"/>
+            <navPoint id="navPoint-61" playOrder="61">
+                <navLabel>
+                    <text>Ot Vratislava, otce svatého Václava krále.</text>
+                </navLabel>
+                <content src="Text/Section0027.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+            <navLabel>
+                <text>XXVI.</text>
+            </navLabel>
+            <content src="Text/Section0028.xhtml"/>
+            <navPoint id="navPoint-63" playOrder="63">
+                <navLabel>
+                    <text>O svietiej Ludmile, prvej křesťance.</text>
+                </navLabel>
+                <content src="Text/Section0028.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+            <navLabel>
+                <text>XXVII.</text>
+            </navLabel>
+            <content src="Text/Section0029.xhtml"/>
+            <navPoint id="navPoint-65" playOrder="65">
+                <navLabel>
+                    <text>Od svatého Václava mateře.</text>
+                </navLabel>
+                <content src="Text/Section0029.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-66" playOrder="66">
+                <navLabel>
+                    <text>O svatém Václavovi kniežeti.</text>
+                </navLabel>
+                <content src="Text/Section0029.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-67" playOrder="67">
+            <navLabel>
+                <text>XXVIII.</text>
+            </navLabel>
+            <content src="Text/Section0030.xhtml"/>
+            <navPoint id="navPoint-68" playOrder="68">
+                <navLabel>
+                    <text>O knězi ličském.</text>
+                </navLabel>
+                <content src="Text/Section0030.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+            <navLabel>
+                <text>XXIX.</text>
+            </navLabel>
+            <content src="Text/Section0031.xhtml"/>
+            <navPoint id="navPoint-70" playOrder="70">
+                <navLabel>
+                    <text>Ot ciesařě a o sv. Václavovi.</text>
+                </navLabel>
+                <content src="Text/Section0031.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+            <navLabel>
+                <text>XXX.</text>
+            </navLabel>
+            <content src="Text/Section0032.xhtml"/>
+            <navPoint id="navPoint-72" playOrder="72">
+                <navLabel>
+                    <text>O závisti Boleslava.</text>
+                </navLabel>
+                <content src="Text/Section0032.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-73" playOrder="73">
+                <navLabel>
+                    <text>Tuto Boleslav syna svého mnichem učinil.</text>
+                </navLabel>
+                <content src="Text/Section0032.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-74" playOrder="74">
+            <navLabel>
+                <text>XXXI.</text>
+            </navLabel>
+            <content src="Text/Section0033.xhtml"/>
+            <navPoint id="navPoint-75" playOrder="75">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0033.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-76" playOrder="76">
+                <navLabel>
+                    <text>O diviech svatého Václava.</text>
+                </navLabel>
+                <content src="Text/Section0033.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+            <navLabel>
+                <text>XXXII.</text>
+            </navLabel>
+            <content src="Text/Section0034.xhtml"/>
+            <navPoint id="navPoint-78" playOrder="78">
+                <navLabel>
+                    <text>Od ščedrého Boleslava.</text>
+                </navLabel>
+                <content src="Text/Section0034.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-79" playOrder="79">
+            <navLabel>
+                <text>XXXIII.</text>
+            </navLabel>
+            <content src="Text/Section0035.xhtml"/>
+            <navPoint id="navPoint-80" playOrder="80">
+                <navLabel>
+                    <text>Ot Boleslava skúpého, českého krále, i slepého.</text>
+                </navLabel>
+                <content src="Text/Section0035.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-81" playOrder="81">
+                <navLabel>
+                    <text>Od Oldřicha a od Jaromira.</text>
+                </navLabel>
+                <content src="Text/Section0035.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-82" playOrder="82">
+            <navLabel>
+                <text>XXXIV.</text>
+            </navLabel>
+            <content src="Text/Section0036.xhtml"/>
+            <navPoint id="navPoint-83" playOrder="83">
+                <navLabel>
+                    <text>Ot Vršovičských nevěře a od knězě Mezky.</text>
+                </navLabel>
+                <content src="Text/Section0036.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-84" playOrder="84">
+                <navLabel>
+                    <text>O Hřivcovi a Hovoře.</text>
+                </navLabel>
+                <content src="Text/Section0036.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-85" playOrder="85">
+            <navLabel>
+                <text>XXXV.</text>
+            </navLabel>
+            <content src="Text/Section0037.xhtml"/>
+            <navPoint id="navPoint-86" playOrder="86">
+                <navLabel>
+                    <text>Kako sv. Jan Oldřicha zprostil.</text>
+                </navLabel>
+                <content src="Text/Section0037.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-87" playOrder="87">
+            <navLabel>
+                <text>XXXVI.</text>
+            </navLabel>
+            <content src="Text/Section0038.xhtml"/>
+            <navPoint id="navPoint-88" playOrder="88">
+                <navLabel>
+                    <text>Kako Oldřich Prahy dobyl od Polan.</text>
+                </navLabel>
+                <content src="Text/Section0038.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-89" playOrder="89">
+            <navLabel>
+                <text>XXXVII.</text>
+            </navLabel>
+            <content src="Text/Section0039.xhtml"/>
+            <navPoint id="navPoint-90" playOrder="90">
+                <navLabel>
+                    <text>Od svatých pěti bratří.</text>
+                </navLabel>
+                <content src="Text/Section0039.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-91" playOrder="91">
+            <navLabel>
+                <text>XXXVIII.</text>
+            </navLabel>
+            <content src="Text/Section0040.xhtml"/>
+            <navPoint id="navPoint-92" playOrder="92">
+                <navLabel>
+                    <text>Od Oldřichovy Přimdy.</text>
+                </navLabel>
+                <content src="Text/Section0040.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-93" playOrder="93">
+            <navLabel>
+                <text>XXXIX.</text>
+            </navLabel>
+            <content src="Text/Section0041.xhtml"/>
+            <navPoint id="navPoint-94" playOrder="94">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0041.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-95" playOrder="95">
+            <navLabel>
+                <text>XL.</text>
+            </navLabel>
+            <content src="Text/Section0042.xhtml"/>
+            <navPoint id="navPoint-96" playOrder="96">
+                <navLabel>
+                    <text>Ot Oldřicha šlechetného a ot Kochana nevěrného.</text>
+                </navLabel>
+                <content src="Text/Section0042.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-97" playOrder="97">
+            <navLabel>
+                <text>XLI.</text>
+            </navLabel>
+            <content src="Text/Section0043.xhtml"/>
+            <navPoint id="navPoint-98" playOrder="98">
+                <navLabel>
+                    <text>O sedlcě knieni Boženě.</text>
+                </navLabel>
+                <content src="Text/Section0043.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+            <navLabel>
+                <text>XLII.</text>
+            </navLabel>
+            <content src="Text/Section0044.xhtml"/>
+            <navPoint id="navPoint-100" playOrder="100">
+                <navLabel>
+                    <text>Ot knězě Břečislava, zěti ciesařova.</text>
+                </navLabel>
+                <content src="Text/Section0044.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-101" playOrder="101">
+            <navLabel>
+                <text>XLIII.</text>
+            </navLabel>
+            <content src="Text/Section0045.xhtml"/>
+            <navPoint id="navPoint-102" playOrder="102">
+                <navLabel>
+                    <text>Ot svatého Vojtěcha přinesenie.</text>
+                </navLabel>
+                <content src="Text/Section0045.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103">
+            <navLabel>
+                <text>XLIV.</text>
+            </navLabel>
+            <content src="Text/Section0046.xhtml"/>
+            <navPoint id="navPoint-104" playOrder="104">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0046.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-105" playOrder="105">
+                <navLabel>
+                    <text>O Bračislavově boji s ciesařem.</text>
+                </navLabel>
+                <content src="Text/Section0046.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-106" playOrder="106">
+            <navLabel>
+                <text>XLV.</text>
+            </navLabel>
+            <content src="Text/Section0047.xhtml"/>
+            <navPoint id="navPoint-107" playOrder="107">
+                <navLabel>
+                    <text>Ot biskupa Ekarda, rodiče Jutčina.</text>
+                </navLabel>
+                <content src="Text/Section0047.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-108" playOrder="108">
+                <navLabel>
+                    <text>O Břěčislavu boju s uherským králem.</text>
+                </navLabel>
+                <content src="Text/Section0047.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-109" playOrder="109">
+            <navLabel>
+                <text>XLVI.</text>
+            </navLabel>
+            <content src="Text/Section0048.xhtml"/>
+            <navPoint id="navPoint-110" playOrder="110">
+                <navLabel>
+                    <text>Ot Zbyhněva, nepřietele němečského.</text>
+                </navLabel>
+                <content src="Text/Section0048.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-111" playOrder="111">
+            <navLabel>
+                <text>XLVII.</text>
+            </navLabel>
+            <content src="Text/Section0049.xhtml"/>
+            <navPoint id="navPoint-112" playOrder="112">
+                <navLabel>
+                    <text>Ot Vratislava, prvého krále českého</text>
+                </navLabel>
+                <content src="Text/Section0049.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-113" playOrder="113">
+            <navLabel>
+                <text>XLVIII.</text>
+            </navLabel>
+            <content src="Text/Section0050.xhtml"/>
+            <navPoint id="navPoint-114" playOrder="114">
+                <navLabel>
+                    <text>O najvyššiej cti prvého krále českého.</text>
+                </navLabel>
+                <content src="Text/Section0050.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-115" playOrder="115">
+            <navLabel>
+                <text>XLIX.</text>
+            </navLabel>
+            <content src="Text/Section0051.xhtml"/>
+            <navPoint id="navPoint-116" playOrder="116">
+                <navLabel>
+                    <text>Ot Jarohněva biskupa, králova bratra.</text>
+                </navLabel>
+                <content src="Text/Section0051.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-117" playOrder="117">
+            <navLabel>
+                <text>L.</text>
+            </navLabel>
+            <content src="Text/Section0052.xhtml"/>
+            <navPoint id="navPoint-118" playOrder="118">
+                <navLabel>
+                    <text>O míšeňskej a o saskej vojně.</text>
+                </navLabel>
+                <content src="Text/Section0052.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-119" playOrder="119">
+                <navLabel>
+                    <text>O knězi Břětislavovi a o Zderadovi.</text>
+                </navLabel>
+                <content src="Text/Section0052.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-120" playOrder="120">
+            <navLabel>
+                <text></text>
+            </navLabel>
+            <content src="Text/Section0053.xhtml"/>
+            <navPoint id="navPoint-121" playOrder="121">
+                <navLabel>
+                    <text>Kak jesť král český připudil uherského krále.</text>
+                </navLabel>
+                <content src="Text/Section0053.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-122" playOrder="122">
+            <navLabel>
+                <text>LII.</text>
+            </navLabel>
+            <content src="Text/Section0054.xhtml"/>
+            <navPoint id="navPoint-123" playOrder="123">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0054.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-124" playOrder="124">
+                <navLabel>
+                    <text>O smrti Zderadově.</text>
+                </navLabel>
+                <content src="Text/Section0054.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-125" playOrder="125">
+            <navLabel>
+                <text>LIII.</text>
+            </navLabel>
+            <content src="Text/Section0055.xhtml"/>
+            <navPoint id="navPoint-126" playOrder="126">
+                <navLabel>
+                    <text>Od prvého králova syna.</text>
+                </navLabel>
+                <content src="Text/Section0055.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-127" playOrder="127">
+            <navLabel>
+                <text>LIV.</text>
+            </navLabel>
+            <content src="Text/Section0056.xhtml"/>
+            <navPoint id="navPoint-128" playOrder="128">
+                <navLabel>
+                    <text>Ot Bračislava prvého krále smrti.</text>
+                </navLabel>
+                <content src="Text/Section0056.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-129" playOrder="129">
+            <navLabel>
+                <text>LV.</text>
+            </navLabel>
+            <content src="Text/Section0057.xhtml"/>
+            <navPoint id="navPoint-130" playOrder="130">
+                <navLabel>
+                    <text>Ot Bořivoje a od Svatopluka z Moravy.</text>
+                </navLabel>
+                <content src="Text/Section0057.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-131" playOrder="131">
+                <navLabel>
+                    <text>O králi čápovi nad žabami.</text>
+                </navLabel>
+                <content src="Text/Section0057.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-132" playOrder="132">
+            <navLabel>
+                <text>LVI</text>
+            </navLabel>
+            <content src="Text/Section0058.xhtml"/>
+            <navPoint id="navPoint-133" playOrder="133">
+                <navLabel>
+                    <text>Kako sú Vršovici bradaticiú sěkli.</text>
+                </navLabel>
+                <content src="Text/Section0058.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-134" playOrder="134">
+            <navLabel>
+                <text>LVII</text>
+            </navLabel>
+            <content src="Text/Section0059.xhtml"/>
+            <navPoint id="navPoint-135" playOrder="135">
+                <navLabel>
+                    <text>Kako Svatopluk Uhry pobil a u Polás zabit byl.</text>
+                </navLabel>
+                <content src="Text/Section0059.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-136" playOrder="136">
+                <navLabel>
+                    <text>O Tistovi, zabil knězě.</text>
+                </navLabel>
+                <content src="Text/Section0059.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-137" playOrder="137">
+            <navLabel>
+                <text>LVIII.</text>
+            </navLabel>
+            <content src="Text/Section0060.xhtml"/>
+            <navPoint id="navPoint-138" playOrder="138">
+                <navLabel>
+                    <text>Ot Vladislavova boje a ot srbského knězě.</text>
+                </navLabel>
+                <content src="Text/Section0060.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-139" playOrder="139">
+            <navLabel>
+                <text>LIX.</text>
+            </navLabel>
+            <content src="Text/Section0061.xhtml"/>
+            <navPoint id="navPoint-140" playOrder="140">
+                <navLabel>
+                    <text>Kako ciesař u Praze na sudě seděl.</text>
+                </navLabel>
+                <content src="Text/Section0061.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-141" playOrder="141">
+            <navLabel>
+                <text>LX.</text>
+            </navLabel>
+            <content src="Text/Section0062.xhtml"/>
+            <navPoint id="navPoint-142" playOrder="142">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0062.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-143" playOrder="143">
+            <navLabel>
+                <text>LXI.</text>
+            </navLabel>
+            <content src="Text/Section0063.xhtml"/>
+            <navPoint id="navPoint-144" playOrder="144">
+                <navLabel>
+                    <text>Kak sú chtěli římský kostel vybiti.</text>
+                </navLabel>
+                <content src="Text/Section0063.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-145" playOrder="145">
+            <navLabel>
+                <text>LXII.</text>
+            </navLabel>
+            <content src="Text/Section0064.xhtml"/>
+            <navPoint id="navPoint-146" playOrder="146">
+                <navLabel>
+                    <text>O dobrém Stepáně.</text>
+                </navLabel>
+                <content src="Text/Section0064.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-147" playOrder="147">
+            <navLabel>
+                <text>LXIII.</text>
+            </navLabel>
+            <content src="Text/Section0065.xhtml"/>
+            <navPoint id="navPoint-148" playOrder="148">
+                <navLabel>
+                    <text>O Vladislavově a Bořivojově vypuzení.</text>
+                </navLabel>
+                <content src="Text/Section0065.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-149" playOrder="149">
+            <navLabel>
+                <text>LXIV.</text>
+            </navLabel>
+            <content src="Text/Section0066.xhtml"/>
+            <navPoint id="navPoint-150" playOrder="150">
+                <navLabel>
+                    <text>O biskupově Heřmanově smrti.</text>
+                </navLabel>
+                <content src="Text/Section0066.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-151" playOrder="151">
+                <navLabel>
+                    <text>O prvém šlechetném Soběslavovi i o jeho boju</text>
+                </navLabel>
+                <content src="Text/Section0066.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-152" playOrder="152">
+            <navLabel>
+                <text>LXV.</text>
+            </navLabel>
+            <content src="Text/Section0067.xhtml"/>
+            <navPoint id="navPoint-153" playOrder="153">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0067.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-154" playOrder="154">
+            <navLabel>
+                <text>LXVI.</text>
+            </navLabel>
+            <content src="Text/Section0068.xhtml"/>
+            <navPoint id="navPoint-155" playOrder="155">
+                <navLabel>
+                    <text>O skončení sv. Prokopa opata.</text>
+                </navLabel>
+                <content src="Text/Section0068.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-156" playOrder="156">
+                <navLabel>
+                    <text>Ot Vladislava, prvého krále českého.</text>
+                </navLabel>
+                <content src="Text/Section0068.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+            <navLabel>
+                <text>LXVII.</text>
+            </navLabel>
+            <content src="Text/Section0069.xhtml"/>
+            <navPoint id="navPoint-158" playOrder="158">
+                <navLabel>
+                    <text>Ot Soběslava, přietele českého.</text>
+                </navLabel>
+                <content src="Text/Section0069.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-159" playOrder="159">
+            <navLabel>
+                <text>LXVIII.</text>
+            </navLabel>
+            <content src="Text/Section0070.xhtml"/>
+            <navPoint id="navPoint-160" playOrder="160">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0070.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-161" playOrder="161">
+            <navLabel>
+                <text>LXIX.</text>
+            </navLabel>
+            <content src="Text/Section0071.xhtml"/>
+            <navPoint id="navPoint-162" playOrder="162">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0071.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-163" playOrder="163">
+            <navLabel>
+                <text>LXX.</text>
+            </navLabel>
+            <content src="Text/Section0072.xhtml"/>
+            <navPoint id="navPoint-164" playOrder="164">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0072.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-165" playOrder="165">
+            <navLabel>
+                <text>LXXI.</text>
+            </navLabel>
+            <content src="Text/Section0073.xhtml"/>
+            <navPoint id="navPoint-166" playOrder="166">
+                <navLabel>
+                    <text>Od Bedřicha a od Kunráta, Soběslavových synech, a ot Stanimira.</text>
+                </navLabel>
+                <content src="Text/Section0073.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-167" playOrder="167">
+            <navLabel>
+                <text>LXXII.</text>
+            </navLabel>
+            <content src="Text/Section0074.xhtml"/>
+            <navPoint id="navPoint-168" playOrder="168">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0074.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-169" playOrder="169">
+            <navLabel>
+                <text>LXXIII.</text>
+            </navLabel>
+            <content src="Text/Section0075.xhtml"/>
+            <navPoint id="navPoint-170" playOrder="170">
+                <navLabel>
+                    <text>Kak jesť Morava svých kniežat zbyla a k Čechám přišla.</text>
+                </navLabel>
+                <content src="Text/Section0075.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-171" playOrder="171">
+            <navLabel>
+                <text>LXXIV.</text>
+            </navLabel>
+            <content src="Text/Section0076.xhtml"/>
+            <navPoint id="navPoint-172" playOrder="172">
+                <navLabel>
+                    <text>O českém boji s Němci.</text>
+                </navLabel>
+                <content src="Text/Section0076.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-173" playOrder="173">
+            <navLabel>
+                <text>LXXV.</text>
+            </navLabel>
+            <content src="Text/Section0077.xhtml"/>
+            <navPoint id="navPoint-174" playOrder="174">
+                <navLabel>
+                    <text>Ot vzdvíhánie sv. Prokopa opata.</text>
+                </navLabel>
+                <content src="Text/Section0077.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-175" playOrder="175">
+            <navLabel>
+                <text>LXXVI.</text>
+            </navLabel>
+            <content src="Text/Section0078.xhtml"/>
+            <navPoint id="navPoint-176" playOrder="176">
+                <navLabel>
+                    <text>Od přepusčenie krále Přěmysla třetieho.</text>
+                </navLabel>
+                <content src="Text/Section0078.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-177" playOrder="177">
+            <navLabel>
+                <text>LXXVII.</text>
+            </navLabel>
+            <content src="Text/Section0079.xhtml"/>
+            <navPoint id="navPoint-178" playOrder="178">
+                <navLabel>
+                    <text>O Děpoltově vypuzení, kniežěte kúřimského.</text>
+                </navLabel>
+                <content src="Text/Section0079.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-179" playOrder="179">
+            <navLabel>
+                <text>LXXVIII.</text>
+            </navLabel>
+            <content src="Text/Section0080.xhtml"/>
+            <navPoint id="navPoint-180" playOrder="180">
+                <navLabel>
+                    <text>O prvém králi Přěmyslu, jemužto ciesař Otakar vzdě.</text>
+                </navLabel>
+                <content src="Text/Section0080.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-181" playOrder="181">
+            <navLabel>
+                <text>LXXIX.</text>
+            </navLabel>
+            <content src="Text/Section0081.xhtml"/>
+            <navPoint id="navPoint-182" playOrder="182">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0081.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-183" playOrder="183">
+            <navLabel>
+                <text>LXXX.</text>
+            </navLabel>
+            <content src="Text/Section0082.xhtml"/>
+            <navPoint id="navPoint-184" playOrder="184">
+                <navLabel>
+                    <text>Kak sú predikateři do Prahy přišli.</text>
+                </navLabel>
+                <content src="Text/Section0082.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-185" playOrder="185">
+            <navLabel>
+                <text>LXXXI.</text>
+            </navLabel>
+            <content src="Text/Section0083.xhtml"/>
+            <navPoint id="navPoint-186" playOrder="186">
+                <navLabel>
+                    <text>Ot Václava, krále čtvrtého českého.</text>
+                </navLabel>
+                <content src="Text/Section0083.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-187" playOrder="187">
+            <navLabel>
+                <text>LXXXII.</text>
+            </navLabel>
+            <content src="Text/Section0084.xhtml"/>
+            <navPoint id="navPoint-188" playOrder="188">
+                <navLabel>
+                    <text>O Kartasiech pohanských.</text>
+                </navLabel>
+                <content src="Text/Section0084.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-189" playOrder="189">
+            <navLabel>
+                <text>LXXXIII.</text>
+            </navLabel>
+            <content src="Text/Section0085.xhtml"/>
+            <navPoint id="navPoint-190" playOrder="190">
+                <navLabel>
+                    <text>O králiu Václavovi a o ciesařovi Bedřichovi.</text>
+                </navLabel>
+                <content src="Text/Section0085.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-191" playOrder="191">
+            <navLabel>
+                <text>LXXXIV.</text>
+            </navLabel>
+            <content src="Text/Section0086.xhtml"/>
+            <navPoint id="navPoint-192" playOrder="192">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0086.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-193" playOrder="193">
+            <navLabel>
+                <text>LXXXV.</text>
+            </navLabel>
+            <content src="Text/Section0087.xhtml"/>
+            <navPoint id="navPoint-194" playOrder="194">
+                <navLabel>
+                    <text>O králově Václavově boju s synem.</text>
+                </navLabel>
+                <content src="Text/Section0087.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-195" playOrder="195">
+            <navLabel>
+                <text>LXXXVI.</text>
+            </navLabel>
+            <content src="Text/Section0088.xhtml"/>
+            <navPoint id="navPoint-196" playOrder="196">
+                <navLabel>
+                    <text>O křižovníciech a o židech.</text>
+                </navLabel>
+                <content src="Text/Section0088.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-197" playOrder="197">
+            <navLabel>
+                <text>LXXXVII.</text>
+            </navLabel>
+            <content src="Text/Section0089.xhtml"/>
+            <navPoint id="navPoint-198" playOrder="198">
+                <navLabel>
+                    <text>O světiej Zdislavě skončení svatém.</text>
+                </navLabel>
+                <content src="Text/Section0089.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-199" playOrder="199">
+            <navLabel>
+                <text>LXXXVIII.</text>
+            </navLabel>
+            <content src="Text/Section0090.xhtml"/>
+            <navPoint id="navPoint-200" playOrder="200">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0090.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-201" playOrder="201">
+            <navLabel>
+                <text>LXXXIX.</text>
+            </navLabel>
+            <content src="Text/Section0091.xhtml"/>
+            <navPoint id="navPoint-202" playOrder="202">
+                <navLabel>
+                    <text>Od druhého Přěmysla, krále pátého českého.</text>
+                </navLabel>
+                <content src="Text/Section0091.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-203" playOrder="203">
+            <navLabel>
+                <text>XC.</text>
+            </navLabel>
+            <content src="Text/Section0092.xhtml"/>
+            <navPoint id="navPoint-204" playOrder="204">
+                <navLabel>
+                    <text>O naháčích.</text>
+                </navLabel>
+                <content src="Text/Section0092.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-205" playOrder="205">
+            <navLabel>
+                <text>XCI.</text>
+            </navLabel>
+            <content src="Text/Section0093.xhtml"/>
+            <navPoint id="navPoint-206" playOrder="206">
+                <navLabel>
+                    <text>O uherském boji a o královéj Margarety rozvodu z Rakús.</text>
+                </navLabel>
+                <content src="Text/Section0093.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-207" playOrder="207">
+            <navLabel>
+                <text>XCII.</text>
+            </navLabel>
+            <content src="Text/Section0094.xhtml"/>
+            <navPoint id="navPoint-208" playOrder="208">
+                <navLabel>
+                    <text>Ot násilé, ješto král pánóm českým činil.</text>
+                </navLabel>
+                <content src="Text/Section0094.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-209" playOrder="209">
+                <navLabel>
+                    <text>O Závišovi.</text>
+                </navLabel>
+                <content src="Text/Section0094.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-210" playOrder="210">
+            <navLabel>
+                <text>XCIII.</text>
+            </navLabel>
+            <content src="Text/Section0095.xhtml"/>
+            <navPoint id="navPoint-211" playOrder="211">
+                <navLabel>
+                    <text>Ot Rudolta, krále říského.</text>
+                </navLabel>
+                <content src="Text/Section0095.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-212" playOrder="212">
+            <navLabel>
+                <text>XCIV.</text>
+            </navLabel>
+            <content src="Text/Section0096.xhtml"/>
+            <navPoint id="navPoint-213" playOrder="213">
+                <navLabel>
+                    <text>Ot hlada, jenž byl po králově Přěmyslově smrti.</text>
+                </navLabel>
+                <content src="Text/Section0096.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-214" playOrder="214">
+                <navLabel>
+                    <text>Ot krále Václava šestého.</text>
+                </navLabel>
+                <content src="Text/Section0096.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-215" playOrder="215">
+            <navLabel>
+                <text>XCV.</text>
+            </navLabel>
+            <content src="Text/Section0097.xhtml"/>
+            <navPoint id="navPoint-216" playOrder="216">
+                <navLabel>
+                    <text>O koronovániu krále Václava.</text>
+                </navLabel>
+                <content src="Text/Section0097.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-217" playOrder="217">
+            <navLabel>
+                <text>XCVI.</text>
+            </navLabel>
+            <content src="Text/Section0098.xhtml"/>
+            <navPoint id="navPoint-218" playOrder="218">
+                <navLabel>
+                    <text>(Nadpisu není.)</text>
+                </navLabel>
+                <content src="Text/Section0098.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-219" playOrder="219">
+                <navLabel>
+                    <text>Ot Albrechta, krále jednookého.</text>
+                </navLabel>
+                <content src="Text/Section0098.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-220" playOrder="220">
+            <navLabel>
+                <text>XCVII.</text>
+            </navLabel>
+            <content src="Text/Section0099.xhtml"/>
+            <navPoint id="navPoint-221" playOrder="221">
+                <navLabel>
+                    <text>Ote dvú králiú Václavú.</text>
+                </navLabel>
+                <content src="Text/Section0099.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-222" playOrder="222">
+            <navLabel>
+                <text>XCVIII.</text>
+            </navLabel>
+            <content src="Text/Section0100.xhtml"/>
+            <navPoint id="navPoint-223" playOrder="223">
+                <navLabel>
+                    <text>O mladém králiu Václavovi.</text>
+                </navLabel>
+                <content src="Text/Section0100.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-224" playOrder="224">
+            <navLabel>
+                <text>XCIX.</text>
+            </navLabel>
+            <content src="Text/Section0101.xhtml"/>
+            <navPoint id="navPoint-225" playOrder="225">
+                <navLabel>
+                    <text>Ot Rudolta, krále českého.</text>
+                </navLabel>
+                <content src="Text/Section0101.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-226" playOrder="226">
+            <navLabel>
+                <text>C.</text>
+            </navLabel>
+            <content src="Text/Section0102.xhtml"/>
+            <navPoint id="navPoint-227" playOrder="227">
+                <navLabel>
+                    <text>Ot vévody korutanského.</text>
+                </navLabel>
+                <content src="Text/Section0102.xhtml#heading_id_3"/>
+            </navPoint>
+            <navPoint id="navPoint-228" playOrder="228">
+                <navLabel>
+                    <text>O českém boji s Šváby.</text>
+                </navLabel>
+                <content src="Text/Section0102.xhtml#heading_id_4"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-229" playOrder="229">
+            <navLabel>
+                <text>CI.</text>
+            </navLabel>
+            <content src="Text/Section0103.xhtml"/>
+            <navPoint id="navPoint-230" playOrder="230">
+                <navLabel>
+                    <text>O smrti Albrechta, krále říšského.</text>
+                </navLabel>
+                <content src="Text/Section0103.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-231" playOrder="231">
+            <navLabel>
+                <text>CII.</text>
+            </navLabel>
+            <content src="Text/Section0104.xhtml"/>
+            <navPoint id="navPoint-232" playOrder="232">
+                <navLabel>
+                    <text>O zlých obyčejích českých.</text>
+                </navLabel>
+                <content src="Text/Section0104.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-233" playOrder="233">
+            <navLabel>
+                <text>CIII.</text>
+            </navLabel>
+            <content src="Text/Section0105.xhtml"/>
+            <navPoint id="navPoint-234" playOrder="234">
+                <navLabel>
+                    <text>O Korutanského potupení a o pražských měšťan volení.</text>
+                </navLabel>
+                <content src="Text/Section0105.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-235" playOrder="235">
+            <navLabel>
+                <text>CIV.</text>
+            </navLabel>
+            <content src="Text/Section0106.xhtml"/>
+            <navPoint id="navPoint-236" playOrder="236">
+                <navLabel>
+                    <text>O Míšeňských nemilosti.</text>
+                </navLabel>
+                <content src="Text/Section0106.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-237" playOrder="237">
+            <navLabel>
+                <text>CV.</text>
+            </navLabel>
+            <content src="Text/Section0107.xhtml"/>
+            <navPoint id="navPoint-238" playOrder="238">
+                <navLabel>
+                    <text>O veliké povodni v Čechách.</text>
+                </navLabel>
+                <content src="Text/Section0107.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-239" playOrder="239">
+            <navLabel>
+                <text>CVI.</text>
+            </navLabel>
+            <content src="Text/Section0108.xhtml"/>
+            <navPoint id="navPoint-240" playOrder="240">
+                <navLabel>
+                    <text>Od Korutanského vypuzení a od krále Jana.</text>
+                </navLabel>
+                <content src="Text/Section0108.xhtml#heading_id_3"/>
+            </navPoint>
+        </navPoint>
+    </navMap>
+</ncx>

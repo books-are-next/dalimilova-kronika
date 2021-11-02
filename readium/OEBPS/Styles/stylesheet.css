@@ -1,0 +1,106 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre3 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.none {
+    font-size: 2em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    text-decoration: none
+    }
+.none1 {
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none2 {
+    font-size: 1em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none3 {
+    color: #000080;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none4 {
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.none5 {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none
+    }
+.s {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center
+    }
+.s1 {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left
+    }
+.s2 {
+    display: block;
+    font-weight: bold;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 12pt;
+    text-align: justify
+    }
+.s3 {
+    display: block;
+    font-style: italic;
+    padding-bottom: 6pt;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 12pt;
+    text-align: justify
+    }
