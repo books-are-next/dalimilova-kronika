@@ -22,7 +22,7 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "",
+      "em": "none2",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -36,27 +36,27 @@
             "filename": "index_split_000.md",
             "xhtml": "index_split_000.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "section0001.md",
             "xhtml": "Section0001.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "section0109.md",
             "xhtml": "Section0109.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -66,7 +66,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      POČÍNÁ SĚ KRONIKA ČESKÁ\n\n      I.\n    "
           },
           {
             "filename": "section0003.md",
@@ -75,7 +76,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        I.\n      ",
+            "subtitle": "\n        Od babylonské věže a o sedmi dcát jazyciech.\n      "
           },
           {
             "filename": "section0004.md",
@@ -84,7 +87,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        II.\n      ",
+            "subtitle": "\n        O počátcě našeho jazyka v Čechách.\n      "
           },
           {
             "filename": "section0005.md",
@@ -93,7 +98,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        III.\n      ",
+            "subtitle": "\n        Ot Libušina otce múdrého.\n      "
           },
           {
             "filename": "section0006.md",
@@ -102,7 +109,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        IV.\n      ",
+            "subtitle": "\n        O Libušinu proročství.\n      "
           },
           {
             "filename": "section0007.md",
@@ -111,7 +120,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        V.\n      ",
+            "subtitle": "\n        Od Přěmyslového nalezenie knězě.\n      "
           },
           {
             "filename": "section0008.md",
@@ -120,7 +131,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        VI.\n      ",
+            "subtitle": "\n        O Přěmyslově zvoleniu.\n      "
           },
           {
             "filename": "section0009.md",
@@ -129,7 +142,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        VII.\n      ",
+            "subtitle": "\n        (Nadpisu není.)\n      "
           },
           {
             "filename": "section0010.md",
@@ -138,7 +153,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        VIII.\n      ",
+            "subtitle": "\n        O válče, ježto dievky s mužmi jmiechu.\n      "
           },
           {
             "filename": "section0011.md",
@@ -147,7 +164,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        IX.\n      ",
+            "subtitle": "\n        Od Vlastiny múdré rady.\n      "
           },
           {
             "filename": "section0012.md",
@@ -156,7 +175,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        X.\n      ",
+            "subtitle": "\n        O prvém dievčiem pleně.\n      "
           },
           {
             "filename": "section0013.md",
@@ -165,7 +186,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XI.\n      ",
+            "subtitle": "\n        O mužském ostrabeniu a o Vyšehradě.\n      "
           },
           {
             "filename": "section0014.md",
@@ -174,7 +197,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XII.\n      ",
+            "subtitle": "\n        O rozličných dievčích lestěch.\n      "
           },
           {
             "filename": "section0015.md",
@@ -183,7 +208,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XIII.\n      ",
+            "subtitle": "\n        O Ctiradově zrádě.\n      "
           },
           {
             "filename": "section0016.md",
@@ -192,7 +219,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XIV.\n      ",
+            "subtitle": "\n        (Nadpisu není.)\n      "
           },
           {
             "filename": "section0017.md",
@@ -201,7 +230,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XV.\n      ",
+            "subtitle": "\n        O dievčiej smrti.\n      "
           },
           {
             "filename": "section0018.md",
@@ -210,7 +241,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XVI.\n      ",
+            "subtitle": "\n        O Přěmyslovu osypániu.\n      "
           },
           {
             "filename": "section0019.md",
@@ -219,7 +252,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XVII.\n      ",
+            "subtitle": "\n        Ot Neklaná múdrého.\n      "
           },
           {
             "filename": "section0020.md",
@@ -228,7 +263,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XVIII.\n      ",
+            "subtitle": "\n        Od Vlastislava, žateckého kniežete.\n      "
           },
           {
             "filename": "section0021.md",
@@ -237,7 +274,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XIX.\n      ",
+            "subtitle": "\n        O pražskej vědi.\n      "
           },
           {
             "filename": "section0022.md",
@@ -246,7 +285,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XX.\n      ",
+            "subtitle": "\n        O turském boju.\n      "
           },
           {
             "filename": "section0023.md",
@@ -255,7 +296,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXI.\n      ",
+            "subtitle": "\n        O smrti kniežete žatečského.\n      "
           },
           {
             "filename": "section0024.md",
@@ -264,7 +307,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXII.\n      ",
+            "subtitle": "\n        Ot Hostivíta a od Děpolta.\n      "
           },
           {
             "filename": "section0025.md",
@@ -273,7 +318,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXIII.\n      ",
+            "subtitle": "\n        Od Bořivoje, prvého křesťanského kniezete.\n      "
           },
           {
             "filename": "section0026.md",
@@ -282,7 +329,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXIV.\n      ",
+            "subtitle": "\n        Od Svatopluka, moravského krále.\n      "
           },
           {
             "filename": "section0027.md",
@@ -291,7 +340,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXV.\n      ",
+            "subtitle": "\n        Ot Vratislava, otce svatého Václava krále.\n      "
           },
           {
             "filename": "section0028.md",
@@ -300,7 +351,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXVI.\n      ",
+            "subtitle": "\n        O svietiej Ludmile, prvej křesťance.\n      "
           },
           {
             "filename": "section0029.md",
@@ -309,7 +362,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXVII.\n      ",
+            "subtitle": "\n        Od svatého Václava mateře.\n      "
           },
           {
             "filename": "section0030.md",
@@ -318,7 +373,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXVIII.\n      ",
+            "subtitle": "\n        O knězi ličském.\n      "
           },
           {
             "filename": "section0031.md",
@@ -327,7 +384,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXIX.\n      ",
+            "subtitle": "\n        Ot ciesařě a o sv. Václavovi.\n      "
           },
           {
             "filename": "section0032.md",
@@ -336,7 +395,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXX.\n      ",
+            "subtitle": "\n        O závisti Boleslava.\n      "
           },
           {
             "filename": "section0033.md",
@@ -345,7 +406,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXXI.\n      ",
+            "subtitle": "\n        (Nadpisu není.)\n      "
           },
           {
             "filename": "section0034.md",
@@ -354,7 +417,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXXII.\n      ",
+            "subtitle": "\n        Od ščedrého Boleslava.\n      "
           },
           {
             "filename": "section0035.md",
@@ -363,7 +428,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXXIII.\n      ",
+            "subtitle": "\n        Ot Boleslava skúpého, českého krále, i slepého.\n      "
           },
           {
             "filename": "section0036.md",
@@ -372,7 +439,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXXIV.\n      ",
+            "subtitle": "\n        Ot Vršovičských nevěře a od knězě Mezky.\n      "
           },
           {
             "filename": "section0037.md",
@@ -381,7 +450,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXXV.\n      ",
+            "subtitle": "\n        Kako sv. Jan Oldřicha zprostil.\n      "
           },
           {
             "filename": "section0038.md",
@@ -390,7 +461,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXXVI.\n      ",
+            "subtitle": "\n        Kako Oldřich Prahy dobyl od Polan.\n      "
           },
           {
             "filename": "section0039.md",
@@ -399,7 +472,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXXVII.\n      ",
+            "subtitle": "\n        Od svatých pěti bratří.\n      "
           },
           {
             "filename": "section0040.md",
@@ -408,7 +483,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXXVIII.\n      ",
+            "subtitle": "\n        Od Oldřichovy Přimdy.\n      "
           },
           {
             "filename": "section0041.md",
@@ -417,7 +494,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XXXIX.\n      ",
+            "subtitle": "\n        (Nadpisu není.)\n      "
           },
           {
             "filename": "section0042.md",
@@ -426,7 +505,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XL.\n      ",
+            "subtitle": "\n        Ot Oldřicha šlechetného a ot Kochana nevěrného.\n      "
           },
           {
             "filename": "section0043.md",
@@ -435,7 +516,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XLI.\n      ",
+            "subtitle": "\n        O sedlcě knieni Boženě.\n      "
           },
           {
             "filename": "section0044.md",
@@ -444,7 +527,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XLII.\n      ",
+            "subtitle": "\n        Ot knězě Břečislava, zěti ciesařova.\n      "
           },
           {
             "filename": "section0045.md",
@@ -453,7 +538,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XLIII.\n      ",
+            "subtitle": "\n        Ot svatého Vojtěcha přinesenie.\n      "
           },
           {
             "filename": "section0046.md",
@@ -462,7 +549,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XLIV.\n      ",
+            "subtitle": "\n        (Nadpisu není.)\n      "
           },
           {
             "filename": "section0047.md",
@@ -471,7 +560,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XLV.\n      ",
+            "subtitle": "\n        Ot biskupa Ekarda, rodiče Jutčina.\n      "
           },
           {
             "filename": "section0048.md",
@@ -480,7 +571,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XLVI.\n      ",
+            "subtitle": "\n        Ot Zbyhněva, nepřietele němečského.\n      "
           },
           {
             "filename": "section0049.md",
@@ -489,7 +582,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XLVII.\n      ",
+            "subtitle": "\n        Ot Vratislava, prvého krále českého\n      "
           },
           {
             "filename": "section0050.md",
@@ -498,7 +593,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XLVIII.\n      ",
+            "subtitle": "\n        O najvyššiej cti prvého krále českého.\n      "
           },
           {
             "filename": "section0051.md",
@@ -507,7 +604,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        XLIX.\n      ",
+            "subtitle": "\n        Ot Jarohněva biskupa, králova bratra.\n      "
           },
           {
             "filename": "section0052.md",
@@ -516,7 +615,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n        L.\n      ",
+            "subtitle": "\n        O míšeňskej a o saskej vojně.\n      "
           },
           {
             "filename": "section0053.md",
@@ -525,7 +626,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LI\n\n      \n    ",
+            "subtitle": "\n      Kak jesť král český připudil uherského krále.\n    "
           },
           {
             "filename": "section0054.md",
@@ -534,7 +637,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LII.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0055.md",
@@ -543,7 +648,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LIII.\n    ",
+            "subtitle": "\n      Od prvého králova syna.\n    "
           },
           {
             "filename": "section0056.md",
@@ -552,7 +659,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LIV.\n    ",
+            "subtitle": "\n      Ot Bračislava prvého krále smrti.\n    "
           },
           {
             "filename": "section0057.md",
@@ -561,7 +670,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LV.\n    ",
+            "subtitle": "\n      Ot Bořivoje a od Svatopluka z Moravy.\n    "
           },
           {
             "filename": "section0058.md",
@@ -570,7 +681,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LVI\n    ",
+            "subtitle": "\n      Kako sú Vršovici bradaticiú sěkli.\n    "
           },
           {
             "filename": "section0059.md",
@@ -579,7 +692,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LVII\n    ",
+            "subtitle": "\n      Kako Svatopluk Uhry pobil a u Polás zabit byl.\n    "
           },
           {
             "filename": "section0060.md",
@@ -588,7 +703,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LVIII.\n    ",
+            "subtitle": "\n      Ot Vladislavova boje a ot srbského knězě.\n    "
           },
           {
             "filename": "section0061.md",
@@ -597,7 +714,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LIX.\n    ",
+            "subtitle": "\n      Kako ciesař u Praze na sudě seděl.\n    "
           },
           {
             "filename": "section0062.md",
@@ -606,7 +725,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LX.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0063.md",
@@ -615,7 +736,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXI.\n    ",
+            "subtitle": "\n      Kak sú chtěli římský kostel vybiti.\n    "
           },
           {
             "filename": "section0064.md",
@@ -624,7 +747,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXII.\n    ",
+            "subtitle": "\n      O dobrém Stepáně.\n    "
           },
           {
             "filename": "section0065.md",
@@ -633,7 +758,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXIII.\n    ",
+            "subtitle": "\n      O Vladislavově a Bořivojově vypuzení.\n    "
           },
           {
             "filename": "section0066.md",
@@ -642,7 +769,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXIV.\n    ",
+            "subtitle": "\n      O biskupově Heřmanově smrti.\n    "
           },
           {
             "filename": "section0067.md",
@@ -651,7 +780,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXV.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0068.md",
@@ -660,7 +791,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXVI.\n    ",
+            "subtitle": "\n      O skončení sv. Prokopa opata.\n    "
           },
           {
             "filename": "section0069.md",
@@ -669,7 +802,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXVII.\n    ",
+            "subtitle": "\n      Ot Soběslava, přietele českého.\n    "
           },
           {
             "filename": "section0070.md",
@@ -678,7 +813,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXVIII.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0071.md",
@@ -687,7 +824,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXIX.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0072.md",
@@ -696,7 +835,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXX.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0073.md",
@@ -705,7 +846,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXI.\n    ",
+            "subtitle": "\n      Od Bedřicha a od Kunráta, Soběslavových synech, a ot Stanimira.\n    "
           },
           {
             "filename": "section0074.md",
@@ -714,7 +857,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXII.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0075.md",
@@ -723,7 +868,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXIII.\n    ",
+            "subtitle": "\n      Kak jesť Morava svých kniežat zbyla a k Čechám přišla.\n    "
           },
           {
             "filename": "section0076.md",
@@ -732,7 +879,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXIV.\n    ",
+            "subtitle": "\n      O českém boji s Němci.\n    "
           },
           {
             "filename": "section0077.md",
@@ -741,7 +890,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXV.\n    ",
+            "subtitle": "\n      Ot vzdvíhánie sv. Prokopa opata.\n    "
           },
           {
             "filename": "section0078.md",
@@ -750,7 +901,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXVI.\n    ",
+            "subtitle": "\n      Od přepusčenie krále Přěmysla třetieho.\n    "
           },
           {
             "filename": "section0079.md",
@@ -759,7 +912,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXVII.\n    ",
+            "subtitle": "\n      O Děpoltově vypuzení, kniežěte kúřimského.\n    "
           },
           {
             "filename": "section0080.md",
@@ -768,7 +923,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXVIII.\n    ",
+            "subtitle": "\n      O prvém králi Přěmyslu, jemužto ciesař Otakar vzdě.\n    "
           },
           {
             "filename": "section0081.md",
@@ -777,7 +934,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXIX.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0082.md",
@@ -786,7 +945,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXX.\n    ",
+            "subtitle": "\n      Kak sú predikateři do Prahy přišli.\n    "
           },
           {
             "filename": "section0083.md",
@@ -795,7 +956,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXXI.\n    ",
+            "subtitle": "\n      Ot Václava, krále čtvrtého českého.\n    "
           },
           {
             "filename": "section0084.md",
@@ -804,7 +967,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXXII.\n    ",
+            "subtitle": "\n      O Kartasiech pohanských.\n    "
           },
           {
             "filename": "section0085.md",
@@ -813,7 +978,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXXIII.\n    ",
+            "subtitle": "\n      O králiu Václavovi a o ciesařovi Bedřichovi.\n    "
           },
           {
             "filename": "section0086.md",
@@ -822,7 +989,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXXIV.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0087.md",
@@ -831,7 +1000,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXXV.\n    ",
+            "subtitle": "\n      O králově Václavově boju s synem.\n    "
           },
           {
             "filename": "section0088.md",
@@ -840,7 +1011,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXXVI.\n    ",
+            "subtitle": "\n      O křižovníciech a o židech.\n    "
           },
           {
             "filename": "section0089.md",
@@ -849,7 +1022,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXXVII.\n    ",
+            "subtitle": "\n      O světiej Zdislavě skončení svatém.\n    "
           },
           {
             "filename": "section0090.md",
@@ -858,7 +1033,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXXVIII.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0091.md",
@@ -867,7 +1044,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      LXXXIX.\n    ",
+            "subtitle": "\n      Od druhého Přěmysla, krále pátého českého.\n    "
           },
           {
             "filename": "section0092.md",
@@ -876,7 +1055,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XC.\n    ",
+            "subtitle": "\n      O naháčích.\n    "
           },
           {
             "filename": "section0093.md",
@@ -885,7 +1066,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XCI.\n    ",
+            "subtitle": "\n      O uherském boji a o královéj Margarety rozvodu z Rakús.\n    "
           },
           {
             "filename": "section0094.md",
@@ -894,7 +1077,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XCII.\n    ",
+            "subtitle": "\n      Ot násilé, ješto král pánóm českým činil.\n    "
           },
           {
             "filename": "section0095.md",
@@ -903,7 +1088,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XCIII.\n    ",
+            "subtitle": "\n      Ot Rudolta, krále říského.\n    "
           },
           {
             "filename": "section0096.md",
@@ -912,7 +1099,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XCIV.\n    ",
+            "subtitle": "\n      Ot hlada, jenž byl po králově Přěmyslově smrti.\n    "
           },
           {
             "filename": "section0097.md",
@@ -921,7 +1110,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XCV.\n    ",
+            "subtitle": "\n      O koronovániu krále Václava.\n    "
           },
           {
             "filename": "section0098.md",
@@ -930,7 +1121,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XCVI.\n    ",
+            "subtitle": "\n      (Nadpisu není.)\n    "
           },
           {
             "filename": "section0099.md",
@@ -939,7 +1132,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XCVII.\n    ",
+            "subtitle": "\n      Ote dvú králiú Václavú.\n    "
           },
           {
             "filename": "section0100.md",
@@ -948,7 +1143,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XCVIII.\n    ",
+            "subtitle": "\n      O mladém králiu Václavovi.\n    "
           },
           {
             "filename": "section0101.md",
@@ -957,7 +1154,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      XCIX.\n    ",
+            "subtitle": "\n      Ot Rudolta, krále českého.\n    "
           },
           {
             "filename": "section0102.md",
@@ -966,7 +1165,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      C.\n    ",
+            "subtitle": "\n      Ot vévody korutanského.\n    "
           },
           {
             "filename": "section0103.md",
@@ -975,7 +1176,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      CI.\n    ",
+            "subtitle": "\n      O smrti Albrechta, krále říšského.\n    "
           },
           {
             "filename": "section0104.md",
@@ -984,7 +1187,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      CII.\n    ",
+            "subtitle": "\n      O zlých obyčejích českých.\n    "
           },
           {
             "filename": "section0105.md",
@@ -993,7 +1198,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      CIII.\n    ",
+            "subtitle": "\n      O Korutanského potupení a o pražských měšťan volení.\n    "
           },
           {
             "filename": "section0106.md",
@@ -1002,7 +1209,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      CIV.\n    ",
+            "subtitle": "\n      O Míšeňských nemilosti.\n    "
           },
           {
             "filename": "section0107.md",
@@ -1011,7 +1220,9 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      CV.\n    ",
+            "subtitle": "\n      O veliké povodni v Čechách.\n    "
           },
           {
             "filename": "section0108.md",
@@ -1020,15 +1231,17 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "\n      CVI.\n    ",
+            "subtitle": "\n      Od Korutanského vypuzení a od krále Jana.\n    "
           },
           {
             "filename": "section0110.md",
             "xhtml": "Section0110.xhtml",
             "id": 110,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -1041,8 +1254,7 @@
       "identifier": "f796d2aa-d751-4509-aa55-547e24fd395b",
       "author": "Neznamy",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-02T13:43:10.583Z",
-      "languageCode": "cs"
+      "modified": "2021-11-02T13:53:09.056Z"
     },
     "chapters": [
       {
@@ -1064,644 +1276,644 @@
         "xhtml": "Section0109.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "\n      POČÍNÁ SĚ KRONIKA ČESKÁ\n\n      I.\n    ",
         "subtitleSuggest": "",
         "filename": "section0002.md",
         "xhtml": "Section0002.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        I.\n      ",
+        "subtitleSuggest": "\n        Od babylonské věže a o sedmi dcát jazyciech.\n      ",
         "filename": "section0003.md",
         "xhtml": "Section0003.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        II.\n      ",
+        "subtitleSuggest": "\n        O počátcě našeho jazyka v Čechách.\n      ",
         "filename": "section0004.md",
         "xhtml": "Section0004.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        III.\n      ",
+        "subtitleSuggest": "\n        Ot Libušina otce múdrého.\n      ",
         "filename": "section0005.md",
         "xhtml": "Section0005.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        IV.\n      ",
+        "subtitleSuggest": "\n        O Libušinu proročství.\n      ",
         "filename": "section0006.md",
         "xhtml": "Section0006.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        V.\n      ",
+        "subtitleSuggest": "\n        Od Přěmyslového nalezenie knězě.\n      ",
         "filename": "section0007.md",
         "xhtml": "Section0007.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        VI.\n      ",
+        "subtitleSuggest": "\n        O Přěmyslově zvoleniu.\n      ",
         "filename": "section0008.md",
         "xhtml": "Section0008.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        VII.\n      ",
+        "subtitleSuggest": "\n        (Nadpisu není.)\n      ",
         "filename": "section0009.md",
         "xhtml": "Section0009.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        VIII.\n      ",
+        "subtitleSuggest": "\n        O válče, ježto dievky s mužmi jmiechu.\n      ",
         "filename": "section0010.md",
         "xhtml": "Section0010.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        IX.\n      ",
+        "subtitleSuggest": "\n        Od Vlastiny múdré rady.\n      ",
         "filename": "section0011.md",
         "xhtml": "Section0011.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        X.\n      ",
+        "subtitleSuggest": "\n        O prvém dievčiem pleně.\n      ",
         "filename": "section0012.md",
         "xhtml": "Section0012.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XI.\n      ",
+        "subtitleSuggest": "\n        O mužském ostrabeniu a o Vyšehradě.\n      ",
         "filename": "section0013.md",
         "xhtml": "Section0013.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XII.\n      ",
+        "subtitleSuggest": "\n        O rozličných dievčích lestěch.\n      ",
         "filename": "section0014.md",
         "xhtml": "Section0014.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XIII.\n      ",
+        "subtitleSuggest": "\n        O Ctiradově zrádě.\n      ",
         "filename": "section0015.md",
         "xhtml": "Section0015.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XIV.\n      ",
+        "subtitleSuggest": "\n        (Nadpisu není.)\n      ",
         "filename": "section0016.md",
         "xhtml": "Section0016.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XV.\n      ",
+        "subtitleSuggest": "\n        O dievčiej smrti.\n      ",
         "filename": "section0017.md",
         "xhtml": "Section0017.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XVI.\n      ",
+        "subtitleSuggest": "\n        O Přěmyslovu osypániu.\n      ",
         "filename": "section0018.md",
         "xhtml": "Section0018.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XVII.\n      ",
+        "subtitleSuggest": "\n        Ot Neklaná múdrého.\n      ",
         "filename": "section0019.md",
         "xhtml": "Section0019.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XVIII.\n      ",
+        "subtitleSuggest": "\n        Od Vlastislava, žateckého kniežete.\n      ",
         "filename": "section0020.md",
         "xhtml": "Section0020.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XIX.\n      ",
+        "subtitleSuggest": "\n        O pražskej vědi.\n      ",
         "filename": "section0021.md",
         "xhtml": "Section0021.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XX.\n      ",
+        "subtitleSuggest": "\n        O turském boju.\n      ",
         "filename": "section0022.md",
         "xhtml": "Section0022.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXI.\n      ",
+        "subtitleSuggest": "\n        O smrti kniežete žatečského.\n      ",
         "filename": "section0023.md",
         "xhtml": "Section0023.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXII.\n      ",
+        "subtitleSuggest": "\n        Ot Hostivíta a od Děpolta.\n      ",
         "filename": "section0024.md",
         "xhtml": "Section0024.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXIII.\n      ",
+        "subtitleSuggest": "\n        Od Bořivoje, prvého křesťanského kniezete.\n      ",
         "filename": "section0025.md",
         "xhtml": "Section0025.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXIV.\n      ",
+        "subtitleSuggest": "\n        Od Svatopluka, moravského krále.\n      ",
         "filename": "section0026.md",
         "xhtml": "Section0026.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXV.\n      ",
+        "subtitleSuggest": "\n        Ot Vratislava, otce svatého Václava krále.\n      ",
         "filename": "section0027.md",
         "xhtml": "Section0027.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXVI.\n      ",
+        "subtitleSuggest": "\n        O svietiej Ludmile, prvej křesťance.\n      ",
         "filename": "section0028.md",
         "xhtml": "Section0028.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXVII.\n      ",
+        "subtitleSuggest": "\n        Od svatého Václava mateře.\n      ",
         "filename": "section0029.md",
         "xhtml": "Section0029.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXVIII.\n      ",
+        "subtitleSuggest": "\n        O knězi ličském.\n      ",
         "filename": "section0030.md",
         "xhtml": "Section0030.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXIX.\n      ",
+        "subtitleSuggest": "\n        Ot ciesařě a o sv. Václavovi.\n      ",
         "filename": "section0031.md",
         "xhtml": "Section0031.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXX.\n      ",
+        "subtitleSuggest": "\n        O závisti Boleslava.\n      ",
         "filename": "section0032.md",
         "xhtml": "Section0032.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXXI.\n      ",
+        "subtitleSuggest": "\n        (Nadpisu není.)\n      ",
         "filename": "section0033.md",
         "xhtml": "Section0033.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXXII.\n      ",
+        "subtitleSuggest": "\n        Od ščedrého Boleslava.\n      ",
         "filename": "section0034.md",
         "xhtml": "Section0034.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXXIII.\n      ",
+        "subtitleSuggest": "\n        Ot Boleslava skúpého, českého krále, i slepého.\n      ",
         "filename": "section0035.md",
         "xhtml": "Section0035.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXXIV.\n      ",
+        "subtitleSuggest": "\n        Ot Vršovičských nevěře a od knězě Mezky.\n      ",
         "filename": "section0036.md",
         "xhtml": "Section0036.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXXV.\n      ",
+        "subtitleSuggest": "\n        Kako sv. Jan Oldřicha zprostil.\n      ",
         "filename": "section0037.md",
         "xhtml": "Section0037.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXXVI.\n      ",
+        "subtitleSuggest": "\n        Kako Oldřich Prahy dobyl od Polan.\n      ",
         "filename": "section0038.md",
         "xhtml": "Section0038.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXXVII.\n      ",
+        "subtitleSuggest": "\n        Od svatých pěti bratří.\n      ",
         "filename": "section0039.md",
         "xhtml": "Section0039.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXXVIII.\n      ",
+        "subtitleSuggest": "\n        Od Oldřichovy Přimdy.\n      ",
         "filename": "section0040.md",
         "xhtml": "Section0040.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XXXIX.\n      ",
+        "subtitleSuggest": "\n        (Nadpisu není.)\n      ",
         "filename": "section0041.md",
         "xhtml": "Section0041.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XL.\n      ",
+        "subtitleSuggest": "\n        Ot Oldřicha šlechetného a ot Kochana nevěrného.\n      ",
         "filename": "section0042.md",
         "xhtml": "Section0042.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XLI.\n      ",
+        "subtitleSuggest": "\n        O sedlcě knieni Boženě.\n      ",
         "filename": "section0043.md",
         "xhtml": "Section0043.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XLII.\n      ",
+        "subtitleSuggest": "\n        Ot knězě Břečislava, zěti ciesařova.\n      ",
         "filename": "section0044.md",
         "xhtml": "Section0044.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XLIII.\n      ",
+        "subtitleSuggest": "\n        Ot svatého Vojtěcha přinesenie.\n      ",
         "filename": "section0045.md",
         "xhtml": "Section0045.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XLIV.\n      ",
+        "subtitleSuggest": "\n        (Nadpisu není.)\n      ",
         "filename": "section0046.md",
         "xhtml": "Section0046.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XLV.\n      ",
+        "subtitleSuggest": "\n        Ot biskupa Ekarda, rodiče Jutčina.\n      ",
         "filename": "section0047.md",
         "xhtml": "Section0047.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XLVI.\n      ",
+        "subtitleSuggest": "\n        Ot Zbyhněva, nepřietele němečského.\n      ",
         "filename": "section0048.md",
         "xhtml": "Section0048.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XLVII.\n      ",
+        "subtitleSuggest": "\n        Ot Vratislava, prvého krále českého\n      ",
         "filename": "section0049.md",
         "xhtml": "Section0049.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XLVIII.\n      ",
+        "subtitleSuggest": "\n        O najvyššiej cti prvého krále českého.\n      ",
         "filename": "section0050.md",
         "xhtml": "Section0050.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        XLIX.\n      ",
+        "subtitleSuggest": "\n        Ot Jarohněva biskupa, králova bratra.\n      ",
         "filename": "section0051.md",
         "xhtml": "Section0051.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n        L.\n      ",
+        "subtitleSuggest": "\n        O míšeňskej a o saskej vojně.\n      ",
         "filename": "section0052.md",
         "xhtml": "Section0052.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LI\n\n      \n    ",
+        "subtitleSuggest": "\n      Kak jesť král český připudil uherského krále.\n    ",
         "filename": "section0053.md",
         "xhtml": "Section0053.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LII.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0054.md",
         "xhtml": "Section0054.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LIII.\n    ",
+        "subtitleSuggest": "\n      Od prvého králova syna.\n    ",
         "filename": "section0055.md",
         "xhtml": "Section0055.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LIV.\n    ",
+        "subtitleSuggest": "\n      Ot Bračislava prvého krále smrti.\n    ",
         "filename": "section0056.md",
         "xhtml": "Section0056.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LV.\n    ",
+        "subtitleSuggest": "\n      Ot Bořivoje a od Svatopluka z Moravy.\n    ",
         "filename": "section0057.md",
         "xhtml": "Section0057.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LVI\n    ",
+        "subtitleSuggest": "\n      Kako sú Vršovici bradaticiú sěkli.\n    ",
         "filename": "section0058.md",
         "xhtml": "Section0058.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LVII\n    ",
+        "subtitleSuggest": "\n      Kako Svatopluk Uhry pobil a u Polás zabit byl.\n    ",
         "filename": "section0059.md",
         "xhtml": "Section0059.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LVIII.\n    ",
+        "subtitleSuggest": "\n      Ot Vladislavova boje a ot srbského knězě.\n    ",
         "filename": "section0060.md",
         "xhtml": "Section0060.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LIX.\n    ",
+        "subtitleSuggest": "\n      Kako ciesař u Praze na sudě seděl.\n    ",
         "filename": "section0061.md",
         "xhtml": "Section0061.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LX.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0062.md",
         "xhtml": "Section0062.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXI.\n    ",
+        "subtitleSuggest": "\n      Kak sú chtěli římský kostel vybiti.\n    ",
         "filename": "section0063.md",
         "xhtml": "Section0063.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXII.\n    ",
+        "subtitleSuggest": "\n      O dobrém Stepáně.\n    ",
         "filename": "section0064.md",
         "xhtml": "Section0064.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXIII.\n    ",
+        "subtitleSuggest": "\n      O Vladislavově a Bořivojově vypuzení.\n    ",
         "filename": "section0065.md",
         "xhtml": "Section0065.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXIV.\n    ",
+        "subtitleSuggest": "\n      O biskupově Heřmanově smrti.\n    ",
         "filename": "section0066.md",
         "xhtml": "Section0066.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXV.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0067.md",
         "xhtml": "Section0067.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXVI.\n    ",
+        "subtitleSuggest": "\n      O skončení sv. Prokopa opata.\n    ",
         "filename": "section0068.md",
         "xhtml": "Section0068.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXVII.\n    ",
+        "subtitleSuggest": "\n      Ot Soběslava, přietele českého.\n    ",
         "filename": "section0069.md",
         "xhtml": "Section0069.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXVIII.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0070.md",
         "xhtml": "Section0070.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXIX.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0071.md",
         "xhtml": "Section0071.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXX.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0072.md",
         "xhtml": "Section0072.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXI.\n    ",
+        "subtitleSuggest": "\n      Od Bedřicha a od Kunráta, Soběslavových synech, a ot Stanimira.\n    ",
         "filename": "section0073.md",
         "xhtml": "Section0073.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXII.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0074.md",
         "xhtml": "Section0074.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXIII.\n    ",
+        "subtitleSuggest": "\n      Kak jesť Morava svých kniežat zbyla a k Čechám přišla.\n    ",
         "filename": "section0075.md",
         "xhtml": "Section0075.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXIV.\n    ",
+        "subtitleSuggest": "\n      O českém boji s Němci.\n    ",
         "filename": "section0076.md",
         "xhtml": "Section0076.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXV.\n    ",
+        "subtitleSuggest": "\n      Ot vzdvíhánie sv. Prokopa opata.\n    ",
         "filename": "section0077.md",
         "xhtml": "Section0077.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXVI.\n    ",
+        "subtitleSuggest": "\n      Od přepusčenie krále Přěmysla třetieho.\n    ",
         "filename": "section0078.md",
         "xhtml": "Section0078.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXVII.\n    ",
+        "subtitleSuggest": "\n      O Děpoltově vypuzení, kniežěte kúřimského.\n    ",
         "filename": "section0079.md",
         "xhtml": "Section0079.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXVIII.\n    ",
+        "subtitleSuggest": "\n      O prvém králi Přěmyslu, jemužto ciesař Otakar vzdě.\n    ",
         "filename": "section0080.md",
         "xhtml": "Section0080.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXIX.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0081.md",
         "xhtml": "Section0081.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXX.\n    ",
+        "subtitleSuggest": "\n      Kak sú predikateři do Prahy přišli.\n    ",
         "filename": "section0082.md",
         "xhtml": "Section0082.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXXI.\n    ",
+        "subtitleSuggest": "\n      Ot Václava, krále čtvrtého českého.\n    ",
         "filename": "section0083.md",
         "xhtml": "Section0083.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXXII.\n    ",
+        "subtitleSuggest": "\n      O Kartasiech pohanských.\n    ",
         "filename": "section0084.md",
         "xhtml": "Section0084.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXXIII.\n    ",
+        "subtitleSuggest": "\n      O králiu Václavovi a o ciesařovi Bedřichovi.\n    ",
         "filename": "section0085.md",
         "xhtml": "Section0085.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXXIV.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0086.md",
         "xhtml": "Section0086.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXXV.\n    ",
+        "subtitleSuggest": "\n      O králově Václavově boju s synem.\n    ",
         "filename": "section0087.md",
         "xhtml": "Section0087.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXXVI.\n    ",
+        "subtitleSuggest": "\n      O křižovníciech a o židech.\n    ",
         "filename": "section0088.md",
         "xhtml": "Section0088.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXXVII.\n    ",
+        "subtitleSuggest": "\n      O světiej Zdislavě skončení svatém.\n    ",
         "filename": "section0089.md",
         "xhtml": "Section0089.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXXVIII.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0090.md",
         "xhtml": "Section0090.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      LXXXIX.\n    ",
+        "subtitleSuggest": "\n      Od druhého Přěmysla, krále pátého českého.\n    ",
         "filename": "section0091.md",
         "xhtml": "Section0091.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XC.\n    ",
+        "subtitleSuggest": "\n      O naháčích.\n    ",
         "filename": "section0092.md",
         "xhtml": "Section0092.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XCI.\n    ",
+        "subtitleSuggest": "\n      O uherském boji a o královéj Margarety rozvodu z Rakús.\n    ",
         "filename": "section0093.md",
         "xhtml": "Section0093.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XCII.\n    ",
+        "subtitleSuggest": "\n      Ot násilé, ješto král pánóm českým činil.\n    ",
         "filename": "section0094.md",
         "xhtml": "Section0094.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XCIII.\n    ",
+        "subtitleSuggest": "\n      Ot Rudolta, krále říského.\n    ",
         "filename": "section0095.md",
         "xhtml": "Section0095.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XCIV.\n    ",
+        "subtitleSuggest": "\n      Ot hlada, jenž byl po králově Přěmyslově smrti.\n    ",
         "filename": "section0096.md",
         "xhtml": "Section0096.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XCV.\n    ",
+        "subtitleSuggest": "\n      O koronovániu krále Václava.\n    ",
         "filename": "section0097.md",
         "xhtml": "Section0097.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XCVI.\n    ",
+        "subtitleSuggest": "\n      (Nadpisu není.)\n    ",
         "filename": "section0098.md",
         "xhtml": "Section0098.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XCVII.\n    ",
+        "subtitleSuggest": "\n      Ote dvú králiú Václavú.\n    ",
         "filename": "section0099.md",
         "xhtml": "Section0099.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XCVIII.\n    ",
+        "subtitleSuggest": "\n      O mladém králiu Václavovi.\n    ",
         "filename": "section0100.md",
         "xhtml": "Section0100.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      XCIX.\n    ",
+        "subtitleSuggest": "\n      Ot Rudolta, krále českého.\n    ",
         "filename": "section0101.md",
         "xhtml": "Section0101.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      C.\n    ",
+        "subtitleSuggest": "\n      Ot vévody korutanského.\n    ",
         "filename": "section0102.md",
         "xhtml": "Section0102.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      CI.\n    ",
+        "subtitleSuggest": "\n      O smrti Albrechta, krále říšského.\n    ",
         "filename": "section0103.md",
         "xhtml": "Section0103.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      CII.\n    ",
+        "subtitleSuggest": "\n      O zlých obyčejích českých.\n    ",
         "filename": "section0104.md",
         "xhtml": "Section0104.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      CIII.\n    ",
+        "subtitleSuggest": "\n      O Korutanského potupení a o pražských měšťan volení.\n    ",
         "filename": "section0105.md",
         "xhtml": "Section0105.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      CIV.\n    ",
+        "subtitleSuggest": "\n      O Míšeňských nemilosti.\n    ",
         "filename": "section0106.md",
         "xhtml": "Section0106.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      CV.\n    ",
+        "subtitleSuggest": "\n      O veliké povodni v Čechách.\n    ",
         "filename": "section0107.md",
         "xhtml": "Section0107.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "\n      CVI.\n    ",
+        "subtitleSuggest": "\n      Od Korutanského vypuzení a od krále Jana.\n    ",
         "filename": "section0108.md",
         "xhtml": "Section0108.xhtml"
       },
@@ -1763,6 +1975,6 @@
       "user": "books-are-next",
       "repo": "dalimilova-kronika"
     },
-    "generatedAt": 1635860591570
+    "generatedAt": 1635861189944
   }
 }
