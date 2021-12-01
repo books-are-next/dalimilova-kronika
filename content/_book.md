@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-11-02T13:43:10.583Z'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - index_split_000.html
   - section0002.html
   - section0003.html
   - section0004.html
