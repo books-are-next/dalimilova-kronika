@@ -1,0 +1,1669 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Dalimilova kronika",
+    "identifier": "f796d2aa-d751-4509-aa55-547e24fd395b",
+    "author": "Neznamy",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-12-01T21:14:54.567Z",
+    "cover": "obalka_dalimil.jpg",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/index_split_000.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0109.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0090.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0092.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0093.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0094.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0095.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0096.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0097.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0098.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0099.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0100.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0101.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0102.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0103.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0104.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0105.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0106.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0107.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0108.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0110.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "height": 1654,
+      "width": 1169,
+      "rel": "cover",
+      "href": "OEBPS/Images/obalka_dalimil.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    }
+  ],
+  "toc": [
+    {
+      "title": "POČÍNÁ SĚ KRONIKA ČESKÁ",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/Section0002.xhtml#heading_id_3"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/Section0002.xhtml#heading_id_4"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/Section0002.xhtml#heading_id_5"
+        },
+        {
+          "title": "IV.",
+          "href": "OEBPS/Text/Section0002.xhtml#heading_id_6"
+        }
+      ],
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "title": "I.",
+      "children": [
+        {
+          "title": "Od babylonské věže a o sedmi dcát jazyciech.",
+          "href": "OEBPS/Text/Section0003.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "title": "II.",
+      "children": [
+        {
+          "title": "O počátcě našeho jazyka v Čechách.",
+          "href": "OEBPS/Text/Section0004.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "title": "III.",
+      "children": [
+        {
+          "title": "Ot Libušina otce múdrého.",
+          "href": "OEBPS/Text/Section0005.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "title": "IV.",
+      "children": [
+        {
+          "title": "O Libušinu proročství.",
+          "href": "OEBPS/Text/Section0006.xhtml#heading_id_3"
+        },
+        {
+          "title": "O Libušinu koni, ježto Přěmysla přinesl.",
+          "href": "OEBPS/Text/Section0006.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "title": "V.",
+      "children": [
+        {
+          "title": "Od Přěmyslového nalezenie knězě.",
+          "href": "OEBPS/Text/Section0007.xhtml#heading_id_3"
+        },
+        {
+          "title": "Ot vzkvetlé otky Přěmyslovy.",
+          "href": "OEBPS/Text/Section0007.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "title": "VI.",
+      "children": [
+        {
+          "title": "O Přěmyslově zvoleniu.",
+          "href": "OEBPS/Text/Section0008.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "title": "VII.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0009.xhtml#heading_id_3"
+        },
+        {
+          "title": "O Praze založení.",
+          "href": "OEBPS/Text/Section0009.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "title": "VIII.",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "title": "IX.",
+      "children": [
+        {
+          "title": "Od Vlastiny múdré rady.",
+          "href": "OEBPS/Text/Section0011.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "title": "X.",
+      "children": [
+        {
+          "title": "O prvém dievčiem pleně.",
+          "href": "OEBPS/Text/Section0012.xhtml#heading_id_3"
+        },
+        {
+          "title": "Hajtmanice.",
+          "href": "OEBPS/Text/Section0012.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "title": "XI.",
+      "children": [
+        {
+          "title": "O mužském ostrabeniu a o Vyšehradě.",
+          "href": "OEBPS/Text/Section0013.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "title": "XII.",
+      "children": [
+        {
+          "title": "O rozličných dievčích lestěch.",
+          "href": "OEBPS/Text/Section0014.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "title": "XIII.",
+      "children": [
+        {
+          "title": "O Ctiradově zrádě.",
+          "href": "OEBPS/Text/Section0015.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "title": "XIV.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0016.xhtml#heading_id_3"
+        },
+        {
+          "title": "O mužskej lsti proti dievkám.",
+          "href": "OEBPS/Text/Section0016.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "title": "XV.",
+      "children": [
+        {
+          "title": "O dievčiej smrti.",
+          "href": "OEBPS/Text/Section0017.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "title": "XVI.",
+      "children": [
+        {
+          "title": "O Přěmyslovu osypániu.",
+          "href": "OEBPS/Text/Section0018.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "title": "XVII.",
+      "children": [
+        {
+          "title": "Ot Neklaná múdrého.",
+          "href": "OEBPS/Text/Section0019.xhtml#heading_id_3"
+        },
+        {
+          "title": "O Vlastislavovi.",
+          "href": "OEBPS/Text/Section0019.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "title": "XVIII.",
+      "children": [
+        {
+          "title": "Od Vlastislava, žateckého kniežete.",
+          "href": "OEBPS/Text/Section0020.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "title": "XIX.",
+      "children": [
+        {
+          "title": "O pražskej vědi.",
+          "href": "OEBPS/Text/Section0021.xhtml#heading_id_3"
+        },
+        {
+          "title": "O žatecké prorokyni.",
+          "href": "OEBPS/Text/Section0021.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "title": "XX.",
+      "children": [
+        {
+          "title": "O turském boju.",
+          "href": "OEBPS/Text/Section0022.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "title": "XXI.",
+      "children": [
+        {
+          "title": "O smrti kniežete žatečského.",
+          "href": "OEBPS/Text/Section0023.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "title": "XXII.",
+      "children": [
+        {
+          "title": "Ot Hostivíta a od Děpolta.",
+          "href": "OEBPS/Text/Section0024.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "title": "XXIII.",
+      "children": [
+        {
+          "title": "Od Bořivoje, prvého křesťanského kniezete.",
+          "href": "OEBPS/Text/Section0025.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "title": "XXIV.",
+      "children": [
+        {
+          "title": "Od Svatopluka, moravského krále.",
+          "href": "OEBPS/Text/Section0026.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "title": "XXV.",
+      "children": [
+        {
+          "title": "Ot Vratislava, otce svatého Václava krále.",
+          "href": "OEBPS/Text/Section0027.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0027.xhtml"
+    },
+    {
+      "title": "XXVI.",
+      "children": [
+        {
+          "title": "O svietiej Ludmile, prvej křesťance.",
+          "href": "OEBPS/Text/Section0028.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0028.xhtml"
+    },
+    {
+      "title": "XXVII.",
+      "children": [
+        {
+          "title": "Od svatého Václava mateře.",
+          "href": "OEBPS/Text/Section0029.xhtml#heading_id_3"
+        },
+        {
+          "title": "O svatém Václavovi kniežeti.",
+          "href": "OEBPS/Text/Section0029.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0029.xhtml"
+    },
+    {
+      "title": "XXVIII.",
+      "children": [
+        {
+          "title": "O knězi ličském.",
+          "href": "OEBPS/Text/Section0030.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0030.xhtml"
+    },
+    {
+      "title": "XXIX.",
+      "children": [
+        {
+          "title": "Ot ciesařě a o sv. Václavovi.",
+          "href": "OEBPS/Text/Section0031.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0031.xhtml"
+    },
+    {
+      "title": "XXX.",
+      "children": [
+        {
+          "title": "O závisti Boleslava.",
+          "href": "OEBPS/Text/Section0032.xhtml#heading_id_3"
+        },
+        {
+          "title": "Tuto Boleslav syna svého mnichem učinil.",
+          "href": "OEBPS/Text/Section0032.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0032.xhtml"
+    },
+    {
+      "title": "XXXI.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0033.xhtml#heading_id_3"
+        },
+        {
+          "title": "O diviech svatého Václava.",
+          "href": "OEBPS/Text/Section0033.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0033.xhtml"
+    },
+    {
+      "title": "XXXII.",
+      "children": [
+        {
+          "title": "Od ščedrého Boleslava.",
+          "href": "OEBPS/Text/Section0034.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0034.xhtml"
+    },
+    {
+      "title": "XXXIII.",
+      "children": [
+        {
+          "title": "Ot Boleslava skúpého, českého krále, i slepého.",
+          "href": "OEBPS/Text/Section0035.xhtml#heading_id_3"
+        },
+        {
+          "title": "Od Oldřicha a od Jaromira.",
+          "href": "OEBPS/Text/Section0035.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0035.xhtml"
+    },
+    {
+      "title": "XXXIV.",
+      "children": [
+        {
+          "title": "Ot Vršovičských nevěře a od knězě Mezky.",
+          "href": "OEBPS/Text/Section0036.xhtml#heading_id_3"
+        },
+        {
+          "title": "O Hřivcovi a Hovoře.",
+          "href": "OEBPS/Text/Section0036.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0036.xhtml"
+    },
+    {
+      "title": "XXXV.",
+      "children": [
+        {
+          "title": "Kako sv. Jan Oldřicha zprostil.",
+          "href": "OEBPS/Text/Section0037.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0037.xhtml"
+    },
+    {
+      "title": "XXXVI.",
+      "children": [
+        {
+          "title": "Kako Oldřich Prahy dobyl od Polan.",
+          "href": "OEBPS/Text/Section0038.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0038.xhtml"
+    },
+    {
+      "title": "XXXVII.",
+      "children": [
+        {
+          "title": "Od svatých pěti bratří.",
+          "href": "OEBPS/Text/Section0039.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0039.xhtml"
+    },
+    {
+      "title": "XXXVIII.",
+      "children": [
+        {
+          "title": "Od Oldřichovy Přimdy.",
+          "href": "OEBPS/Text/Section0040.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0040.xhtml"
+    },
+    {
+      "title": "XXXIX.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0041.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0041.xhtml"
+    },
+    {
+      "title": "XL.",
+      "children": [
+        {
+          "title": "Ot Oldřicha šlechetného a ot Kochana nevěrného.",
+          "href": "OEBPS/Text/Section0042.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0042.xhtml"
+    },
+    {
+      "title": "XLI.",
+      "children": [
+        {
+          "title": "O sedlcě knieni Boženě.",
+          "href": "OEBPS/Text/Section0043.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0043.xhtml"
+    },
+    {
+      "title": "XLII.",
+      "children": [
+        {
+          "title": "Ot knězě Břečislava, zěti ciesařova.",
+          "href": "OEBPS/Text/Section0044.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0044.xhtml"
+    },
+    {
+      "title": "XLIII.",
+      "children": [
+        {
+          "title": "Ot svatého Vojtěcha přinesenie.",
+          "href": "OEBPS/Text/Section0045.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0045.xhtml"
+    },
+    {
+      "title": "XLIV.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0046.xhtml#heading_id_3"
+        },
+        {
+          "title": "O Bračislavově boji s ciesařem.",
+          "href": "OEBPS/Text/Section0046.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0046.xhtml"
+    },
+    {
+      "title": "XLV.",
+      "children": [
+        {
+          "title": "Ot biskupa Ekarda, rodiče Jutčina.",
+          "href": "OEBPS/Text/Section0047.xhtml#heading_id_3"
+        },
+        {
+          "title": "O Břěčislavu boju s uherským králem.",
+          "href": "OEBPS/Text/Section0047.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0047.xhtml"
+    },
+    {
+      "title": "XLVI.",
+      "children": [
+        {
+          "title": "Ot Zbyhněva, nepřietele němečského.",
+          "href": "OEBPS/Text/Section0048.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0048.xhtml"
+    },
+    {
+      "title": "XLVII.",
+      "children": [
+        {
+          "title": "Ot Vratislava, prvého krále českého",
+          "href": "OEBPS/Text/Section0049.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0049.xhtml"
+    },
+    {
+      "title": "XLVIII.",
+      "children": [
+        {
+          "title": "O najvyššiej cti prvého krále českého.",
+          "href": "OEBPS/Text/Section0050.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0050.xhtml"
+    },
+    {
+      "title": "XLIX.",
+      "children": [
+        {
+          "title": "Ot Jarohněva biskupa, králova bratra.",
+          "href": "OEBPS/Text/Section0051.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0051.xhtml"
+    },
+    {
+      "title": "L.",
+      "children": [
+        {
+          "title": "O míšeňskej a o saskej vojně.",
+          "href": "OEBPS/Text/Section0052.xhtml#heading_id_3"
+        },
+        {
+          "title": "O knězi Břětislavovi a o Zderadovi.",
+          "href": "OEBPS/Text/Section0052.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0052.xhtml"
+    },
+    {
+      "title": "text",
+      "children": [
+        {
+          "title": "Kak jesť král český připudil uherského krále.",
+          "href": "OEBPS/Text/Section0053.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0053.xhtml"
+    },
+    {
+      "title": "LII.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0054.xhtml#heading_id_3"
+        },
+        {
+          "title": "O smrti Zderadově.",
+          "href": "OEBPS/Text/Section0054.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0054.xhtml"
+    },
+    {
+      "title": "LIII.",
+      "children": [
+        {
+          "title": "Od prvého králova syna.",
+          "href": "OEBPS/Text/Section0055.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0055.xhtml"
+    },
+    {
+      "title": "LIV.",
+      "children": [
+        {
+          "title": "Ot Bračislava prvého krále smrti.",
+          "href": "OEBPS/Text/Section0056.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0056.xhtml"
+    },
+    {
+      "title": "LV.",
+      "children": [
+        {
+          "title": "Ot Bořivoje a od Svatopluka z Moravy.",
+          "href": "OEBPS/Text/Section0057.xhtml#heading_id_3"
+        },
+        {
+          "title": "O králi čápovi nad žabami.",
+          "href": "OEBPS/Text/Section0057.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0057.xhtml"
+    },
+    {
+      "title": "LVI",
+      "children": [
+        {
+          "title": "Kako sú Vršovici bradaticiú sěkli.",
+          "href": "OEBPS/Text/Section0058.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0058.xhtml"
+    },
+    {
+      "title": "LVII",
+      "children": [
+        {
+          "title": "Kako Svatopluk Uhry pobil a u Polás zabit byl.",
+          "href": "OEBPS/Text/Section0059.xhtml#heading_id_3"
+        },
+        {
+          "title": "O Tistovi, zabil knězě.",
+          "href": "OEBPS/Text/Section0059.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0059.xhtml"
+    },
+    {
+      "title": "LVIII.",
+      "children": [
+        {
+          "title": "Ot Vladislavova boje a ot srbského knězě.",
+          "href": "OEBPS/Text/Section0060.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0060.xhtml"
+    },
+    {
+      "title": "LIX.",
+      "children": [
+        {
+          "title": "Kako ciesař u Praze na sudě seděl.",
+          "href": "OEBPS/Text/Section0061.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0061.xhtml"
+    },
+    {
+      "title": "LX.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0062.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0062.xhtml"
+    },
+    {
+      "title": "LXI.",
+      "children": [
+        {
+          "title": "Kak sú chtěli římský kostel vybiti.",
+          "href": "OEBPS/Text/Section0063.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0063.xhtml"
+    },
+    {
+      "title": "LXII.",
+      "children": [
+        {
+          "title": "O dobrém Stepáně.",
+          "href": "OEBPS/Text/Section0064.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0064.xhtml"
+    },
+    {
+      "title": "LXIII.",
+      "children": [
+        {
+          "title": "O Vladislavově a Bořivojově vypuzení.",
+          "href": "OEBPS/Text/Section0065.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0065.xhtml"
+    },
+    {
+      "title": "LXIV.",
+      "children": [
+        {
+          "title": "O biskupově Heřmanově smrti.",
+          "href": "OEBPS/Text/Section0066.xhtml#heading_id_3"
+        },
+        {
+          "title": "O prvém šlechetném Soběslavovi i o jeho boju",
+          "href": "OEBPS/Text/Section0066.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0066.xhtml"
+    },
+    {
+      "title": "LXV.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0067.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0067.xhtml"
+    },
+    {
+      "title": "LXVI.",
+      "children": [
+        {
+          "title": "O skončení sv. Prokopa opata.",
+          "href": "OEBPS/Text/Section0068.xhtml#heading_id_3"
+        },
+        {
+          "title": "Ot Vladislava, prvého krále českého.",
+          "href": "OEBPS/Text/Section0068.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0068.xhtml"
+    },
+    {
+      "title": "LXVII.",
+      "children": [
+        {
+          "title": "Ot Soběslava, přietele českého.",
+          "href": "OEBPS/Text/Section0069.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0069.xhtml"
+    },
+    {
+      "title": "LXVIII.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0070.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0070.xhtml"
+    },
+    {
+      "title": "LXIX.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0071.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0071.xhtml"
+    },
+    {
+      "title": "LXX.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0072.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0072.xhtml"
+    },
+    {
+      "title": "LXXI.",
+      "children": [
+        {
+          "title": "Od Bedřicha a od Kunráta, Soběslavových synech, a ot Stanimira.",
+          "href": "OEBPS/Text/Section0073.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0073.xhtml"
+    },
+    {
+      "title": "LXXII.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0074.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0074.xhtml"
+    },
+    {
+      "title": "LXXIII.",
+      "children": [
+        {
+          "title": "Kak jesť Morava svých kniežat zbyla a k Čechám přišla.",
+          "href": "OEBPS/Text/Section0075.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0075.xhtml"
+    },
+    {
+      "title": "LXXIV.",
+      "children": [
+        {
+          "title": "O českém boji s Němci.",
+          "href": "OEBPS/Text/Section0076.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0076.xhtml"
+    },
+    {
+      "title": "LXXV.",
+      "children": [
+        {
+          "title": "Ot vzdvíhánie sv. Prokopa opata.",
+          "href": "OEBPS/Text/Section0077.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0077.xhtml"
+    },
+    {
+      "title": "LXXVI.",
+      "children": [
+        {
+          "title": "Od přepusčenie krále Přěmysla třetieho.",
+          "href": "OEBPS/Text/Section0078.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0078.xhtml"
+    },
+    {
+      "title": "LXXVII.",
+      "children": [
+        {
+          "title": "O Děpoltově vypuzení, kniežěte kúřimského.",
+          "href": "OEBPS/Text/Section0079.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0079.xhtml"
+    },
+    {
+      "title": "LXXVIII.",
+      "children": [
+        {
+          "title": "O prvém králi Přěmyslu, jemužto ciesař Otakar vzdě.",
+          "href": "OEBPS/Text/Section0080.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0080.xhtml"
+    },
+    {
+      "title": "LXXIX.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0081.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0081.xhtml"
+    },
+    {
+      "title": "LXXX.",
+      "children": [
+        {
+          "title": "Kak sú predikateři do Prahy přišli.",
+          "href": "OEBPS/Text/Section0082.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0082.xhtml"
+    },
+    {
+      "title": "LXXXI.",
+      "children": [
+        {
+          "title": "Ot Václava, krále čtvrtého českého.",
+          "href": "OEBPS/Text/Section0083.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0083.xhtml"
+    },
+    {
+      "title": "LXXXII.",
+      "children": [
+        {
+          "title": "O Kartasiech pohanských.",
+          "href": "OEBPS/Text/Section0084.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0084.xhtml"
+    },
+    {
+      "title": "LXXXIII.",
+      "children": [
+        {
+          "title": "O králiu Václavovi a o ciesařovi Bedřichovi.",
+          "href": "OEBPS/Text/Section0085.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0085.xhtml"
+    },
+    {
+      "title": "LXXXIV.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0086.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0086.xhtml"
+    },
+    {
+      "title": "LXXXV.",
+      "children": [
+        {
+          "title": "O králově Václavově boju s synem.",
+          "href": "OEBPS/Text/Section0087.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0087.xhtml"
+    },
+    {
+      "title": "LXXXVI.",
+      "children": [
+        {
+          "title": "O křižovníciech a o židech.",
+          "href": "OEBPS/Text/Section0088.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0088.xhtml"
+    },
+    {
+      "title": "LXXXVII.",
+      "children": [
+        {
+          "title": "O světiej Zdislavě skončení svatém.",
+          "href": "OEBPS/Text/Section0089.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0089.xhtml"
+    },
+    {
+      "title": "LXXXVIII.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0090.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0090.xhtml"
+    },
+    {
+      "title": "LXXXIX.",
+      "children": [
+        {
+          "title": "Od druhého Přěmysla, krále pátého českého.",
+          "href": "OEBPS/Text/Section0091.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0091.xhtml"
+    },
+    {
+      "title": "XC.",
+      "children": [
+        {
+          "title": "O naháčích.",
+          "href": "OEBPS/Text/Section0092.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0092.xhtml"
+    },
+    {
+      "title": "XCI.",
+      "children": [
+        {
+          "title": "O uherském boji a o královéj Margarety rozvodu z Rakús.",
+          "href": "OEBPS/Text/Section0093.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0093.xhtml"
+    },
+    {
+      "title": "XCII.",
+      "children": [
+        {
+          "title": "Ot násilé, ješto král pánóm českým činil.",
+          "href": "OEBPS/Text/Section0094.xhtml#heading_id_3"
+        },
+        {
+          "title": "O Závišovi.",
+          "href": "OEBPS/Text/Section0094.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0094.xhtml"
+    },
+    {
+      "title": "XCIII.",
+      "children": [
+        {
+          "title": "Ot Rudolta, krále říského.",
+          "href": "OEBPS/Text/Section0095.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0095.xhtml"
+    },
+    {
+      "title": "XCIV.",
+      "children": [
+        {
+          "title": "Ot hlada, jenž byl po králově Přěmyslově smrti.",
+          "href": "OEBPS/Text/Section0096.xhtml#heading_id_3"
+        },
+        {
+          "title": "Ot krále Václava šestého.",
+          "href": "OEBPS/Text/Section0096.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0096.xhtml"
+    },
+    {
+      "title": "XCV.",
+      "children": [
+        {
+          "title": "O koronovániu krále Václava.",
+          "href": "OEBPS/Text/Section0097.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0097.xhtml"
+    },
+    {
+      "title": "XCVI.",
+      "children": [
+        {
+          "title": "(Nadpisu není.)",
+          "href": "OEBPS/Text/Section0098.xhtml#heading_id_3"
+        },
+        {
+          "title": "Ot Albrechta, krále jednookého.",
+          "href": "OEBPS/Text/Section0098.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0098.xhtml"
+    },
+    {
+      "title": "XCVII.",
+      "children": [
+        {
+          "title": "Ote dvú králiú Václavú.",
+          "href": "OEBPS/Text/Section0099.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0099.xhtml"
+    },
+    {
+      "title": "XCVIII.",
+      "children": [
+        {
+          "title": "O mladém králiu Václavovi.",
+          "href": "OEBPS/Text/Section0100.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0100.xhtml"
+    },
+    {
+      "title": "XCIX.",
+      "children": [
+        {
+          "title": "Ot Rudolta, krále českého.",
+          "href": "OEBPS/Text/Section0101.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0101.xhtml"
+    },
+    {
+      "title": "C.",
+      "children": [
+        {
+          "title": "Ot vévody korutanského.",
+          "href": "OEBPS/Text/Section0102.xhtml#heading_id_3"
+        },
+        {
+          "title": "O českém boji s Šváby.",
+          "href": "OEBPS/Text/Section0102.xhtml#heading_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/Section0102.xhtml"
+    },
+    {
+      "title": "CI.",
+      "children": [
+        {
+          "title": "O smrti Albrechta, krále říšského.",
+          "href": "OEBPS/Text/Section0103.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0103.xhtml"
+    },
+    {
+      "title": "CII.",
+      "children": [
+        {
+          "title": "O zlých obyčejích českých.",
+          "href": "OEBPS/Text/Section0104.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0104.xhtml"
+    },
+    {
+      "title": "CIII.",
+      "children": [
+        {
+          "title": "O Korutanského potupení a o pražských měšťan volení.",
+          "href": "OEBPS/Text/Section0105.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0105.xhtml"
+    },
+    {
+      "title": "CIV.",
+      "children": [
+        {
+          "title": "O Míšeňských nemilosti.",
+          "href": "OEBPS/Text/Section0106.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0106.xhtml"
+    },
+    {
+      "title": "CV.",
+      "children": [
+        {
+          "title": "O veliké povodni v Čechách.",
+          "href": "OEBPS/Text/Section0107.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0107.xhtml"
+    },
+    {
+      "title": "CVI.",
+      "children": [
+        {
+          "title": "Od Korutanského vypuzení a od krále Jana.",
+          "href": "OEBPS/Text/Section0108.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0108.xhtml"
+    }
+  ],
+  "landmarks": [
+    {
+      "title": "Cover",
+      "href": "OEBPS/Text/index_split_000.xhtml"
+    }
+  ]
+}
