@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XVII.
-        
-subtitle: |2-
-
-          Ot Neklaná múdrého.
+title: '         XVII\.       '
+subtitle: '         Ot Neklaná múdrého\.       '
+contentType: prose
 ---
 
 Neklaň vsta po Křěsomyslu,

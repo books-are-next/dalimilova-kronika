@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXV.
-        
-subtitle: |2-
-
-          Ot Vratislava, otce svatého Václava krále.
+title: '         XXV\.       '
+subtitle: '         Ot Vratislava, otce svatého Václava krále\.       '
+contentType: prose
 ---
 
 Potom Bořivoj s světa snide

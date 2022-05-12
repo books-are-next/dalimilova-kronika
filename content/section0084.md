@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXXII.
-      
-subtitle: |2-
-
-        O Kartasiech pohanských.
+title: '       LXXXII\.     '
+subtitle: '       O Kartasiech pohanských\.     '
+contentType: prose
 ---
 
 Léta ot narozenie Jezu Krista milostivého

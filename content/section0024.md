@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXII.
-        
-subtitle: |2-
-
-          Ot Hostivíta a od Děpolta.
+title: '         XXII\.       '
+subtitle: '         Ot Hostivíta a od Děpolta\.       '
+contentType: prose
 ---
 
 Neklaň dva syny jmějieše,

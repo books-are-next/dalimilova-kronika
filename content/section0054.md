@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LII.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LII\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Pak král počě pýchati,

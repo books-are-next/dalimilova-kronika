@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XCII.
-      
-subtitle: |2-
-
-        Ot násilé, ješto král pánóm českým činil.
+title: '       XCII\.     '
+subtitle: '       Ot násilé, ješto král pánóm českým činil\.     '
+contentType: prose
 ---
 
 Léta ot narozenie syna božieho

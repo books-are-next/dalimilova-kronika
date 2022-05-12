@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXIX.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LXXIX\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Pak na velikú rozkoš sě otdachu,

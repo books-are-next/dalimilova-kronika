@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        CV.
-      
-subtitle: |2-
-
-        O veliké povodni v Čechách.
+title: '       CV\.     '
+subtitle: '       O veliké povodni v Čechách\.     '
+contentType: prose
 ---
 
 Léta ot narozenie syna božieho

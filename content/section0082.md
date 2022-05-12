@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXX.
-      
-subtitle: |2-
-
-        Kak sú predikateři do Prahy přišli.
+title: '       LXXX\.     '
+subtitle: '       Kak sú predikateři do Prahy přišli\.     '
+contentType: prose
 ---
 
 Léta ot narozenie syna božieho

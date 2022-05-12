@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXII.
-      
-subtitle: |2-
-
-        O dobrém Stepáně.
+title: '       LXII\.     '
+subtitle: '       O dobrém Stepáně\.     '
+contentType: prose
 ---
 
 Ščepán, dobrý král uherský,

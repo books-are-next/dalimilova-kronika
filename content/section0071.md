@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXIX.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LXIX\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Potom zvolichu ciesaře jiného.

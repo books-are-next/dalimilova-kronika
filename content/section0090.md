@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXXVIII.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LXXXVIII\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Tehdy sě sta krále říšského volenie,

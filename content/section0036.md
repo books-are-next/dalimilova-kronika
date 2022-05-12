@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXXIV.
-        
-subtitle: |2-
-
-          Ot Vršovičských nevěře a od knězě Mezky.
+title: '         XXXIV\.       '
+subtitle: '         Ot Vršovičských nevěře a od knězě Mezky\.       '
+contentType: prose
 ---
 
 V tu dobu v zemi Vršovici najvěěší biechu,

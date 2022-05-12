@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        CII.
-      
-subtitle: |2-
-
-        O zlých obyčejích českých.
+title: '       CII\.     '
+subtitle: '       O zlých obyčejích českých\.     '
+contentType: prose
 ---
 
 Pak sě češčí páni zlých obyčějóv přijechu,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          III.
-        
-subtitle: |2-
-
-          Ot Libušina otce múdrého.
+title: '         III\.       '
+subtitle: '         Ot Libušina otce múdrého\.       '
+contentType: prose
 ---
 
 Když tomu mnohý minu rok,

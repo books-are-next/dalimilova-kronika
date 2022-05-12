@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXI.
-      
-subtitle: |2-
-
-        Od Bedřicha a od Kunráta, Soběslavových synech, a ot Stanimira.
+title: '       LXXI\.     '
+subtitle: '       Od Bedřicha a od Kunráta, Soběslavových synech, a ot Stanimira\.     '
+contentType: prose
 ---
 
 Tak ten šlechetný kněz snide,

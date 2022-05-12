@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          I.
-        
-subtitle: |2-
-
-          Od babylonské věže a o sedmi dcát jazyciech.
+title: '         I\.       '
+subtitle: '         Od babylonské věže a o sedmi dcát jazyciech\.       '
+contentType: prose
 ---
 
 Když vešken liud pro svú vinu

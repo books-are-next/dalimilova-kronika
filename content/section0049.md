@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XLVII.
-        
-subtitle: |2-
-
-          Ot Vratislava, prvého krále českého
+title: '         XLVII\.       '
+subtitle: '         Ot Vratislava, prvého krále českého       '
+contentType: prose
 ---
 
 Spytihněv s světa snide,

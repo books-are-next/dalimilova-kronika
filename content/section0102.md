@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        C.
-      
-subtitle: |2-
-
-        Ot vévody korutanského.
+title: '       C\.     '
+subtitle: '       Ot vévody korutanského\.     '
+contentType: prose
 ---
 
 Pak učinichu králem Jindřicha, knězě korutanského,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXIII.
-      
-subtitle: |2-
-
-        Kak jesť Morava svých kniežat zbyla a k Čechám přišla.
+title: '       LXXIII\.     '
+subtitle: '       Kak jesť Morava svých kniežat zbyla a k Čechám přišla\.     '
+contentType: prose
 ---
 
 Moravský kněz nerodi bratru slúžiti,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXV.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LXV\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Toho léta Polené v zemiu vnidú,

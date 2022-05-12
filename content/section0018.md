@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XVI.
-        
-subtitle: |2-
-
-          O Přěmyslovu osypániu.
+title: '         XVI\.       '
+subtitle: '         O Přěmyslovu osypániu\.       '
+contentType: prose
 ---
 
 Přěmysla na stolec vsadichu,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XIX.
-        
-subtitle: |2-
-
-          O pražskej vědi.
+title: '         XIX\.       '
+subtitle: '         O pražskej vědi\.       '
+contentType: prose
 ---
 
 Když Styr všě Pražany sebra,

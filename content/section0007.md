@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          V.
-        
-subtitle: |2-
-
-          Od Přěmyslového nalezenie knězě.
+title: '         V\.       '
+subtitle: '         Od Přěmyslového nalezenie knězě\.       '
+contentType: prose
 ---
 
 Páni po koniu pojedú,

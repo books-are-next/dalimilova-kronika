@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XCVI.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       XCVI\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Když král tomu násiliu v zemi býti přěpusti,

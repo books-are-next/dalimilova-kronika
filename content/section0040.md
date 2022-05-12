@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXXVIII.
-        
-subtitle: |2-
-
-          Od Oldřichovy Přimdy.
+title: '         XXXVIII\.       '
+subtitle: '         Od Oldřichovy Přimdy\.       '
+contentType: prose
 ---
 
 Tehdy sě sta, že kněz Oldřich lovieše

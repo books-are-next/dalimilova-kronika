@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XIII.
-        
-subtitle: |2-
-
-          O Ctiradově zrádě.
+title: '         XIII\.       '
+subtitle: '         O Ctiradově zrádě\.       '
+contentType: prose
 ---
 
 Jeden dobrý ostal bieše,

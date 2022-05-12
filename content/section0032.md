@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXX.
-        
-subtitle: |2-
-
-          O závisti Boleslava.
+title: '         XXX\.       '
+subtitle: '         O závisti Boleslava\.       '
+contentType: prose
 ---
 
 Bratr jeho je sě jemu záviděti,

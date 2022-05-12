@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XLIII.
-        
-subtitle: |2-
-
-          Ot svatého Vojtěcha přinesenie.
+title: '         XLIII\.       '
+subtitle: '         Ot svatého Vojtěcha přinesenie\.       '
+contentType: prose
 ---
 
 Pak kněz, chtě pomstiti děda svého,

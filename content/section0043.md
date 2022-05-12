@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XLI.
-        
-subtitle: |2-
-
-          O sedlcě knieni Boženě.
+title: '         XLI\.       '
+subtitle: '         O sedlcě knieni Boženě\.       '
+contentType: prose
 ---
 
 Kněz Oldřich o Postoloprtiech lovieše.

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXXIX.
-      
-subtitle: |2-
-
-        Od druhého Přěmysla, krále pátého českého.
+title: '       LXXXIX\.     '
+subtitle: '       Od druhého Přěmysla, krále pátého českého\.     '
+contentType: prose
 ---
 
 Toho léta král Václav snide,

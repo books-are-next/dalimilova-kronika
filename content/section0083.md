@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXXI.
-      
-subtitle: |2-
-
-        Ot Václava, krále čtvrtého českého.
+title: '       LXXXI\.     '
+subtitle: '       Ot Václava, krále čtvrtého českého\.     '
+contentType: prose
 ---
 
 Tehdy král Přěmysl Ottakar s světa snide,

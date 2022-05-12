@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXVII.
-      
-subtitle: |2-
-
-        O Děpoltově vypuzení, kniežěte kúřimského.
+title: '       LXXVII\.     '
+subtitle: '       O Děpoltově vypuzení, kniežěte kúřimského\.     '
+contentType: prose
 ---
 
 Tehdy kněz Děpolt zličský,

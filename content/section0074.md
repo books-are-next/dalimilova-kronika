@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXII.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LXXII\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Tehdy jeden kněžského pokolenie v Němcích bieše,

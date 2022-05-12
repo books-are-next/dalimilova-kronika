@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LVIII.
-      
-subtitle: |2-
-
-        Ot Vladislavova boje a ot srbského knězě.
+title: '       LVIII\.     '
+subtitle: '       Ot Vladislavova boje a ot srbského knězě\.     '
+contentType: prose
 ---
 
 Vladislav k ciesařiu jide,

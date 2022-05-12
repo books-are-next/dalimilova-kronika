@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XCIV.
-      
-subtitle: |2-
-
-        Ot hlada, jenž byl po králově Přěmyslově smrti.
+title: '       XCIV\.     '
+subtitle: '       Ot hlada, jenž byl po králově Přěmyslově smrti\.     '
+contentType: prose
 ---
 
 Po králově smrti na třetie léto

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XIV.
-        
-subtitle: |2-
-
-          (Nadpisu není.)
+title: '         XIV\.       '
+subtitle: '         (Nadpisu není\.)       '
+contentType: prose
 ---
 
 Tak zbychu toho Ctirada.

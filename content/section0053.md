@@ -1,13 +1,7 @@
 ---
-title: |2-
-
-        LI
-
-        
-      
-subtitle: |2-
-
-        Kak jesť král český připudil uherského krále.
+title: '       LI             '
+subtitle: '       Kak jesť král český připudil uherského krále\.     '
+contentType: prose
 ---
 
 Když ciesař jede na krále uherského,

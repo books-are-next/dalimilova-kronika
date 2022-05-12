@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LVII
-      
-subtitle: |2-
-
-        Kako Svatopluk Uhry pobil a u Polás zabit byl.
+title: '       LVII     '
+subtitle: '       Kako Svatopluk Uhry pobil a u Polás zabit byl\.     '
+contentType: prose
 ---
 
 Tehdy král uherský u Moravu vnide,

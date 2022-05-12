@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXV.
-      
-subtitle: |2-
-
-        Ot vzdvíhánie sv. Prokopa opata.
+title: '       LXXV\.     '
+subtitle: '       Ot vzdvíhánie sv\. Prokopa opata\.     '
+contentType: prose
 ---
 
 Léta ot narozenie syna božieho

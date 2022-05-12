@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXIII.
-      
-subtitle: |2-
-
-        O Vladislavově a Bořivojově vypuzení.
+title: '       LXIII\.     '
+subtitle: '       O Vladislavově a Bořivojově vypuzení\.     '
+contentType: prose
 ---
 
 Když Bořivoj knězěm bieše,

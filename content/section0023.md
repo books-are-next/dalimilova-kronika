@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXI.
-        
-subtitle: |2-
-
-          O smrti kniežete žatečského.
+title: '         XXI\.       '
+subtitle: '         O smrti kniežete žatečského\.       '
+contentType: prose
 ---
 
 Neklaň sě v Lucko uváza,

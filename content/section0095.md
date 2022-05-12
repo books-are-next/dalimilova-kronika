@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XCIII.
-      
-subtitle: |2-
-
-        Ot Rudolta, krále říského.
+title: '       XCIII\.     '
+subtitle: '       Ot Rudolta, krále říského\.     '
+contentType: prose
 ---
 
 Rudolt po boju do Čech pojide,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XCVIII.
-      
-subtitle: |2-
-
-        O mladém králiu Václavovi.
+title: '       XCVIII\.     '
+subtitle: '       O mladém králiu Václavovi\.     '
+contentType: prose
 ---
 
 Skóro po tom král Václav snide,

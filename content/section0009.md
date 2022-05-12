@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          VII.
-        
-subtitle: |2-
-
-          (Nadpisu není.)
+title: '         VII\.       '
+subtitle: '         (Nadpisu není\.)       '
+contentType: prose
 ---
 
 Jakž brzo Liubušě doje,

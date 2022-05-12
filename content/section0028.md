@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXVI.
-        
-subtitle: |2-
-
-          O svietiej Ludmile, prvej křesťance.
+title: '         XXVI\.       '
+subtitle: '         O svietiej Ludmile, prvej křesťance\.       '
+contentType: prose
 ---
 
 Svatá Liudmila knězěm vládieše,

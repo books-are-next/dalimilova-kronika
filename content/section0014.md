@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XII.
-        
-subtitle: |2-
-
-          O rozličných dievčích lestěch.
+title: '         XII\.       '
+subtitle: '         O rozličných dievčích lestěch\.       '
+contentType: prose
 ---
 
 Potom dachu sě dievky na rozličné lsti,

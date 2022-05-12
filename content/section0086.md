@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXXIV.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LXXXIV\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Král, přizvav Ojieřě hrdiny,

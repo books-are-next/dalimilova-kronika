@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXXVI.
-      
-subtitle: |2-
-
-        O křižovníciech a o židech.
+title: '       LXXXVI\.     '
+subtitle: '       O křižovníciech a o židech\.     '
+contentType: prose
 ---
 
 Tehdy křížovníci do Čech přišli běchu,

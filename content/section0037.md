@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXXV.
-        
-subtitle: |2-
-
-          Kako sv. Jan Oldřicha zprostil.
+title: '         XXXV\.       '
+subtitle: '         Kako sv\. Jan Oldřicha zprostil\.       '
+contentType: prose
 ---
 
 Kochan, zbyv tu hodinu,

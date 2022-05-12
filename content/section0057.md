@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LV.
-      
-subtitle: |2-
-
-        Ot Bořivoje a od Svatopluka z Moravy.
+title: '       LV\.     '
+subtitle: '       Ot Bořivoje a od Svatopluka z Moravy\.     '
+contentType: prose
 ---
 
 Zeměné poslachu po knězě Bořivoje moravského,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXVIII.
-        
-subtitle: |2-
-
-          O knězi ličském.
+title: '         XXVIII\.       '
+subtitle: '         O knězi ličském\.       '
+contentType: prose
 ---
 
 Uzřěv to kněz zličský Radislav,

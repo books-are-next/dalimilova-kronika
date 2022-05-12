@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LIX.
-      
-subtitle: |2-
-
-        Kako ciesař u Praze na sudě seděl.
+title: '       LIX\.     '
+subtitle: '       Kako ciesař u Praze na sudě seděl\.     '
+contentType: prose
 ---
 
 Vladislav je sě ciesařě prositi,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          X.
-        
-subtitle: |2-
-
-          O prvém dievčiem pleně.
+title: '         X\.       '
+subtitle: '         O prvém dievčiem pleně\.       '
+contentType: prose
 ---
 
 Když sě dievky svykú,

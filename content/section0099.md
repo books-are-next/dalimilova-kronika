@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XCVII.
-      
-subtitle: |2-
-
-        Ote dvú králiú Václavú.
+title: '       XCVII\.     '
+subtitle: '       Ote dvú králiú Václavú\.     '
+contentType: prose
 ---
 
 Král český syna Václava jmieše,

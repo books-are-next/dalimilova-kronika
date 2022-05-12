@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXIV.
-        
-subtitle: |2-
-
-          Od Svatopluka, moravského krále.
+title: '         XXIV\.       '
+subtitle: '         Od Svatopluka, moravského krále\.       '
+contentType: prose
 ---
 
 Tuto drbiu do moravské kroniky málo zajiti,

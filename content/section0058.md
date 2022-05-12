@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LVI
-      
-subtitle: |2-
-
-        Kako sú Vršovici bradaticiú sěkli.
+title: '       LVI     '
+subtitle: '       Kako sú Vršovici bradaticiú sěkli\.     '
+contentType: prose
 ---
 
 Ciesař kněziu na Uhry s sobú káza jíti,

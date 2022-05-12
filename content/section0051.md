@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XLIX.
-        
-subtitle: |2-
-
-          Ot Jarohněva biskupa, králova bratra.
+title: '         XLIX\.       '
+subtitle: '         Ot Jarohněva biskupa, králova bratra\.       '
+contentType: prose
 ---
 
 Biskup Šebieř s světa snide,

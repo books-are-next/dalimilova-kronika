@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          VIII.
-        
-subtitle: |2-
-
-          O válče, ježto dievky s mužmi jmiechu.
+title: '         VIII\.       '
+subtitle: '         O válče, ježto dievky s mužmi jmiechu\.       '
+contentType: prose
 ---
 
 Skončě svój život Liubušě,

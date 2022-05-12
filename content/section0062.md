@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LX.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LX\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Vacek je sě knězě učiti,

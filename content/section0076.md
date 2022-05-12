@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXIV.
-      
-subtitle: |2-
-
-        O českém boji s Němci.
+title: '       LXXIV\.     '
+subtitle: '       O českém boji s Němci\.     '
+contentType: prose
 ---
 
 Toho léta kněz Bedřich s světa snide,
