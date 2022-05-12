@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          IV.
-        
-subtitle: |2-
-
-          O Libušinu proročství.
+title: '         IV\.       '
+subtitle: '         O Libušinu proročství\.       '
+contentType: prose
 ---
 
 T’dy Liubušě otpovědě,

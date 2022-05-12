@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          II.
-        
-subtitle: |2-
-
-          O počátcě našeho jazyka v Čechách.
+title: '         II\.       '
+subtitle: '         O počátcě našeho jazyka v Čechách\.       '
+contentType: prose
 ---
 
 V srbském jazyku jest země

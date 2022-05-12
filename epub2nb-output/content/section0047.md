@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XLV.
-        
-subtitle: |2-
-
-          Ot biskupa Ekarda, rodiče Jutčina.
+title: '         XLV\.       '
+subtitle: '         Ot biskupa Ekarda, rodiče Jutčina\.       '
+contentType: prose
 ---
 
 Knieni Jutka učini biskupem rodicě svého,

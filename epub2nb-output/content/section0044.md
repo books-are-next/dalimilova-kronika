@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XLII.
-        
-subtitle: |2-
-
-          Ot knězě Břečislava, zěti ciesařova.
+title: '         XLII\.       '
+subtitle: '         Ot knězě Břečislava, zěti ciesařova\.       '
+contentType: prose
 ---
 
 Potom kněz Oldřich s světa snide,

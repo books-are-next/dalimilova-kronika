@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        CI.
-      
-subtitle: |2-
-
-        O smrti Albrechta, krále říšského.
+title: '       CI\.     '
+subtitle: '       O smrti Albrechta, krále říšského\.     '
+contentType: prose
 ---
 
 Na léto vrah český, Albrecht, do Čech počě jíti,

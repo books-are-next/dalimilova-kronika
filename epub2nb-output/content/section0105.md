@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        CIII.
-      
-subtitle: |2-
-
-        O Korutanského potupení a o pražských měšťan volení.
+title: '       CIII\.     '
+subtitle: '       O Korutanského potupení a o pražských měšťan volení\.     '
+contentType: prose
 ---
 
 Kněz ot pánóv u potupě bieše,

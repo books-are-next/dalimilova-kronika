@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXIX.
-        
-subtitle: |2-
-
-          Ot ciesařě a o sv. Václavovi.
+title: '         XXIX\.       '
+subtitle: '         Ot ciesařě a o sv\. Václavovi\.       '
+contentType: prose
 ---
 
 Sta sě, že ciesař pozva kniežat k dvoru,

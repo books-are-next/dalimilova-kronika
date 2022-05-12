@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XV.
-        
-subtitle: |2-
-
-          O dievčiej smrti.
+title: '         XV\.       '
+subtitle: '         O dievčiej smrti\.       '
+contentType: prose
 ---
 
 Když to uslyšě Vlasta liuticě,

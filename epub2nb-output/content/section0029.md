@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXVII.
-        
-subtitle: |2-
-
-          Od svatého Václava mateře.
+title: '         XXVII\.       '
+subtitle: '         Od svatého Václava mateře\.       '
+contentType: prose
 ---
 
 Drahomiř sě v syna uváza,

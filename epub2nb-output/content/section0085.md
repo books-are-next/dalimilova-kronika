@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXXIII.
-      
-subtitle: |2-
-
-        O králiu Václavovi a o ciesařovi Bedřichovi.
+title: '       LXXXIII\.     '
+subtitle: '       O králiu Václavovi a o ciesařovi Bedřichovi\.     '
+contentType: prose
 ---
 
 Ciesař Bedřich poslední snem zapovědě.

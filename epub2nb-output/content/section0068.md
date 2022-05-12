@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXVI.
-      
-subtitle: |2-
-
-        O skončení sv. Prokopa opata.
+title: '       LXVI\.     '
+subtitle: '       O skončení sv\. Prokopa opata\.     '
+contentType: prose
 ---
 
 Léta ot narozenie syna božieho

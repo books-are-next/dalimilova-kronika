@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXIV.
-      
-subtitle: |2-
-
-        O biskupově Heřmanově smrti.
+title: '       LXIV\.     '
+subtitle: '       O biskupově Heřmanově smrti\.     '
+contentType: prose
 ---
 
 Biskup Heřman s světa snide;

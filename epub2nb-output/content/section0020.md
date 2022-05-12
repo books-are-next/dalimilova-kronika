@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XVIII.
-        
-subtitle: |2-
-
-          Od Vlastislava, žateckého kniežete.
+title: '         XVIII\.       '
+subtitle: '         Od Vlastislava, žateckého kniežete\.       '
+contentType: prose
 ---
 
 Vlastislav na vojnu zapovědě,

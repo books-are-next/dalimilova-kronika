@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XI.
-        
-subtitle: |2-
-
-          O mužském ostrabeniu a o Vyšehradě.
+title: '         XI\.       '
+subtitle: '         O mužském ostrabeniu a o Vyšehradě\.       '
+contentType: prose
 ---
 
 Po pól létu mužie sě ostrabichu,

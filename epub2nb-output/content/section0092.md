@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XC.
-      
-subtitle: |2-
-
-        O naháčích.
+title: '       XC\.     '
+subtitle: '       O naháčích\.     '
+contentType: prose
 ---
 
 Léta ot narozenie syna božieho

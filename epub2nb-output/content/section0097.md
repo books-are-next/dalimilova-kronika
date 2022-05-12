@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XCV.
-      
-subtitle: |2-
-
-        O koronovániu krále Václava.
+title: '       XCV\.     '
+subtitle: '       O koronovániu krále Václava\.     '
+contentType: prose
 ---
 
 Pak kněz Václav přije koronu královstvie českého,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXVII.
-      
-subtitle: |2-
-
-        Ot Soběslava, přietele českého.
+title: '       LXVII\.     '
+subtitle: '       Ot Soběslava, přietele českého\.     '
+contentType: prose
 ---
 
 Po králiu syn jeho Soběslav knězěm bieše.

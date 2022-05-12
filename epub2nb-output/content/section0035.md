@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXXIII.
-        
-subtitle: |2-
-
-          Ot Boleslava skúpého, českého krále, i slepého.
+title: '         XXXIII\.       '
+subtitle: '         Ot Boleslava skúpého, českého krále, i slepého\.       '
+contentType: prose
 ---
 
 Pak svatý a šlechetný Boleslav snide,

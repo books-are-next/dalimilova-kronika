@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        CIV.
-      
-subtitle: |2-
-
-        O Míšeňských nemilosti.
+title: '       CIV\.     '
+subtitle: '       O Míšeňských nemilosti\.     '
+contentType: prose
 ---
 
 Pak té nemúdrosti kněz sě dopusti,

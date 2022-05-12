@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LIV.
-      
-subtitle: |2-
-
-        Ot Bračislava prvého krále smrti.
+title: '       LIV\.     '
+subtitle: '       Ot Bračislava prvého krále smrti\.     '
+contentType: prose
 ---
 
 Tehdy Božěj a Mutyně Vršovici,

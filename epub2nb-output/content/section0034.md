@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXXII.
-        
-subtitle: |2-
-
-          Od ščedrého Boleslava.
+title: '         XXXII\.       '
+subtitle: '         Od ščedrého Boleslava\.       '
+contentType: prose
 ---
 
 Pak Boleslav Hutí snide,

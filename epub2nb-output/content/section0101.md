@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XCIX.
-      
-subtitle: |2-
-
-        Ot Rudolta, krále českého.
+title: '       XCIX\.     '
+subtitle: '       Ot Rudolta, krále českého\.     '
+contentType: prose
 ---
 
 Co-ť pak Čechy učinichu!

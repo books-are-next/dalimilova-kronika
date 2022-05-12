@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXVIII.
-      
-subtitle: |2-
-
-        O prvém králi Přěmyslu, jemužto ciesař Otakar vzdě.
+title: '       LXXVIII\.     '
+subtitle: '       O prvém králi Přěmyslu, jemužto ciesař Otakar vzdě\.     '
+contentType: prose
 ---
 
 Ciesař Otta na Sasy jide,

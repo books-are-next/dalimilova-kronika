@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXXIX.
-        
-subtitle: |2-
-
-          (Nadpisu není.)
+title: '         XXXIX\.       '
+subtitle: '         (Nadpisu není\.)       '
+contentType: prose
 ---
 
 Proč ten hrad byl u púšči postaven,

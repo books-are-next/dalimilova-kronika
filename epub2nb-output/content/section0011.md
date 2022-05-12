@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          IX.
-        
-subtitle: |2-
-
-          Od Vlastiny múdré rady.
+title: '         IX\.       '
+subtitle: '         Od Vlastiny múdré rady\.       '
+contentType: prose
 ---
 
 Když dievky ot otcóv sě brachu,

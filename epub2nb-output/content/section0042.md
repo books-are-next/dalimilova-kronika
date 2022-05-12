@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XL.
-        
-subtitle: |2-
-
-          Ot Oldřicha šlechetného a ot Kochana nevěrného.
+title: '         XL\.       '
+subtitle: '         Ot Oldřicha šlechetného a ot Kochana nevěrného\.       '
+contentType: prose
 ---
 
 Kněz Oldřich, rozpomanuv na smrť bratra svého,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          L.
-        
-subtitle: |2-
-
-          O míšeňskej a o saskej vojně.
+title: '         L\.       '
+subtitle: '         O míšeňskej a o saskej vojně\.       '
+contentType: prose
 ---
 
 Potom král pro knězě moravského

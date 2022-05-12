@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XLVI.
-        
-subtitle: |2-
-
-          Ot Zbyhněva, nepřietele němečského.
+title: '         XLVI\.       '
+subtitle: '         Ot Zbyhněva, nepřietele němečského\.       '
+contentType: prose
 ---
 
 Po tom by knězěm syn jeho Spytihněv,

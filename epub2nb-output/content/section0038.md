@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXXVI.
-        
-subtitle: |2-
-
-          Kako Oldřich Prahy dobyl od Polan.
+title: '         XXXVI\.       '
+subtitle: '         Kako Oldřich Prahy dobyl od Polan\.       '
+contentType: prose
 ---
 
 Ke kněziu sě věrní sebrachu,

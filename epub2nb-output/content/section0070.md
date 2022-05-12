@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXVIII.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LXVIII\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Ciesař chtieše Němcóv mstíti,

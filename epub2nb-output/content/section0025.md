@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXIII.
-        
-subtitle: |2-
-
-          Od Bořivoje, prvého křesťanského kniezete.
+title: '         XXIII\.       '
+subtitle: '         Od Bořivoje, prvého křesťanského kniezete\.       '
+contentType: prose
 ---
 
 Kněz Hostivít potom snide,

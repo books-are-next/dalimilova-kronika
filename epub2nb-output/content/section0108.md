@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        CVI.
-      
-subtitle: |2-
-
-        Od Korutanského vypuzení a od krále Jana.
+title: '       CVI\.     '
+subtitle: '       Od Korutanského vypuzení a od krále Jana\.     '
+contentType: prose
 ---
 
 Po tom, když Čechy uzřěchu,

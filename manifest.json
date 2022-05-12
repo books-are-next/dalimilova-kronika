@@ -1,24 +1,136 @@
 {
-  "author": "",
-  "edition": "beletrie",
-  "identifier": "dalimilova-kronika-f88986f",
-  "languagecode": "cs",
-  "modified": "2021-11-02T13:43:10.583Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Dalimilova kronika",
-  "revision": "f88986f",
+  "author": "",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "dalimilova-kronika-db30962",
+  "revision": "db30962",
+  "readingOrder": [
+    "section0002.html",
+    "section0003.html",
+    "section0004.html",
+    "section0005.html",
+    "section0006.html",
+    "section0007.html",
+    "section0008.html",
+    "section0009.html",
+    "section0010.html",
+    "section0011.html",
+    "section0012.html",
+    "section0013.html",
+    "section0014.html",
+    "section0015.html",
+    "section0016.html",
+    "section0017.html",
+    "section0018.html",
+    "section0019.html",
+    "section0020.html",
+    "section0021.html",
+    "section0022.html",
+    "section0023.html",
+    "section0024.html",
+    "section0025.html",
+    "section0026.html",
+    "section0027.html",
+    "section0028.html",
+    "section0029.html",
+    "section0030.html",
+    "section0031.html",
+    "section0032.html",
+    "section0033.html",
+    "section0034.html",
+    "section0035.html",
+    "section0036.html",
+    "section0037.html",
+    "section0038.html",
+    "section0039.html",
+    "section0040.html",
+    "section0041.html",
+    "section0042.html",
+    "section0043.html",
+    "section0044.html",
+    "section0045.html",
+    "section0046.html",
+    "section0047.html",
+    "section0048.html",
+    "section0049.html",
+    "section0050.html",
+    "section0051.html",
+    "section0052.html",
+    "section0053.html",
+    "section0054.html",
+    "section0055.html",
+    "section0056.html",
+    "section0057.html",
+    "section0058.html",
+    "section0059.html",
+    "section0060.html",
+    "section0061.html",
+    "section0062.html",
+    "section0063.html",
+    "section0064.html",
+    "section0065.html",
+    "section0066.html",
+    "section0067.html",
+    "section0068.html",
+    "section0069.html",
+    "section0070.html",
+    "section0071.html",
+    "section0072.html",
+    "section0073.html",
+    "section0074.html",
+    "section0075.html",
+    "section0076.html",
+    "section0077.html",
+    "section0078.html",
+    "section0079.html",
+    "section0080.html",
+    "section0081.html",
+    "section0082.html",
+    "section0083.html",
+    "section0084.html",
+    "section0085.html",
+    "section0086.html",
+    "section0087.html",
+    "section0088.html",
+    "section0089.html",
+    "section0090.html",
+    "section0091.html",
+    "section0092.html",
+    "section0093.html",
+    "section0094.html",
+    "section0095.html",
+    "section0096.html",
+    "section0097.html",
+    "section0098.html",
+    "section0099.html",
+    "section0100.html",
+    "section0101.html",
+    "section0102.html",
+    "section0103.html",
+    "section0104.html",
+    "section0105.html",
+    "section0106.html",
+    "section0107.html",
+    "section0108.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 17:11:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638465062246
+    "date": "Thu May 12 2022 10:37:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351829463
   },
   "documents": [
     {
-      "title": "\n      POČÍNÁ SĚ KRONIKA ČESKÁ\n\n      I.\n     • Dalimilova kronika",
+      "title": " POČÍNÁ SĚ KRONIKA ČESKÁ I\\.  ",
       "file": "section0002.html",
-      "words": 350,
-      "chars": 1915,
-      "ideas": 67,
+      "words": 352,
+      "chars": 1932,
+      "ideas": 66,
       "role": "chapter",
       "order": 0,
       "prev": null,
@@ -27,17 +139,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "POČÍNÁ SĚ KRONIKA ČESKÁ\nI.",
+          "name": "POČÍNÁ SĚ KRONIKA ČESKÁ        I\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        I.\n       • Dalimilova kronika",
+      "title": " I\\.  ",
       "file": "section0003.html",
-      "words": 149,
-      "chars": 829,
+      "words": 151,
+      "chars": 842,
       "ideas": 33,
       "role": "chapter",
       "order": 1,
@@ -47,17 +159,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "I.",
+          "name": "I\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        II.\n       • Dalimilova kronika",
+      "title": " II\\.  ",
       "file": "section0004.html",
-      "words": 301,
-      "chars": 1617,
+      "words": 303,
+      "chars": 1630,
       "ideas": 61,
       "role": "chapter",
       "order": 2,
@@ -67,17 +179,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "II.",
+          "name": "II\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        III.\n       • Dalimilova kronika",
+      "title": " III\\.  ",
       "file": "section0005.html",
-      "words": 223,
-      "chars": 1252,
+      "words": 225,
+      "chars": 1265,
       "ideas": 49,
       "role": "chapter",
       "order": 3,
@@ -87,17 +199,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "III.",
+          "name": "III\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        IV.\n       • Dalimilova kronika",
+      "title": " IV\\.  ",
       "file": "section0006.html",
-      "words": 243,
-      "chars": 1372,
+      "words": 245,
+      "chars": 1385,
       "ideas": 46,
       "role": "chapter",
       "order": 4,
@@ -107,17 +219,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "IV.",
+          "name": "IV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        V.\n       • Dalimilova kronika",
+      "title": " V\\.  ",
       "file": "section0007.html",
-      "words": 235,
-      "chars": 1255,
+      "words": 237,
+      "chars": 1268,
       "ideas": 44,
       "role": "chapter",
       "order": 5,
@@ -127,17 +239,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "V.",
+          "name": "V\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        VI.\n       • Dalimilova kronika",
+      "title": " VI\\.  ",
       "file": "section0008.html",
-      "words": 111,
-      "chars": 618,
+      "words": 113,
+      "chars": 631,
       "ideas": 25,
       "role": "chapter",
       "order": 6,
@@ -147,17 +259,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "VI.",
+          "name": "VI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        VII.\n       • Dalimilova kronika",
+      "title": " VII\\.  ",
       "file": "section0009.html",
-      "words": 147,
-      "chars": 836,
+      "words": 149,
+      "chars": 849,
       "ideas": 32,
       "role": "chapter",
       "order": 7,
@@ -167,17 +279,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "VII.",
+          "name": "VII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        VIII.\n       • Dalimilova kronika",
+      "title": " VIII\\.  ",
       "file": "section0010.html",
-      "words": 261,
-      "chars": 1449,
+      "words": 263,
+      "chars": 1462,
       "ideas": 48,
       "role": "chapter",
       "order": 8,
@@ -187,17 +299,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "VIII.",
+          "name": "VIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        IX.\n       • Dalimilova kronika",
+      "title": " IX\\.  ",
       "file": "section0011.html",
-      "words": 108,
-      "chars": 564,
+      "words": 110,
+      "chars": 577,
       "ideas": 23,
       "role": "chapter",
       "order": 9,
@@ -207,17 +319,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "IX.",
+          "name": "IX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        X.\n       • Dalimilova kronika",
+      "title": " X\\.  ",
       "file": "section0012.html",
-      "words": 522,
-      "chars": 2911,
+      "words": 524,
+      "chars": 2924,
       "ideas": 96,
       "role": "chapter",
       "order": 10,
@@ -227,17 +339,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "X.",
+          "name": "X\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XI.\n       • Dalimilova kronika",
+      "title": " XI\\.  ",
       "file": "section0013.html",
-      "words": 241,
-      "chars": 1377,
+      "words": 243,
+      "chars": 1390,
       "ideas": 47,
       "role": "chapter",
       "order": 11,
@@ -247,17 +359,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XI.",
+          "name": "XI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XII.\n       • Dalimilova kronika",
+      "title": " XII\\.  ",
       "file": "section0014.html",
-      "words": 192,
-      "chars": 1068,
+      "words": 194,
+      "chars": 1081,
       "ideas": 36,
       "role": "chapter",
       "order": 12,
@@ -267,17 +379,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XII.",
+          "name": "XII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XIII.\n       • Dalimilova kronika",
+      "title": " XIII\\.  ",
       "file": "section0015.html",
-      "words": 251,
-      "chars": 1350,
+      "words": 253,
+      "chars": 1363,
       "ideas": 49,
       "role": "chapter",
       "order": 13,
@@ -287,17 +399,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XIII.",
+          "name": "XIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XIV.\n       • Dalimilova kronika",
+      "title": " XIV\\.  ",
       "file": "section0016.html",
-      "words": 209,
-      "chars": 1153,
+      "words": 211,
+      "chars": 1166,
       "ideas": 42,
       "role": "chapter",
       "order": 14,
@@ -307,17 +419,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XIV.",
+          "name": "XIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XV.\n       • Dalimilova kronika",
+      "title": " XV\\.  ",
       "file": "section0017.html",
-      "words": 249,
-      "chars": 1357,
+      "words": 251,
+      "chars": 1370,
       "ideas": 49,
       "role": "chapter",
       "order": 15,
@@ -327,17 +439,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XV.",
+          "name": "XV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XVI.\n       • Dalimilova kronika",
+      "title": " XVI\\.  ",
       "file": "section0018.html",
-      "words": 89,
-      "chars": 523,
+      "words": 91,
+      "chars": 536,
       "ideas": 19,
       "role": "chapter",
       "order": 16,
@@ -347,17 +459,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XVI.",
+          "name": "XVI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XVII.\n       • Dalimilova kronika",
+      "title": " XVII\\.  ",
       "file": "section0019.html",
-      "words": 196,
-      "chars": 1162,
+      "words": 198,
+      "chars": 1175,
       "ideas": 42,
       "role": "chapter",
       "order": 17,
@@ -367,17 +479,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XVII.",
+          "name": "XVII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XVIII.\n       • Dalimilova kronika",
+      "title": " XVIII\\.  ",
       "file": "section0020.html",
-      "words": 240,
-      "chars": 1276,
+      "words": 242,
+      "chars": 1289,
       "ideas": 43,
       "role": "chapter",
       "order": 18,
@@ -387,17 +499,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XVIII.",
+          "name": "XVIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XIX.\n       • Dalimilova kronika",
+      "title": " XIX\\.  ",
       "file": "section0021.html",
-      "words": 200,
-      "chars": 1087,
+      "words": 202,
+      "chars": 1100,
       "ideas": 42,
       "role": "chapter",
       "order": 19,
@@ -407,17 +519,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XIX.",
+          "name": "XIX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XX.\n       • Dalimilova kronika",
+      "title": " XX\\.  ",
       "file": "section0022.html",
-      "words": 205,
-      "chars": 1071,
+      "words": 207,
+      "chars": 1084,
       "ideas": 39,
       "role": "chapter",
       "order": 20,
@@ -427,17 +539,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XX.",
+          "name": "XX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXI.\n       • Dalimilova kronika",
+      "title": " XXI\\.  ",
       "file": "section0023.html",
-      "words": 351,
-      "chars": 1922,
+      "words": 353,
+      "chars": 1935,
       "ideas": 65,
       "role": "chapter",
       "order": 21,
@@ -447,17 +559,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXI.",
+          "name": "XXI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXII.\n       • Dalimilova kronika",
+      "title": " XXII\\.  ",
       "file": "section0024.html",
-      "words": 206,
-      "chars": 1197,
+      "words": 208,
+      "chars": 1210,
       "ideas": 42,
       "role": "chapter",
       "order": 22,
@@ -467,17 +579,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXII.",
+          "name": "XXII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXIII.\n       • Dalimilova kronika",
+      "title": " XXIII\\.  ",
       "file": "section0025.html",
-      "words": 166,
-      "chars": 978,
+      "words": 168,
+      "chars": 991,
       "ideas": 33,
       "role": "chapter",
       "order": 23,
@@ -487,17 +599,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXIII.",
+          "name": "XXIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXIV.\n       • Dalimilova kronika",
+      "title": " XXIV\\.  ",
       "file": "section0026.html",
-      "words": 335,
-      "chars": 1830,
+      "words": 337,
+      "chars": 1843,
       "ideas": 59,
       "role": "chapter",
       "order": 24,
@@ -507,17 +619,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXIV.",
+          "name": "XXIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXV.\n       • Dalimilova kronika",
+      "title": " XXV\\.  ",
       "file": "section0027.html",
-      "words": 170,
-      "chars": 1028,
+      "words": 172,
+      "chars": 1041,
       "ideas": 37,
       "role": "chapter",
       "order": 25,
@@ -527,17 +639,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXV.",
+          "name": "XXV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXVI.\n       • Dalimilova kronika",
+      "title": " XXVI\\.  ",
       "file": "section0028.html",
-      "words": 121,
-      "chars": 712,
+      "words": 123,
+      "chars": 725,
       "ideas": 27,
       "role": "chapter",
       "order": 26,
@@ -547,17 +659,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXVI.",
+          "name": "XXVI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXVII.\n       • Dalimilova kronika",
+      "title": " XXVII\\.  ",
       "file": "section0029.html",
-      "words": 226,
-      "chars": 1303,
+      "words": 228,
+      "chars": 1316,
       "ideas": 46,
       "role": "chapter",
       "order": 27,
@@ -567,17 +679,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXVII.",
+          "name": "XXVII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXVIII.\n       • Dalimilova kronika",
+      "title": " XXVIII\\.  ",
       "file": "section0030.html",
-      "words": 266,
-      "chars": 1438,
+      "words": 268,
+      "chars": 1451,
       "ideas": 45,
       "role": "chapter",
       "order": 28,
@@ -587,17 +699,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXVIII.",
+          "name": "XXVIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXIX.\n       • Dalimilova kronika",
+      "title": " XXIX\\.  ",
       "file": "section0031.html",
-      "words": 198,
-      "chars": 1118,
+      "words": 200,
+      "chars": 1131,
       "ideas": 37,
       "role": "chapter",
       "order": 29,
@@ -607,17 +719,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXIX.",
+          "name": "XXIX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXX.\n       • Dalimilova kronika",
+      "title": " XXX\\.  ",
       "file": "section0032.html",
-      "words": 394,
-      "chars": 2148,
+      "words": 396,
+      "chars": 2161,
       "ideas": 65,
       "role": "chapter",
       "order": 30,
@@ -627,17 +739,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXX.",
+          "name": "XXX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXXI.\n       • Dalimilova kronika",
+      "title": " XXXI\\.  ",
       "file": "section0033.html",
-      "words": 336,
-      "chars": 1913,
+      "words": 338,
+      "chars": 1926,
       "ideas": 59,
       "role": "chapter",
       "order": 31,
@@ -647,17 +759,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXXI.",
+          "name": "XXXI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXXII.\n       • Dalimilova kronika",
+      "title": " XXXII\\.  ",
       "file": "section0034.html",
-      "words": 315,
-      "chars": 1910,
+      "words": 317,
+      "chars": 1923,
       "ideas": 59,
       "role": "chapter",
       "order": 32,
@@ -667,17 +779,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXXII.",
+          "name": "XXXII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXXIII.\n       • Dalimilova kronika",
+      "title": " XXXIII\\.  ",
       "file": "section0035.html",
-      "words": 181,
-      "chars": 1023,
+      "words": 183,
+      "chars": 1036,
       "ideas": 30,
       "role": "chapter",
       "order": 33,
@@ -687,17 +799,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXXIII.",
+          "name": "XXXIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXXIV.\n       • Dalimilova kronika",
+      "title": " XXXIV\\.  ",
       "file": "section0036.html",
-      "words": 425,
-      "chars": 2468,
+      "words": 427,
+      "chars": 2481,
       "ideas": 86,
       "role": "chapter",
       "order": 34,
@@ -707,17 +819,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXXIV.",
+          "name": "XXXIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXXV.\n       • Dalimilova kronika",
+      "title": " XXXV\\.  ",
       "file": "section0037.html",
-      "words": 183,
-      "chars": 1051,
+      "words": 185,
+      "chars": 1064,
       "ideas": 32,
       "role": "chapter",
       "order": 35,
@@ -727,17 +839,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXXV.",
+          "name": "XXXV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXXVI.\n       • Dalimilova kronika",
+      "title": " XXXVI\\.  ",
       "file": "section0038.html",
-      "words": 216,
-      "chars": 1246,
+      "words": 218,
+      "chars": 1259,
       "ideas": 45,
       "role": "chapter",
       "order": 36,
@@ -747,17 +859,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXXVI.",
+          "name": "XXXVI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXXVII.\n       • Dalimilova kronika",
+      "title": " XXXVII\\.  ",
       "file": "section0039.html",
-      "words": 207,
-      "chars": 1224,
+      "words": 209,
+      "chars": 1237,
       "ideas": 42,
       "role": "chapter",
       "order": 37,
@@ -767,17 +879,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXXVII.",
+          "name": "XXXVII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXXVIII.\n       • Dalimilova kronika",
+      "title": " XXXVIII\\.  ",
       "file": "section0040.html",
-      "words": 128,
-      "chars": 704,
+      "words": 130,
+      "chars": 717,
       "ideas": 23,
       "role": "chapter",
       "order": 38,
@@ -787,17 +899,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXXVIII.",
+          "name": "XXXVIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XXXIX.\n       • Dalimilova kronika",
+      "title": " XXXIX\\.  ",
       "file": "section0041.html",
-      "words": 539,
-      "chars": 2956,
+      "words": 541,
+      "chars": 2969,
       "ideas": 93,
       "role": "chapter",
       "order": 39,
@@ -807,17 +919,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XXXIX.",
+          "name": "XXXIX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XL.\n       • Dalimilova kronika",
+      "title": " XL\\.  ",
       "file": "section0042.html",
-      "words": 97,
-      "chars": 554,
+      "words": 99,
+      "chars": 567,
       "ideas": 19,
       "role": "chapter",
       "order": 40,
@@ -827,17 +939,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XL.",
+          "name": "XL\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XLI.\n       • Dalimilova kronika",
+      "title": " XLI\\.  ",
       "file": "section0043.html",
-      "words": 195,
-      "chars": 1129,
+      "words": 197,
+      "chars": 1142,
       "ideas": 35,
       "role": "chapter",
       "order": 41,
@@ -847,17 +959,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XLI.",
+          "name": "XLI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XLII.\n       • Dalimilova kronika",
+      "title": " XLII\\.  ",
       "file": "section0044.html",
-      "words": 366,
-      "chars": 2083,
+      "words": 368,
+      "chars": 2096,
       "ideas": 65,
       "role": "chapter",
       "order": 42,
@@ -867,17 +979,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XLII.",
+          "name": "XLII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XLIII.\n       • Dalimilova kronika",
+      "title": " XLIII\\.  ",
       "file": "section0045.html",
-      "words": 172,
-      "chars": 1018,
+      "words": 174,
+      "chars": 1031,
       "ideas": 33,
       "role": "chapter",
       "order": 43,
@@ -887,17 +999,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XLIII.",
+          "name": "XLIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XLIV.\n       • Dalimilova kronika",
+      "title": " XLIV\\.  ",
       "file": "section0046.html",
-      "words": 457,
-      "chars": 2534,
+      "words": 459,
+      "chars": 2547,
       "ideas": 74,
       "role": "chapter",
       "order": 44,
@@ -907,17 +1019,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XLIV.",
+          "name": "XLIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XLV.\n       • Dalimilova kronika",
+      "title": " XLV\\.  ",
       "file": "section0047.html",
-      "words": 250,
-      "chars": 1466,
+      "words": 252,
+      "chars": 1479,
       "ideas": 48,
       "role": "chapter",
       "order": 45,
@@ -927,17 +1039,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XLV.",
+          "name": "XLV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XLVI.\n       • Dalimilova kronika",
+      "title": " XLVI\\.  ",
       "file": "section0048.html",
-      "words": 203,
-      "chars": 1129,
+      "words": 205,
+      "chars": 1142,
       "ideas": 39,
       "role": "chapter",
       "order": 46,
@@ -947,17 +1059,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XLVI.",
+          "name": "XLVI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XLVII.\n       • Dalimilova kronika",
+      "title": " XLVII\\.  ",
       "file": "section0049.html",
-      "words": 358,
-      "chars": 2007,
+      "words": 360,
+      "chars": 2020,
       "ideas": 61,
       "role": "chapter",
       "order": 47,
@@ -967,17 +1079,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XLVII.",
+          "name": "XLVII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XLVIII.\n       • Dalimilova kronika",
+      "title": " XLVIII\\.  ",
       "file": "section0050.html",
-      "words": 118,
-      "chars": 659,
+      "words": 120,
+      "chars": 672,
       "ideas": 21,
       "role": "chapter",
       "order": 48,
@@ -987,17 +1099,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XLVIII.",
+          "name": "XLVIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        XLIX.\n       • Dalimilova kronika",
+      "title": " XLIX\\.  ",
       "file": "section0051.html",
-      "words": 313,
-      "chars": 1833,
+      "words": 315,
+      "chars": 1846,
       "ideas": 53,
       "role": "chapter",
       "order": 49,
@@ -1007,17 +1119,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XLIX.",
+          "name": "XLIX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n        L.\n       • Dalimilova kronika",
+      "title": " L\\.  ",
       "file": "section0052.html",
-      "words": 431,
-      "chars": 2352,
+      "words": 433,
+      "chars": 2365,
       "ideas": 76,
       "role": "chapter",
       "order": 50,
@@ -1027,17 +1139,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "L.",
+          "name": "L\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LI\n\n      \n     • Dalimilova kronika",
+      "title": " LI  ",
       "file": "section0053.html",
-      "words": 148,
-      "chars": 834,
+      "words": 150,
+      "chars": 850,
       "ideas": 27,
       "role": "chapter",
       "order": 51,
@@ -1054,10 +1166,10 @@
       ]
     },
     {
-      "title": "\n      LII.\n     • Dalimilova kronika",
+      "title": " LII\\.  ",
       "file": "section0054.html",
-      "words": 162,
-      "chars": 932,
+      "words": 164,
+      "chars": 941,
       "ideas": 30,
       "role": "chapter",
       "order": 52,
@@ -1067,17 +1179,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LII.",
+          "name": "LII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LIII.\n     • Dalimilova kronika",
+      "title": " LIII\\.  ",
       "file": "section0055.html",
-      "words": 312,
-      "chars": 1701,
+      "words": 314,
+      "chars": 1710,
       "ideas": 53,
       "role": "chapter",
       "order": 53,
@@ -1087,17 +1199,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LIII.",
+          "name": "LIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LIV.\n     • Dalimilova kronika",
+      "title": " LIV\\.  ",
       "file": "section0056.html",
-      "words": 216,
-      "chars": 1162,
+      "words": 218,
+      "chars": 1171,
       "ideas": 37,
       "role": "chapter",
       "order": 54,
@@ -1107,17 +1219,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LIV.",
+          "name": "LIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LV.\n     • Dalimilova kronika",
+      "title": " LV\\.  ",
       "file": "section0057.html",
-      "words": 417,
-      "chars": 2426,
+      "words": 419,
+      "chars": 2435,
       "ideas": 76,
       "role": "chapter",
       "order": 55,
@@ -1127,17 +1239,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LV.",
+          "name": "LV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LVI\n     • Dalimilova kronika",
+      "title": " LVI  ",
       "file": "section0058.html",
-      "words": 360,
-      "chars": 1991,
+      "words": 362,
+      "chars": 1999,
       "ideas": 65,
       "role": "chapter",
       "order": 56,
@@ -1154,10 +1266,10 @@
       ]
     },
     {
-      "title": "\n      LVII\n     • Dalimilova kronika",
+      "title": " LVII  ",
       "file": "section0059.html",
-      "words": 262,
-      "chars": 1440,
+      "words": 264,
+      "chars": 1448,
       "ideas": 47,
       "role": "chapter",
       "order": 57,
@@ -1174,10 +1286,10 @@
       ]
     },
     {
-      "title": "\n      LVIII.\n     • Dalimilova kronika",
+      "title": " LVIII\\.  ",
       "file": "section0060.html",
-      "words": 181,
-      "chars": 1019,
+      "words": 183,
+      "chars": 1028,
       "ideas": 36,
       "role": "chapter",
       "order": 58,
@@ -1187,17 +1299,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LVIII.",
+          "name": "LVIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LIX.\n     • Dalimilova kronika",
+      "title": " LIX\\.  ",
       "file": "section0061.html",
-      "words": 376,
-      "chars": 2124,
+      "words": 378,
+      "chars": 2133,
       "ideas": 67,
       "role": "chapter",
       "order": 59,
@@ -1207,17 +1319,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LIX.",
+          "name": "LIX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LX.\n     • Dalimilova kronika",
+      "title": " LX\\.  ",
       "file": "section0062.html",
-      "words": 236,
-      "chars": 1379,
+      "words": 238,
+      "chars": 1388,
       "ideas": 49,
       "role": "chapter",
       "order": 60,
@@ -1227,17 +1339,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LX.",
+          "name": "LX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXI.\n     • Dalimilova kronika",
+      "title": " LXI\\.  ",
       "file": "section0063.html",
-      "words": 196,
-      "chars": 1153,
+      "words": 198,
+      "chars": 1162,
       "ideas": 37,
       "role": "chapter",
       "order": 61,
@@ -1247,17 +1359,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXI.",
+          "name": "LXI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXII.\n     • Dalimilova kronika",
+      "title": " LXII\\.  ",
       "file": "section0064.html",
-      "words": 196,
-      "chars": 1082,
+      "words": 198,
+      "chars": 1091,
       "ideas": 37,
       "role": "chapter",
       "order": 62,
@@ -1267,17 +1379,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXII.",
+          "name": "LXII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXIII.\n     • Dalimilova kronika",
+      "title": " LXIII\\.  ",
       "file": "section0065.html",
-      "words": 353,
-      "chars": 1932,
+      "words": 355,
+      "chars": 1941,
       "ideas": 61,
       "role": "chapter",
       "order": 63,
@@ -1287,17 +1399,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXIII.",
+          "name": "LXIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXIV.\n     • Dalimilova kronika",
+      "title": " LXIV\\.  ",
       "file": "section0066.html",
-      "words": 349,
-      "chars": 2007,
+      "words": 351,
+      "chars": 2016,
       "ideas": 62,
       "role": "chapter",
       "order": 64,
@@ -1307,17 +1419,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXIV.",
+          "name": "LXIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXV.\n     • Dalimilova kronika",
+      "title": " LXV\\.  ",
       "file": "section0067.html",
-      "words": 89,
-      "chars": 508,
+      "words": 91,
+      "chars": 517,
       "ideas": 19,
       "role": "chapter",
       "order": 65,
@@ -1327,17 +1439,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXV.",
+          "name": "LXV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXVI.\n     • Dalimilova kronika",
+      "title": " LXVI\\.  ",
       "file": "section0068.html",
-      "words": 280,
-      "chars": 1584,
+      "words": 282,
+      "chars": 1593,
       "ideas": 44,
       "role": "chapter",
       "order": 66,
@@ -1347,17 +1459,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXVI.",
+          "name": "LXVI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXVII.\n     • Dalimilova kronika",
+      "title": " LXVII\\.  ",
       "file": "section0069.html",
-      "words": 273,
-      "chars": 1569,
+      "words": 275,
+      "chars": 1578,
       "ideas": 53,
       "role": "chapter",
       "order": 67,
@@ -1367,17 +1479,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXVII.",
+          "name": "LXVII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXVIII.\n     • Dalimilova kronika",
+      "title": " LXVIII\\.  ",
       "file": "section0070.html",
-      "words": 205,
-      "chars": 1195,
+      "words": 207,
+      "chars": 1204,
       "ideas": 37,
       "role": "chapter",
       "order": 68,
@@ -1387,17 +1499,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXVIII.",
+          "name": "LXVIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXIX.\n     • Dalimilova kronika",
+      "title": " LXIX\\.  ",
       "file": "section0071.html",
-      "words": 265,
-      "chars": 1511,
+      "words": 267,
+      "chars": 1520,
       "ideas": 43,
       "role": "chapter",
       "order": 69,
@@ -1407,17 +1519,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXIX.",
+          "name": "LXIX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXX.\n     • Dalimilova kronika",
+      "title": " LXX\\.  ",
       "file": "section0072.html",
-      "words": 269,
-      "chars": 1471,
+      "words": 271,
+      "chars": 1480,
       "ideas": 51,
       "role": "chapter",
       "order": 70,
@@ -1427,17 +1539,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXX.",
+          "name": "LXX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXI.\n     • Dalimilova kronika",
+      "title": " LXXI\\.  ",
       "file": "section0073.html",
-      "words": 128,
-      "chars": 729,
+      "words": 130,
+      "chars": 738,
       "ideas": 27,
       "role": "chapter",
       "order": 71,
@@ -1447,17 +1559,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXI.",
+          "name": "LXXI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXII.\n     • Dalimilova kronika",
+      "title": " LXXII\\.  ",
       "file": "section0074.html",
-      "words": 333,
-      "chars": 1893,
+      "words": 335,
+      "chars": 1902,
       "ideas": 65,
       "role": "chapter",
       "order": 72,
@@ -1467,17 +1579,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXII.",
+          "name": "LXXII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXIII.\n     • Dalimilova kronika",
+      "title": " LXXIII\\.  ",
       "file": "section0075.html",
-      "words": 161,
-      "chars": 881,
+      "words": 163,
+      "chars": 890,
       "ideas": 27,
       "role": "chapter",
       "order": 73,
@@ -1487,17 +1599,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXIII.",
+          "name": "LXXIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXIV.\n     • Dalimilova kronika",
+      "title": " LXXIV\\.  ",
       "file": "section0076.html",
-      "words": 289,
-      "chars": 1640,
+      "words": 291,
+      "chars": 1649,
       "ideas": 51,
       "role": "chapter",
       "order": 74,
@@ -1507,17 +1619,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXIV.",
+          "name": "LXXIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXV.\n     • Dalimilova kronika",
+      "title": " LXXV\\.  ",
       "file": "section0077.html",
-      "words": 99,
-      "chars": 576,
+      "words": 101,
+      "chars": 585,
       "ideas": 19,
       "role": "chapter",
       "order": 75,
@@ -1527,17 +1639,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXV.",
+          "name": "LXXV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXVI.\n     • Dalimilova kronika",
+      "title": " LXXVI\\.  ",
       "file": "section0078.html",
-      "words": 332,
-      "chars": 1794,
+      "words": 334,
+      "chars": 1803,
       "ideas": 57,
       "role": "chapter",
       "order": 76,
@@ -1547,17 +1659,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXVI.",
+          "name": "LXXVI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXVII.\n     • Dalimilova kronika",
+      "title": " LXXVII\\.  ",
       "file": "section0079.html",
-      "words": 167,
-      "chars": 922,
+      "words": 169,
+      "chars": 931,
       "ideas": 31,
       "role": "chapter",
       "order": 77,
@@ -1567,17 +1679,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXVII.",
+          "name": "LXXVII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXVIII.\n     • Dalimilova kronika",
+      "title": " LXXVIII\\.  ",
       "file": "section0080.html",
-      "words": 129,
-      "chars": 732,
+      "words": 131,
+      "chars": 741,
       "ideas": 23,
       "role": "chapter",
       "order": 78,
@@ -1587,17 +1699,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXVIII.",
+          "name": "LXXVIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXIX.\n     • Dalimilova kronika",
+      "title": " LXXIX\\.  ",
       "file": "section0081.html",
-      "words": 226,
-      "chars": 1318,
+      "words": 228,
+      "chars": 1327,
       "ideas": 41,
       "role": "chapter",
       "order": 79,
@@ -1607,17 +1719,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXIX.",
+          "name": "LXXIX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXX.\n     • Dalimilova kronika",
+      "title": " LXXX\\.  ",
       "file": "section0082.html",
-      "words": 159,
-      "chars": 859,
+      "words": 161,
+      "chars": 868,
       "ideas": 27,
       "role": "chapter",
       "order": 80,
@@ -1627,17 +1739,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXX.",
+          "name": "LXXX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXXI.\n     • Dalimilova kronika",
+      "title": " LXXXI\\.  ",
       "file": "section0083.html",
-      "words": 210,
-      "chars": 1117,
+      "words": 212,
+      "chars": 1126,
       "ideas": 37,
       "role": "chapter",
       "order": 81,
@@ -1647,17 +1759,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXXI.",
+          "name": "LXXXI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXXII.\n     • Dalimilova kronika",
+      "title": " LXXXII\\.  ",
       "file": "section0084.html",
-      "words": 278,
-      "chars": 1684,
+      "words": 280,
+      "chars": 1693,
       "ideas": 55,
       "role": "chapter",
       "order": 82,
@@ -1667,17 +1779,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXXII.",
+          "name": "LXXXII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXXIII.\n     • Dalimilova kronika",
+      "title": " LXXXIII\\.  ",
       "file": "section0085.html",
-      "words": 319,
-      "chars": 1724,
+      "words": 321,
+      "chars": 1733,
       "ideas": 59,
       "role": "chapter",
       "order": 83,
@@ -1687,17 +1799,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXXIII.",
+          "name": "LXXXIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXXIV.\n     • Dalimilova kronika",
+      "title": " LXXXIV\\.  ",
       "file": "section0086.html",
-      "words": 150,
-      "chars": 834,
+      "words": 152,
+      "chars": 843,
       "ideas": 27,
       "role": "chapter",
       "order": 84,
@@ -1707,17 +1819,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXXIV.",
+          "name": "LXXXIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXXV.\n     • Dalimilova kronika",
+      "title": " LXXXV\\.  ",
       "file": "section0087.html",
-      "words": 393,
-      "chars": 2204,
+      "words": 395,
+      "chars": 2213,
       "ideas": 67,
       "role": "chapter",
       "order": 85,
@@ -1727,17 +1839,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXXV.",
+          "name": "LXXXV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXXVI.\n     • Dalimilova kronika",
+      "title": " LXXXVI\\.  ",
       "file": "section0088.html",
-      "words": 91,
-      "chars": 529,
+      "words": 93,
+      "chars": 538,
       "ideas": 17,
       "role": "chapter",
       "order": 86,
@@ -1747,17 +1859,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXXVI.",
+          "name": "LXXXVI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXXVII.\n     • Dalimilova kronika",
+      "title": " LXXXVII\\.  ",
       "file": "section0089.html",
-      "words": 105,
-      "chars": 620,
+      "words": 107,
+      "chars": 629,
       "ideas": 19,
       "role": "chapter",
       "order": 87,
@@ -1767,17 +1879,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXXVII.",
+          "name": "LXXXVII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXXVIII.\n     • Dalimilova kronika",
+      "title": " LXXXVIII\\.  ",
       "file": "section0090.html",
-      "words": 93,
-      "chars": 540,
+      "words": 95,
+      "chars": 549,
       "ideas": 17,
       "role": "chapter",
       "order": 88,
@@ -1787,17 +1899,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXXVIII.",
+          "name": "LXXXVIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      LXXXIX.\n     • Dalimilova kronika",
+      "title": " LXXXIX\\.  ",
       "file": "section0091.html",
-      "words": 373,
-      "chars": 2156,
+      "words": 375,
+      "chars": 2165,
       "ideas": 67,
       "role": "chapter",
       "order": 89,
@@ -1807,17 +1919,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "LXXXIX.",
+          "name": "LXXXIX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XC.\n     • Dalimilova kronika",
+      "title": " XC\\.  ",
       "file": "section0092.html",
-      "words": 148,
-      "chars": 832,
+      "words": 150,
+      "chars": 841,
       "ideas": 27,
       "role": "chapter",
       "order": 90,
@@ -1827,17 +1939,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XC.",
+          "name": "XC\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XCI.\n     • Dalimilova kronika",
+      "title": " XCI\\.  ",
       "file": "section0093.html",
-      "words": 197,
-      "chars": 1082,
+      "words": 199,
+      "chars": 1091,
       "ideas": 35,
       "role": "chapter",
       "order": 91,
@@ -1847,17 +1959,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCI.",
+          "name": "XCI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XCII.\n     • Dalimilova kronika",
+      "title": " XCII\\.  ",
       "file": "section0094.html",
-      "words": 421,
-      "chars": 2427,
+      "words": 423,
+      "chars": 2436,
       "ideas": 74,
       "role": "chapter",
       "order": 92,
@@ -1867,17 +1979,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCII.",
+          "name": "XCII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XCIII.\n     • Dalimilova kronika",
+      "title": " XCIII\\.  ",
       "file": "section0095.html",
-      "words": 282,
-      "chars": 1718,
+      "words": 284,
+      "chars": 1727,
       "ideas": 54,
       "role": "chapter",
       "order": 93,
@@ -1887,17 +1999,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCIII.",
+          "name": "XCIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XCIV.\n     • Dalimilova kronika",
+      "title": " XCIV\\.  ",
       "file": "section0096.html",
-      "words": 199,
-      "chars": 1135,
+      "words": 201,
+      "chars": 1144,
       "ideas": 33,
       "role": "chapter",
       "order": 94,
@@ -1907,17 +2019,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCIV.",
+          "name": "XCIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XCV.\n     • Dalimilova kronika",
+      "title": " XCV\\.  ",
       "file": "section0097.html",
-      "words": 133,
-      "chars": 828,
+      "words": 135,
+      "chars": 837,
       "ideas": 27,
       "role": "chapter",
       "order": 95,
@@ -1927,17 +2039,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCV.",
+          "name": "XCV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XCVI.\n     • Dalimilova kronika",
+      "title": " XCVI\\.  ",
       "file": "section0098.html",
-      "words": 194,
-      "chars": 1087,
+      "words": 196,
+      "chars": 1096,
       "ideas": 32,
       "role": "chapter",
       "order": 96,
@@ -1947,17 +2059,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCVI.",
+          "name": "XCVI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XCVII.\n     • Dalimilova kronika",
+      "title": " XCVII\\.  ",
       "file": "section0099.html",
-      "words": 182,
-      "chars": 989,
+      "words": 184,
+      "chars": 998,
       "ideas": 29,
       "role": "chapter",
       "order": 97,
@@ -1967,17 +2079,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCVII.",
+          "name": "XCVII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XCVIII.\n     • Dalimilova kronika",
+      "title": " XCVIII\\.  ",
       "file": "section0100.html",
-      "words": 263,
-      "chars": 1516,
+      "words": 265,
+      "chars": 1525,
       "ideas": 45,
       "role": "chapter",
       "order": 98,
@@ -1987,17 +2099,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCVIII.",
+          "name": "XCVIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      XCIX.\n     • Dalimilova kronika",
+      "title": " XCIX\\.  ",
       "file": "section0101.html",
-      "words": 195,
-      "chars": 1137,
+      "words": 197,
+      "chars": 1146,
       "ideas": 37,
       "role": "chapter",
       "order": 99,
@@ -2007,17 +2119,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "XCIX.",
+          "name": "XCIX\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      C.\n     • Dalimilova kronika",
+      "title": " C\\.  ",
       "file": "section0102.html",
-      "words": 281,
-      "chars": 1630,
+      "words": 283,
+      "chars": 1639,
       "ideas": 49,
       "role": "chapter",
       "order": 100,
@@ -2027,17 +2139,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "C.",
+          "name": "C\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      CI.\n     • Dalimilova kronika",
+      "title": " CI\\.  ",
       "file": "section0103.html",
-      "words": 132,
-      "chars": 722,
+      "words": 134,
+      "chars": 731,
       "ideas": 21,
       "role": "chapter",
       "order": 101,
@@ -2047,17 +2159,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CI.",
+          "name": "CI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      CII.\n     • Dalimilova kronika",
+      "title": " CII\\.  ",
       "file": "section0104.html",
-      "words": 378,
-      "chars": 2100,
+      "words": 380,
+      "chars": 2109,
       "ideas": 63,
       "role": "chapter",
       "order": 102,
@@ -2067,17 +2179,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CII.",
+          "name": "CII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      CIII.\n     • Dalimilova kronika",
+      "title": " CIII\\.  ",
       "file": "section0105.html",
-      "words": 234,
-      "chars": 1422,
+      "words": 236,
+      "chars": 1431,
       "ideas": 45,
       "role": "chapter",
       "order": 103,
@@ -2087,17 +2199,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CIII.",
+          "name": "CIII\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      CIV.\n     • Dalimilova kronika",
+      "title": " CIV\\.  ",
       "file": "section0106.html",
-      "words": 206,
-      "chars": 1193,
+      "words": 208,
+      "chars": 1202,
       "ideas": 33,
       "role": "chapter",
       "order": 104,
@@ -2107,17 +2219,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CIV.",
+          "name": "CIV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      CV.\n     • Dalimilova kronika",
+      "title": " CV\\.  ",
       "file": "section0107.html",
-      "words": 145,
-      "chars": 815,
+      "words": 147,
+      "chars": 824,
       "ideas": 21,
       "role": "chapter",
       "order": 105,
@@ -2127,17 +2239,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CV.",
+          "name": "CV\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "\n      CVI.\n     • Dalimilova kronika",
+      "title": " CVI\\.  ",
       "file": "section0108.html",
-      "words": 192,
-      "chars": 1133,
+      "words": 194,
+      "chars": 1142,
       "ideas": 35,
       "role": "chapter",
       "order": 106,
@@ -2147,18 +2259,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CVI.",
+          "name": "CVI\\.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tiráž • Dalimilova kronika",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 146,
-      "chars": 1117,
-      "ideas": 15,
+      "words": 127,
+      "chars": 959,
+      "ideas": 12,
       "role": "colophon",
       "order": null,
       "prev": "section0108.html",
@@ -2176,14 +2288,14 @@
   ],
   "totals": {
     "all": {
-      "words": 25757,
-      "chars": 145659,
-      "ideas": 4723
+      "words": 25952,
+      "chars": 146677,
+      "ideas": 4719
     },
     "chapters": {
-      "words": 25607,
-      "chars": 144513,
-      "ideas": 4705
+      "words": 25821,
+      "chars": 145689,
+      "ideas": 4704
     }
   }
 }

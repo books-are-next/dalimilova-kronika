@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXXVII.
-      
-subtitle: |2-
-
-        O světiej Zdislavě skončení svatém.
+title: '       LXXXVII\.     '
+subtitle: '       O světiej Zdislavě skončení svatém\.     '
+contentType: prose
 ---
 
 Léta ot narozenie Jezu Krista milostivého

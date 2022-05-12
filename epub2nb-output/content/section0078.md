@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXVI.
-      
-subtitle: |2-
-
-        Od přepusčenie krále Přěmysla třetieho.
+title: '       LXXVI\.     '
+subtitle: '       Od přepusčenie krále Přěmysla třetieho\.     '
+contentType: prose
 ---
 
 Toho léta kněz Vladislav snide,

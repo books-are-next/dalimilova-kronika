@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXX.
-      
-subtitle: |2-
-
-        (Nadpisu není.)
+title: '       LXX\.     '
+subtitle: '       (Nadpisu není\.)     '
+contentType: prose
 ---
 
 Ciesař je sě velmi nastati,

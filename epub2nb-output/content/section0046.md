@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XLIV.
-        
-subtitle: |2-
-
-          (Nadpisu není.)
+title: '         XLIV\.       '
+subtitle: '         (Nadpisu není\.)       '
+contentType: prose
 ---
 
 Polené z násilie na Čechy žalovachu,

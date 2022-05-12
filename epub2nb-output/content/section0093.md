@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        XCI.
-      
-subtitle: |2-
-
-        O uherském boji a o královéj Margarety rozvodu z Rakús.
+title: '       XCI\.     '
+subtitle: '       O uherském boji a o královéj Margarety rozvodu z Rakús\.     '
+contentType: prose
 ---
 
 Pak kněz jide na Bělu, na krále uherského,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXXVII.
-        
-subtitle: |2-
-
-          Od svatých pěti bratří.
+title: '         XXXVII\.       '
+subtitle: '         Od svatých pěti bratří\.       '
+contentType: prose
 ---
 
 Toho časa českých mníškóv šesť,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXXXV.
-      
-subtitle: |2-
-
-        O králově Václavově boju s synem.
+title: '       LXXXV\.     '
+subtitle: '       O králově Václavově boju s synem\.     '
+contentType: prose
 ---
 
 Král Václav ščedrý bieše,

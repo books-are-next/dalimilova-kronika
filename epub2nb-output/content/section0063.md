@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LXI.
-      
-subtitle: |2-
-
-        Kak sú chtěli římský kostel vybiti.
+title: '       LXI\.     '
+subtitle: '       Kak sú chtěli římský kostel vybiti\.     '
+contentType: prose
 ---
 
 Ciesař nový do Říma chtieše jeti,

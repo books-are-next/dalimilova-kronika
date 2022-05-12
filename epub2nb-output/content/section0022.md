@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XX.
-        
-subtitle: |2-
-
-          O turském boju.
+title: '         XX\.       '
+subtitle: '         O turském boju\.       '
+contentType: prose
 ---
 
 Když na Tursko voje sě snidú,

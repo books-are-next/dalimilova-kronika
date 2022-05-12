@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XLVIII.
-        
-subtitle: |2-
-
-          O najvyššiej cti prvého krále českého.
+title: '         XLVIII\.       '
+subtitle: '         O najvyššiej cti prvého krále českého\.       '
+contentType: prose
 ---
 
 Ciesařovi by v děk to poslúženie,

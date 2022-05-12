@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          XXXI.
-        
-subtitle: |2-
-
-          (Nadpisu není.)
+title: '         XXXI\.       '
+subtitle: '         (Nadpisu není\.)       '
+contentType: prose
 ---
 
 Když snide svatý Václav,

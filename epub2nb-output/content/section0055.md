@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        LIII.
-      
-subtitle: |2-
-
-        Od prvého králova syna.
+title: '       LIII\.     '
+subtitle: '       Od prvého králova syna\.     '
+contentType: prose
 ---
 
 Pak král Vratislav snide,

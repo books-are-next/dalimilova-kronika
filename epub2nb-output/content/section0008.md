@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-          VI.
-        
-subtitle: |2-
-
-          O Přěmyslově zvoleniu.
+title: '         VI\.       '
+subtitle: '         O Přěmyslově zvoleniu\.       '
+contentType: prose
 ---
 
 Když sobě ten div ukázachu,

@@ -1,11 +1,7 @@
 ---
-title: |2-
-
-        POČÍNÁ SĚ KRONIKA ČESKÁ
-
-        I.
-      
+title: '       POČÍNÁ SĚ KRONIKA ČESKÁ        I\.     '
 subtitle: ''
+contentType: prose
 ---
 
 Mnozí pověstí hledajú,
