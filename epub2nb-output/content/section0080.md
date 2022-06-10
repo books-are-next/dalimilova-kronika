@@ -4,6 +4,8 @@ subtitle: '       O prvém králi Přěmyslu, jemužto ciesař Otakar vzdě\.   
 contentType: prose
 ---
 
+<section>
+
 Ciesař Otta na Sasy jide,
 
 kněz k němu do Sas přijide.
@@ -47,3 +49,5 @@ Tak všě súsědy uhrozichu,
 že po všěch Němcích jechu sě mluviti:
 
 „Ten válej s Cechy, ktož nechce živ býti.“
+
+</section>

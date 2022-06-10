@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Toho léta Polené v zemiu vnidú,
 
 Čechy je bojem podjidú.
@@ -39,3 +41,5 @@ ve všiej zemi nevídáno takého.
 Věděli-li sú o něm židie či nevěděli,
 
 nikomému sú toho nepověděli.
+
+</section>

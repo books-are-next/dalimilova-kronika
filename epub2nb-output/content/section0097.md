@@ -4,6 +4,8 @@ subtitle: '       O koronovániu krále Václava\.     '
 contentType: prose
 ---
 
+<section>
+
 Pak kněz Václav přije koronu královstvie českého,
 
 po tom koronu královstvie polského.
@@ -55,3 +57,5 @@ pánu některému súd rukú poručieše.
 Ti páni tak sirotky súdiechu,
 
 jich dědiny sobě přisúdiechu.
+
+</section>

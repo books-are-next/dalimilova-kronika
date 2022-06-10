@@ -4,6 +4,8 @@ subtitle: '       O křižovníciech a o židech\.     '
 contentType: prose
 ---
 
+<section>
+
 Tehdy křížovníci do Čech přišli běchu,
 
 ti naď židy moc papežovu jmějiechu.
@@ -35,3 +37,5 @@ Když na ně křížovníci udeřichu,
 židové křížovníky pobichu,
 
 na dvě stě Němcóv tehdy zbichu.
+
+</section>

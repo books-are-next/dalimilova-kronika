@@ -4,6 +4,8 @@ subtitle: '         Ot Vršovičských nevěře a od knězě Mezky\.       '
 contentType: prose
 ---
 
+<section>
+
 V tu dobu v zemi Vršovici najvěěší biechu,
 
 Kochana mezi sobú za starostu jmějiechu.
@@ -173,3 +175,5 @@ a tiem lýkem na témž dubě jej oběsi.
 Páni Hovoře z viery doděkovachu,
 
 a pod Veleziú blíz ves jemu dachu.
+
+</section>

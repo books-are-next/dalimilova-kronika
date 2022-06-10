@@ -4,6 +4,8 @@ subtitle: '         (Nadpisu není\.)       '
 contentType: prose
 ---
 
+<section>
+
 Když snide svatý Václav,
 
 by knězěm bratr jeho, liútí Boleslav.
@@ -119,3 +121,5 @@ Vskočiv na peň, je sě mluviti:
 Páni sě kněziu pokořichu,
 
 a Boleslav zdiu ohradichu.
+
+</section>

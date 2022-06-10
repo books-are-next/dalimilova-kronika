@@ -4,6 +4,8 @@ subtitle: '         Ot Vratislava, prvého krále českého       '
 contentType: prose
 ---
 
+<section>
+
 Spytihněv s světa snide,
 
 bratr jeho Vratislav na kněžský stolec vznide.
@@ -123,3 +125,5 @@ To věz, že nynějšie dielo nemóž sě jiej vrovnati.
 Poděbrazští prví lézti směli,
 
 pro to sú ot knězě řebřiu na ščítě přijeli.
+
+</section>

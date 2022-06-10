@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Ciesař chtieše Němcóv mstíti,
 
 počě s velikú silú do Čech jíti.
@@ -75,3 +77,5 @@ a smrti zbýti nemože.
 Soběslav do Čech přinese otce svého,
 
 a na Vyšehradě pohřěbú jeho.
+
+</section>

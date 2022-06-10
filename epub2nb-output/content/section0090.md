@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Tehdy sě sta krále říšského volenie,
 
 pro to král tam posla tři pány neleně:
@@ -35,3 +37,5 @@ a škodu ot něho velikú jmiechu.
 A když Čechy přijidú,
 
 Uhři tajně z země vynidú.
+
+</section>

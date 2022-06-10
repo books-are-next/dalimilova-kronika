@@ -4,6 +4,8 @@ subtitle: '         O turském boju\.       '
 contentType: prose
 ---
 
+<section>
+
 Když na Tursko voje sě snidú,
 
 tu v liútý boj velmi vnidú.
@@ -79,3 +81,5 @@ byl mil Čechóm jako Tateróm výr.
 Ješče Styra vzpomínajú,
 
 „Nečiň sě Styrem“ řiekajú.
+
+</section>

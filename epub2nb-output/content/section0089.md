@@ -4,6 +4,8 @@ subtitle: '       O světiej Zdislavě skončení svatém\.     '
 contentType: prose
 ---
 
+<section>
+
 Léta ot narozenie Jezu Krista milostivého
 
 po tisiúciu po dvú stú po pěti dcát druhého
@@ -39,3 +41,5 @@ a s židy sě umluvichu.
 Ale židy že bíti směli,
 
 proto sú koblúk židovský na ščít vzěli.
+
+</section>

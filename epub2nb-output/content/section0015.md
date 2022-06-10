@@ -4,6 +4,8 @@ subtitle: '         O Ctiradově zrádě\.       '
 contentType: prose
 ---
 
+<section>
+
 Jeden dobrý ostal bieše,
 
 ten sobě jmě Ctirad jmieše.
@@ -99,3 +101,5 @@ Ctirada přěd Vyšehradem na kolo vzbichu.
 Črtie sě tej věci smějú,
 
 i dnes tomu miestu Šárka dějú.
+
+</section>

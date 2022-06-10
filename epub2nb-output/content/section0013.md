@@ -4,6 +4,8 @@ subtitle: '         O mužském ostrabeniu a o Vyšehradě\.       '
 contentType: prose
 ---
 
+<section>
+
 Po pól létu mužie sě ostrabichu,
 
 smolníkóv i koní sobě dobychu;
@@ -95,3 +97,5 @@ ni který chtěl jie tiem uhaniti,
 řka: „Necná činí podle svého práva;
 
 požídajte, ať jesť má cná žena dlúho zdráva,“
+
+</section>

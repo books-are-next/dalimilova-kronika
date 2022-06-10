@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Když král tomu násiliu v zemi býti přěpusti,
 
 Bóh na krále tento nedostatek spusti,
@@ -65,3 +67,5 @@ To královi českému škodno bieše,
 což sě s nimi uradieše,
 
 to Albrecht inhed vzvědieše.
+
+</section>

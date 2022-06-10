@@ -4,6 +4,8 @@ subtitle: '       Kak sú chtěli římský kostel vybiti\.     '
 contentType: prose
 ---
 
+<section>
+
 Ciesař nový do Říma chtieše jeti,
 
 chtě posledniu korunu přijieti,
@@ -75,3 +77,5 @@ a Čechy kletvy zbaviti i rozhřěšiti.
 Tehdy Ďaněl biskup snide,
 
 a Heřman na jeho stolec vznide.
+
+</section>

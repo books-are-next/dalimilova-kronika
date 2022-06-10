@@ -4,6 +4,8 @@ subtitle: '       Ot vévody korutanského\.     '
 contentType: prose
 ---
 
+<section>
+
 Pak učinichu králem Jindřicha, knězě korutanského,
 
 člověka velmi dobrého,
@@ -99,3 +101,5 @@ a mezi sobú všě koně zbichu.
 Ctibor z Uherska ten tu mezi najlepšími bieše,
 
 a ten mnoho vězňóv dobrých domóv vedieše.
+
+</section>

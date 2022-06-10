@@ -4,6 +4,8 @@ subtitle: '         (Nadpisu není\.)       '
 contentType: prose
 ---
 
+<section>
+
 Polené z násilie na Čechy žalovachu,
 
 a na ně v Římě právo ustachu.
@@ -149,3 +151,5 @@ potom rucě i nozě utieti,
 že Sasicóv nerodil utkati
 
 i dal sě jim v zemi po vóli tkáti.
+
+</section>

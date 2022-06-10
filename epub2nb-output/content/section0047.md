@@ -4,6 +4,8 @@ subtitle: '         Ot biskupa Ekarda, rodiče Jutčina\.       '
 contentType: prose
 ---
 
+<section>
+
 Knieni Jutka učini biskupem rodicě svého,
 
 Ekarda, Němcě ovšem chytrého.
@@ -97,3 +99,5 @@ pro jeho smrť by všiej zemi smutná hodina.
 Navštěvujúc rova jeho,
 
 každý plakáše jako otce svého.
+
+</section>

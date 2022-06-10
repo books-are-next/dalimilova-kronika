@@ -4,6 +4,8 @@ subtitle: '       Ot Bořivoje a od Svatopluka z Moravy\.     '
 contentType: prose
 ---
 
+<section>
+
 Zeměné poslachu po knězě Bořivoje moravského,
 
 po strýcě bratra knězě českého.
@@ -153,3 +155,5 @@ bude-ť mnieti král, bychom o jeho nosu mluvily.“
 Podle této kázni Vršovicóm sě stalo,
 
 jehož sě jim nikdy nezdálo.
+
+</section>

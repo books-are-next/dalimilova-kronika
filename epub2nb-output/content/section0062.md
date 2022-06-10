@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Vacek je sě knězě učiti,
 
 svej bratří nikdy nevěřiti.
@@ -99,3 +101,5 @@ harované rúcho rád nosieše.
 Panici sě mu smějiechu,
 
 pro-ň křepeličnému miešku „vacek“ vzdechu.
+
+</section>

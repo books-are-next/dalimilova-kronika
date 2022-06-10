@@ -4,6 +4,8 @@ subtitle: '         (Nadpisu není\.)       '
 contentType: prose
 ---
 
+<section>
+
 Proč ten hrad byl u púšči postaven,
 
 proč-li jesť byl pust ostaven,
@@ -187,3 +189,5 @@ jedno že sě sama na ciesařovu milost‘ dala.
 A tak ten hrad byl i opustěl,
 
 až na-ň kněz Oldřich byl i vzněl.
+
+</section>

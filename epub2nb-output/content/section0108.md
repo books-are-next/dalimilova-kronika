@@ -4,6 +4,8 @@ subtitle: '       Od Korutanského vypuzení a od krále Jana\.     '
 contentType: prose
 ---
 
+<section>
+
 Po tom, když Čechy uzřěchu,
 
 že v Korutanském statka nejmiechu,
@@ -71,3 +73,5 @@ ale v tom chciu dosti učiniti.
 Ta kronika mluví ot narozenie syna božieho,
 
 léta po tisíci po třech stech po deseti čtvrtého.
+
+</section>

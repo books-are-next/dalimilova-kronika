@@ -4,6 +4,8 @@ subtitle: '         Ot Libušina otce múdrého\.       '
 contentType: prose
 ---
 
+<section>
+
 Když tomu mnohý minu rok,
 
 vsta v zemi muž, jemuž diechu Krok.
@@ -99,3 +101,5 @@ pověz nám věštbami svými,
 z které nám radíš země knězě vzieti?
 
 Nebo v svej nemóžem podobného jmieti.“
+
+</section>

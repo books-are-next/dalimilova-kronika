@@ -4,6 +4,8 @@ subtitle: '         Ot ciesařě a o sv\. Václavovi\.       '
 contentType: prose
 ---
 
+<section>
+
 Sta sě, že ciesař pozva kniežat k dvoru,
 
 kněz Václav jide k tomu sboru.
@@ -75,3 +77,5 @@ všie roboty zemiu zprosti.
 Kněz sě je kostela na Praze činiti,
 
 aby mohl cně svatého Víta položití.
+
+</section>

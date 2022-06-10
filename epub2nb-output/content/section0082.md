@@ -4,6 +4,8 @@ subtitle: '       Kak sú predikateři do Prahy přišli\.     '
 contentType: prose
 ---
 
+<section>
+
 Léta ot narozenie syna božieho
 
 po tisíciu po dvú stú po dvú dcátú sedmého
@@ -55,3 +57,5 @@ Tehdá vévoda je sě mluviti:
 že v krátkých dnech ty hrdiny sě oblenichu
 
 a své dobré jmě tak brzo ztratichu.“
+
+</section>

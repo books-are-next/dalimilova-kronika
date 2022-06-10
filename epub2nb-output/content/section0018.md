@@ -4,6 +4,8 @@ subtitle: '         O Přěmyslovu osypániu\.       '
 contentType: prose
 ---
 
+<section>
+
 Přěmysla na stolec vsadichu,
 
 hrad Děvín ihned zkazichu.
@@ -39,3 +41,5 @@ Ti všickni neostavili sú jmene dobrého;
 nebo biechu jich hlúpí nravi,
 
 proto o nich písmo nic nepraví.
+
+</section>

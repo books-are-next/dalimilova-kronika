@@ -4,6 +4,8 @@ subtitle: '         Kako sv\. Jan Oldřicha zprostil\.       '
 contentType: prose
 ---
 
+<section>
+
 Kochan, zbyv tu hodinu,
 
 obrátí na knězě všiu vinu,
@@ -65,3 +67,5 @@ kněz Oldřich na tom miestě kostel jemu ustavi.
 Kdož-ti jesť v Oldřiši býval,
 
 ten jesť kostel svatého Jana, ale pustý, vídal.
+
+</section>

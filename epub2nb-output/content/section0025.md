@@ -4,6 +4,8 @@ subtitle: '         Od Bořivoje, prvého křesťanského kniezete\.       '
 contentType: prose
 ---
 
+<section>
+
 Kněz Hostivít potom snide,
 
 Bořivoj na otcóv stolec vznide.
@@ -67,3 +69,5 @@ svatému Klimentu jej oslaví;
 druhý svaté Mářie na Prazě
 
 ot velikých vrat inhed na dráze.
+
+</section>

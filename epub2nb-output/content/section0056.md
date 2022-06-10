@@ -4,6 +4,8 @@ subtitle: '       Ot Bračislava prvého krále smrti\.     '
 contentType: prose
 ---
 
+<section>
+
 Tehdy Božěj a Mutyně Vršovici,
 
 svých kniežat praví vražedlníci,
@@ -75,3 +77,5 @@ na tom miestě jemu dušiu s tělem rozděli.
 Všickni sě u koní brojiechu,
 
 když Němec knězě zastřěli, všickni toho neuzřiechu.
+
+</section>

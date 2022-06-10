@@ -4,6 +4,8 @@ subtitle: '         O pražskej vědi\.       '
 contentType: prose
 ---
 
+<section>
+
 Když Styr všě Pražany sebra,
 
 proti Lučanom sě vzebra.
@@ -85,3 +87,5 @@ Jedinému tobě s smrtiú jesť sě minuti.
 Ač ti jesť věc sluti zběhem,
 
 na Turště sě nestyď během.“
+
+</section>

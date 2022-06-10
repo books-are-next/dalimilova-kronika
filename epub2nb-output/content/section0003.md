@@ -4,6 +4,8 @@ subtitle: '         Od babylonské věže a o sedmi dcát jazyciech\.       '
 contentType: prose
 ---
 
+<section>
+
 Když vešken liud pro svú vinu
 
 kromě osmi vodú zhynu,
@@ -67,3 +69,5 @@ tu kdežto bydlie Hřěkové,
 podle moře se usadichu,
 
 až do Říma sě vzplodichu.
+
+</section>

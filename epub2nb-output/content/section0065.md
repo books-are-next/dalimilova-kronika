@@ -4,6 +4,8 @@ subtitle: '       O Vladislavově a Bořivojově vypuzení\.     '
 contentType: prose
 ---
 
+<section>
+
 Když Bořivoj knězěm bieše,
 
 sliubu zemanóm neplnieše.
@@ -123,3 +125,5 @@ dobudeš ciesařovstvie jimi!
 Raději uzřiu smrť všěho rodu svého,
 
 ne potupiu ani zabju jazyka svého.“
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '       O Děpoltově vypuzení, kniežěte kúřimského\.     '
 contentType: prose
 ---
 
+<section>
+
 Tehdy kněz Děpolt zličský,
 
 jenž by nynie slul kúřimský,
@@ -63,3 +65,5 @@ pro to je bezpečně mohu Bohu dáti.
 K tomu mě Němci připravichu:
 
 mé Čechy s právem mi to učinichu.“
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '       Ot Soběslava, přietele českého\.     '
 contentType: prose
 ---
 
+<section>
+
 Po králiu syn jeho Soběslav knězěm bieše.
 
 Ten, kteréhož Němcě uzřieše,
@@ -107,3 +109,5 @@ z posla strachy dušě vystúpi.
 Tehdy biskup Sylvester snide,
 
 po něm na biskupstvo Minhart vznide.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '       O veliké povodni v Čechách\.     '
 contentType: prose
 ---
 
+<section>
+
 Léta ot narozenie syna božieho
 
 po tisiúciu po třech stech desátého
@@ -43,3 +45,5 @@ a domovité věci po dřieviu sbieráchu.
 Tiem přáslem voda mnoho vsí zkazila
 
 a mnoho liudí ztopila.
+
+</section>

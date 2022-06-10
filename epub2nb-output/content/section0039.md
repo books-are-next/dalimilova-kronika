@@ -4,6 +4,8 @@ subtitle: '         Od svatých pěti bratří\.       '
 contentType: prose
 ---
 
+<section>
+
 Toho časa českých mníškóv šesť,
 
 poznavše tohoto světa lesť,
@@ -85,3 +87,5 @@ a tak je k Bohu poslachu.
 To sě sta léta od narozenie syna božieho
 
 po tisiúciu čtvrtého.
+
+</section>

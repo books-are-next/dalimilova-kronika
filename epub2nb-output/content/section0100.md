@@ -4,6 +4,8 @@ subtitle: '       O mladém králiu Václavovi\.     '
 contentType: prose
 ---
 
+<section>
+
 Skóro po tom král Václav snide,
 
 po něm syn jeho Václav, král uherský, vznide.
@@ -91,3 +93,5 @@ ruky té sniesti nerodiechu.
 To zlé sě sta léta ot narozenie syna božieho
 
 po tisiúciu po třech stech šestého.
+
+</section>

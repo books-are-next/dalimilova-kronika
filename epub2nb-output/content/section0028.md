@@ -4,6 +4,8 @@ subtitle: '         O svietiej Ludmile, prvej křesťance\.       '
 contentType: prose
 ---
 
+<section>
+
 Svatá Liudmila knězěm vládieše,
 
 dvorem v Tetíně sedieše.
@@ -55,3 +57,5 @@ tu svatu knieniu závojem zadávista.
 Tak ta pohany črtu sě dostasta,
 
 a svatú Liudmilu k Bohu poslasta.
+
+</section>

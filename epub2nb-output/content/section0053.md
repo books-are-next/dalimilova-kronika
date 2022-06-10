@@ -4,6 +4,8 @@ subtitle: '       Kak jesť král český připudil uherského krále\.     '
 contentType: prose
 ---
 
+<section>
+
 Když ciesař jede na krále uherského,
 
 i poje s sobú krále českého.
@@ -55,3 +57,5 @@ A když u Střěhomě bieše,
 tu s tohoto světa snide,
 
 a Kozma na biskupstvo vznide.
+
+</section>

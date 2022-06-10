@@ -4,6 +4,8 @@ subtitle: '         O sedlcě knieni Boženě\.       '
 contentType: prose
 ---
 
+<section>
+
 Kněz Oldřich o Postoloprtiech lovieše.
 
 Sta sě, když skrzě jednu ves jedieše,
@@ -71,3 +73,5 @@ když byste přěd knieniú stáli?
 Když z Božěny syna jměl,
 
 tomu byl Břěčislav vzděl.
+
+</section>

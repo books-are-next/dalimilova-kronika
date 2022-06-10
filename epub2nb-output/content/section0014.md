@@ -4,6 +4,8 @@ subtitle: '         O rozličných dievčích lestěch\.       '
 contentType: prose
 ---
 
+<section>
+
 Potom dachu sě dievky na rozličné lsti,
 
 pro něž mužie zbychu své cti.
@@ -73,3 +75,5 @@ tu na ně dievky vynidú:
 přěkotem je všěcky zbichu,
 
 i jednoho neživichu.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '       Ot Rudolta, krále říského\.     '
 contentType: prose
 ---
 
+<section>
+
 Rudolt po boju do Čech pojide,
 
 ale markrabie bramburský přijide,
@@ -109,3 +111,5 @@ mé oko to často vídalo.
 Tehdy kněz Jan, šlechetný biskup, snide,
 
 po něm Dobeš na biskupí stolec vznide.
+
+</section>

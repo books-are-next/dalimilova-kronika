@@ -4,6 +4,8 @@ subtitle: '         Ot svatého Vojtěcha přinesenie\.       '
 contentType: prose
 ---
 
+<section>
+
 Pak kněz, chtě pomstiti děda svého,
 
 jede na Mezku, knězě polského.
@@ -67,3 +69,5 @@ jiných klénotóv mnoho ottud přivezú.
 To sě sta léta od narozenie syna božieho
 
 po tisiúciu po třech dcětech osmého.
+
+</section>

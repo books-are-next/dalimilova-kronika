@@ -4,6 +4,8 @@ subtitle: '         (Nadpisu není\.)       '
 contentType: prose
 ---
 
+<section>
+
 Tak zbychu toho Ctirada.
 
 Naleze to dievčie rada,
@@ -85,3 +87,5 @@ za pravým mírem cti je zbavichu.
 Ty inhed všiu sílu i udacstvo ztratichu,
 
 hanbu sě viec do Děvína nevrátichu.
+
+</section>

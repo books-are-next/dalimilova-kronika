@@ -4,6 +4,8 @@ subtitle: '       Ote dvú králiú Václavú\.     '
 contentType: prose
 ---
 
+<section>
+
 Král český syna Václava jmieše,
 
 ten juž králem uherským koronován bieše.
@@ -59,3 +61,5 @@ tehdy král český, pro žalost u velikú nemoc upad, smrti neujide.
 K tomu mu také někteří pomohu,
 
 ale tu řěč pořúčiemy Bohu.
+
+</section>

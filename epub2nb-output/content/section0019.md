@@ -4,6 +4,8 @@ subtitle: '         Ot Neklaná múdrého\.       '
 contentType: prose
 ---
 
+<section>
+
 Neklaň vsta po Křěsomyslu,
 
 ten bieše dobrého smyslu.
@@ -85,3 +87,5 @@ nad ním tvrdý hrad ustavil.
 Mezi Příbkem a Lovošem stojieše,
 
 po kněziu Vlastislavovi město slovieše.
+
+</section>

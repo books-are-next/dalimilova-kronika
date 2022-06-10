@@ -4,6 +4,8 @@ subtitle: '         O dievčiej smrti\.       '
 contentType: prose
 ---
 
+<section>
+
 Když to uslyšě Vlasta liuticě,
 
 vzřiu žalostiú jako nedvědicě,
@@ -99,3 +101,5 @@ pryč je s hradu metáchu.
 lak ten veš sbor i pohynu,
 
 a tak válka tak i zminu.
+
+</section>

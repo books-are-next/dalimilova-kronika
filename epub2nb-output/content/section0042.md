@@ -4,6 +4,8 @@ subtitle: '         Ot Oldřicha šlechetného a ot Kochana nevěrného\.       
 contentType: prose
 ---
 
+<section>
+
 Kněz Oldřich, rozpomanuv na smrť bratra svého,
 
 a poznav lesť Kochana nevěrného,
@@ -39,3 +41,5 @@ má mne zlob s právem dochodí.
 Mniech ztepa všě kniežata,
 
 pro to mi dána dóstojná otplata.“
+
+</section>

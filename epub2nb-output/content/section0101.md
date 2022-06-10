@@ -4,6 +4,8 @@ subtitle: '       Ot Rudolta, krále českého\.     '
 contentType: prose
 ---
 
+<section>
+
 Co-ť pak Čechy učinichu!
 
 Svého vraha sobě za kněz zvolichu,
@@ -75,3 +77,5 @@ nelstivý přietel jazyka českého,
 doby Křivokláta, hradu králového,
 
 i zbavi ten kraj plena švábského.
+
+</section>

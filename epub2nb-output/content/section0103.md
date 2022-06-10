@@ -4,6 +4,8 @@ subtitle: '       O smrti Albrechta, krále říšského\.     '
 contentType: prose
 ---
 
+<section>
+
 Na léto vrah český, Albrecht, do Čech počě jíti,
 
 chtě přěkotem jazyk český zahladiti.
@@ -43,3 +45,5 @@ a pro tož i zbavi Čechy vraha nemilostivého.
 Také že neslušalo, než od svého, sníti,
 
 jenž tak nevěrně směl svého sestřěncě zabiti.
+
+</section>

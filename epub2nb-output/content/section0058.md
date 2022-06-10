@@ -4,6 +4,8 @@ subtitle: '       Kako sú Vršovici bradaticiú sěkli\.     '
 contentType: prose
 ---
 
+<section>
+
 Ciesař kněziu na Uhry s sobú káza jíti,
 
 kněz sebe-miesto káza v zemi Božějovi a Mutyni býti.
@@ -131,3 +133,5 @@ léta po tisiúciu po stu osmého.
 Toho léta biskup Kozma snide,
 
 na jeho stolec Daněl vznide.
+
+</section>

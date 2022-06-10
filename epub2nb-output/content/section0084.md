@@ -4,6 +4,8 @@ subtitle: '       O Kartasiech pohanských\.     '
 contentType: prose
 ---
 
+<section>
+
 Léta ot narozenie Jezu Krista milostivého
 
 po tisiúciu po dvú stú po čtyřech dcětech druhého
@@ -111,3 +113,5 @@ za sě sě inhed vzpodjechu;
 neb spytáci byli řekli, nikohého sě nebáti,
 
 kromě českého krále, toho nikoli nedočakávati.
+
+</section>
