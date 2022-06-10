@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Král, přizvav Ojieřě hrdiny,
 
 sstúpi mu k dědině Bieliny.
@@ -55,3 +57,5 @@ By mi ciesařě třikrát pobili,
 až by pól třetieho tisiúcě prstenóv s zbitých rytieřóv ruk po boju sněli,
 
 tehdy by v svej řeči pravdu jměli.
+
+</section>

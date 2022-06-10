@@ -4,6 +4,8 @@ subtitle: '         O najvyššiej cti prvého krále českého\.       '
 contentType: prose
 ---
 
+<section>
+
 Ciesařovi by v děk to poslúženie,
 
 i da českému kněziu volenie:
@@ -43,3 +45,5 @@ a komuž by dal, tomu ciesařem býti.
 Tehdy ciesař Vratislava prvým králem koronova,
 
 a králem českým i polským jej provola.
+
+</section>

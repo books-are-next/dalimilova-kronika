@@ -4,6 +4,8 @@ subtitle: '         Ot Vratislava, otce svatého Václava krále\.       '
 contentType: prose
 ---
 
+<section>
+
 Potom Bořivoj s světa snide
 
 a z kněžstva králevstvie věčného dojide.
@@ -75,3 +77,5 @@ neb tajně ju zadávila.
 K niej sě chtieci přislúžiti,
 
 sliúbista to učiniti.
+
+</section>

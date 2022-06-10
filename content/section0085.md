@@ -4,6 +4,8 @@ subtitle: '       O králiu Václavovi a o ciesařovi Bedřichovi\.     '
 contentType: prose
 ---
 
+<section>
+
 Ciesař Bedřich poslední snem zapovědě.
 
 Jakž to král český brzo vzvědě,
@@ -119,3 +121,5 @@ což královi liubo, všě učiniti.
 Král se ctiú z města vynide
 
 a tak do svých Čech přijide.
+
+</section>

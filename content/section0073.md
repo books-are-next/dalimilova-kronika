@@ -4,6 +4,8 @@ subtitle: '       Od Bedřicha a od Kunráta, Soběslavových synech, a ot Stani
 contentType: prose
 ---
 
+<section>
+
 Tak ten šlechetný kněz snide,
 
 jeho syn Bedřich na stolec vznide.
@@ -55,3 +57,5 @@ právě jako umrlá kušě.“
 Tehdy biskup Minhart snide,
 
 na biskupi stolec Daněl vznide.
+
+</section>

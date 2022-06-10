@@ -4,6 +4,8 @@ subtitle: '         O válče, ježto dievky s mužmi jmiechu\.       '
 contentType: prose
 ---
 
+<section>
+
 Skončě svój život Liubušě,
 
 pohřěbú ju ve vsi, jiež diechu Liubicě.
@@ -97,3 +99,5 @@ a po všiej zemi jako vzteklú běhajúcě.
 Pro ten sen boju sě země zlého.“
 
 Páni na smiech obrátichu sen knězě svého.
+
+</section>

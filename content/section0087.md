@@ -4,6 +4,8 @@ subtitle: '       O králově Václavově boju s synem\.     '
 contentType: prose
 ---
 
+<section>
+
 Král Václav ščedrý bieše,
 
 ale Němcě velmi plodieše.
@@ -135,3 +137,5 @@ a ciuzí nepřistúpajte.‘
 Že jesť to pravda, svú smrtiú žehnach:
 
 běda mně nebohu, že tak pozdě znamenach.“
+
+</section>

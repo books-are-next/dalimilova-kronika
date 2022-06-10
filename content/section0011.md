@@ -4,6 +4,8 @@ subtitle: '         Od Vlastiny múdré rady\.       '
 contentType: prose
 ---
 
+<section>
+
 Když dievky ot otcóv sě brachu,
 
 a na Děvín sě vzěbrachu,
@@ -47,3 +49,5 @@ kdežto mociú nedoteku.“
 Třetím káza s lučišti jezditi,
 
 a mužie jako psy bíti.
+
+</section>

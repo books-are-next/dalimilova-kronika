@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 Mnozí pověstí hledajú,
 
 v tom múdřě i dvorně činie,
@@ -133,3 +135,5 @@ kromě že-ť o svém jazyce velmi tbaju.
 To mě jesť k tomu vzbudilo,
 
 i mě k úsiliu připudilo.
+
+</section>

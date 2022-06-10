@@ -4,6 +4,8 @@ subtitle: '       Ot hlada, jenž byl po králově Přěmyslově smrti\.     '
 contentType: prose
 ---
 
+<section>
+
 Po králově smrti na třetie léto
 
 by hlad v Čechách. Pravie, to léto bylo samým Bohem prokleto,
@@ -67,3 +69,5 @@ tu ctně právě kláv, túž cěstú do Čech přijede.
 Tehdy kněz Dobeš biskup snide,
 
 Řehoř na biskupi stolec vznide.
+
+</section>

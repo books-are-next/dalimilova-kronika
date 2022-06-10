@@ -4,6 +4,8 @@ subtitle: '         O knězi ličském\.       '
 contentType: prose
 ---
 
+<section>
+
 Uzřěv to kněz zličský Radislav,
 
 že jesť tak pokořen kněz Václav,
@@ -91,3 +93,5 @@ Kněz Václav přije jeho k milosti,
 Přěbyv s ním tu v Žitomiři,
 
 o všě dobré s ním sě smíří.
+
+</section>

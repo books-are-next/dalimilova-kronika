@@ -4,6 +4,8 @@ subtitle: '       Kak jesť Morava svých kniežat zbyla a k Čechám přišla\.
 contentType: prose
 ---
 
+<section>
+
 Moravský kněz nerodi bratru slúžiti,
 
 pro to kněz Bedřich musi na-ň jiti.
@@ -55,3 +57,5 @@ a ot toho času českým kniežatóm slúžila.
 To sě sta léta ot narozenie syna božieho
 
 po tisiúciu po stu po osmi dcát čtvrtého.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Pak král počě pýchati,
 
 své bratřie netbati.
@@ -61,3 +63,5 @@ a otciu sě mu pokořiti káza.
 Proto syn otciu v pokoru jide,
 
 ale však, boje sě otcě, z země vynide.
+
+</section>

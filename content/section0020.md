@@ -4,6 +4,8 @@ subtitle: '         Od Vlastislava, žateckého kniežete\.       '
 contentType: prose
 ---
 
+<section>
+
 Vlastislav na vojnu zapovědě,
 
 o tej vem divně povědě.
@@ -87,3 +89,5 @@ již netbajú, by česť u měšě byla,
 Ale oni o sbožiu nic netbajú,
 
 jedno jmene dobrého a paměti věčné hledajú.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '         Kako Oldřich Prahy dobyl od Polan\.       '
 contentType: prose
 ---
 
+<section>
+
 Ke kněziu sě věrní sebrachu,
 
 tajně sě přěd Prahu brachu.
@@ -91,3 +93,5 @@ Když sěde na potřěbnéj věci,
 hanebně prokla nevinného,
 
 knězě Jaromira cného.
+
+</section>

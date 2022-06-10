@@ -4,6 +4,8 @@ subtitle: '       O uherském boji a o královéj Margarety rozvodu z Rakús\.  
 contentType: prose
 ---
 
+<section>
+
 Pak kněz jide na Bělu, na krále uherského,
 
 na svého nepřietele dávného.
@@ -71,3 +73,5 @@ Margaretě za věno nedachu i lúči;
 za Rakúsy jiej nic nedachu,
 
 pro to na krále všě kniežata bez mála nevstachu.
+
+</section>

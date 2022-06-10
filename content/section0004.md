@@ -4,6 +4,8 @@ subtitle: '         O počátcě našeho jazyka v Čechách\.       '
 contentType: prose
 ---
 
+<section>
+
 V srbském jazyku jest země
 
 jiežto Charvaty jest jmě.
@@ -123,3 +125,5 @@ pravému škody polepšili.
 Minu let tomu velmi mnoho,
 
 že sě držě ten liud obyčěje toho.
+
+</section>

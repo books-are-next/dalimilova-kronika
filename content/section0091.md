@@ -4,6 +4,8 @@ subtitle: '       Od druhého Přěmysla, krále pátého českého\.     '
 contentType: prose
 ---
 
+<section>
+
 Toho léta král Václav snide,
 
 po něm Přěmysl jako krásný květ pojide.
@@ -135,3 +137,5 @@ po něm Jan ščědrý na biskupi stolec vznide.
 Kněz Přěmysl Margaretu poje,
 
 po niej věně Rakúsy obje.
+
+</section>

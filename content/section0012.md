@@ -4,6 +4,8 @@ subtitle: '         O prvém dievčiem pleně\.       '
 contentType: prose
 ---
 
+<section>
+
 Když sě dievky svykú,
 
 na koních jezditi obykú,
@@ -193,3 +195,5 @@ i jeden by z mužóv nezbyl.
 Na Vlastu sě i jeden nevrátil:
 
 nerad bych jiej byl skopka rozvrátil.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '       Ot Václava, krále čtvrtého českého\.     '
 contentType: prose
 ---
 
+<section>
+
 Tehdy král Přěmysl Ottakar s světa snide,
 
 syn jeho Václav na jeho stolec vznide.
@@ -75,3 +77,5 @@ na jeho miesto Bernart vznide.
 Ten, přěbyv u biskupstviu čtrnádcte let, snide,
 
 a Mikulaj na biskupí stolec vznide.
+
+</section>

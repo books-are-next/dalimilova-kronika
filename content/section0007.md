@@ -4,6 +4,8 @@ subtitle: '         Od Přěmyslového nalezenie knězě\.       '
 contentType: prose
 ---
 
+<section>
+
 Páni po koniu pojedú,
 
 až Bieliny řěky dojedú.
@@ -89,3 +91,5 @@ a z nich prokvete pěť ořěchóv.
 Čtyřie uschú po malej chvíli,
 
 pátý by živ, ten sě všěm smíli.
+
+</section>

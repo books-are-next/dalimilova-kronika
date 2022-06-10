@@ -4,6 +4,8 @@ subtitle: '         Ot knězě Břečislava, zěti ciesařova\.       '
 contentType: prose
 ---
 
+<section>
+
 Potom kněz Oldřich s světa snide,
 
 syn jeho Bračislav na kniežecí stolec vznide.
@@ -131,3 +133,5 @@ pusť oheň za míliu okolo sebe.“
 To viec kniežata česká za právo vzěchu,
 
 a proto orliciu v plameném ščítě nosiechu.
+
+</section>

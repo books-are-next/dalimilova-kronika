@@ -4,6 +4,8 @@ subtitle: '         Od Oldřichovy Přimdy\.       '
 contentType: prose
 ---
 
+<section>
+
 Tehdy sě sta, že kněz Oldřich lovieše
 
 a sám v pustém lese blúdieše.
@@ -47,3 +49,5 @@ Ohledav hrad, kudyž byl všel, tudyž vyleze.
 Pak kněz hrad ten da pánu tomu jemuž Přiema diechu;
 
 proto tomu hradu Přimda vzděchu.
+
+</section>

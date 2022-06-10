@@ -4,6 +4,8 @@ subtitle: '       Ot Vladislavova boje a ot srbského knězě\.     '
 contentType: prose
 ---
 
+<section>
+
 Vladislav k ciesařiu jide,
 
 milosti ciesařovy dojide.
@@ -73,3 +75,5 @@ však tomu miestu jedinému jmě ostalo.
 Neb tu mnohu s málem kněz český ostal,
 
 na tom miestě třikrát sě boj stal.
+
+</section>

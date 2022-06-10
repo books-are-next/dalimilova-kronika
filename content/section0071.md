@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Potom zvolichu ciesaře jiného.
 
 Ten, znamenav Soběslava muže udatného,
@@ -87,3 +89,5 @@ Pro to k tobě svých dietek nechciu dáti.
 Mój otec pro též svú česť ztrati,
 
 a pro němečskú řěč musi sě z země bráti.“
+
+</section>

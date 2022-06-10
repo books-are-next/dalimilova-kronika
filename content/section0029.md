@@ -4,6 +4,8 @@ subtitle: '         Od svatého Václava mateře\.       '
 contentType: prose
 ---
 
+<section>
+
 Drahomiř sě v syna uváza,
 
 a na kmetech práva potáza,
@@ -93,3 +95,5 @@ tomu škorně szuje utieráše.
 Tomu komorníku Podiven jmě bieše,
 
 ten knězě v náboženstviu tepieše.
+
+</section>

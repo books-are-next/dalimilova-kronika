@@ -4,6 +4,8 @@ subtitle: '         Od ščedrého Boleslava\.       '
 contentType: prose
 ---
 
+<section>
+
 Pak Boleslav Hutí snide,
 
 jeho syn Boleslav na stolec vznide.
@@ -119,3 +121,5 @@ jiné tvrze Čechy osadi;
 neb svoboda veliká bieše
 
 proto česť i sbožie jmejieše.
+
+</section>

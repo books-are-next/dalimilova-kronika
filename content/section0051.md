@@ -4,6 +4,8 @@ subtitle: '         Ot Jarohněva biskupa, králova bratra\.       '
 contentType: prose
 ---
 
+<section>
+
 Biskup Šebieř s světa snide,
 
 Jaromir s zemany přěd bratra jide,
@@ -107,3 +109,5 @@ a také že ta řěč ke mně neslušie,
 by mne kázaný nekázánú řěčiú nevinil,
 
 řka: „Ež’s to pisal, nekázaně’s učinil.“
+
+</section>

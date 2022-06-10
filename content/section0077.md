@@ -4,6 +4,8 @@ subtitle: '       Ot vzdvíhánie sv\. Prokopa opata\.     '
 contentType: prose
 ---
 
+<section>
+
 Léta ot narozenie syna božieho
 
 po tisiúciu po dvú stú čtvrtého
@@ -39,3 +41,5 @@ ten zemiu všie kletvy zbavi.
 Pelhřima na biskupstvo zvolichu
 
 a jeho s velikú ctiú světichu.
+
+</section>

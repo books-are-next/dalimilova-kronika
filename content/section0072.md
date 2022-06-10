@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Ciesař je sě velmi nastati,
 
 až mu musi své děti poslati.
@@ -103,3 +105,5 @@ knězě sobě ot pluha oráčě dobuďte.
 Spieše oráč dobrým knězem bude,
 
 než taký Němec věrně s Čechy zbude.“
+
+</section>

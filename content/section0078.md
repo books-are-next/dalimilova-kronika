@@ -4,6 +4,8 @@ subtitle: '       Od přepusčenie krále Přěmysla třetieho\.     '
 contentType: prose
 ---
 
+<section>
+
 Toho léta kněz Vladislav snide,
 
 syn jeho Přěmysl na otcóv stolec vznide.
@@ -115,3 +117,5 @@ zemiu jemu opěť vzdachu.
 Kněz je sě svých milovati
 
 a o Němcích nic netbati.
+
+</section>

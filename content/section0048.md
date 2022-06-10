@@ -4,6 +4,8 @@ subtitle: '         Ot Zbyhněva, nepřietele němečského\.       '
 contentType: prose
 ---
 
+<section>
+
 Po tom by knězěm syn jeho Spytihněv,
 
 ten inhed Němcóm zjevi svój hněv.
@@ -79,3 +81,5 @@ jedno městiště sě mu liúbieše;
 na tom mistě sobě dvór postavi
 
 a své jmě „Jaromiř“ j’mu ostavi.
+
+</section>

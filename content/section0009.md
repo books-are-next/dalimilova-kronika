@@ -4,6 +4,8 @@ subtitle: '         (Nadpisu není\.)       '
 contentType: prose
 ---
 
+<section>
+
 Jakž brzo Liubušě doje,
 
 Liubušě jej za muž pojě.
@@ -65,3 +67,5 @@ aby ju jměli zdravu:
 takež proti Praze, městu mému;
 
 neb bude česť i chvála jemu.“
+
+</section>

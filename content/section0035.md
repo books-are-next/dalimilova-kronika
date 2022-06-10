@@ -4,6 +4,8 @@ subtitle: '         Ot Boleslava skúpého, českého krále, i slepého\.      
 contentType: prose
 ---
 
+<section>
+
 Pak svatý a šlechetný Boleslav snide,
 
 po tom syn jeho, Boleslav skúpý vznide.
@@ -61,3 +63,5 @@ jedno že ot něho střiebro brachu.
 Mezka Oldřicha u věži jmejieše,
 
 a hladem jeho mučieše.
+
+</section>

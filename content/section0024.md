@@ -4,6 +4,8 @@ subtitle: '         Ot Hostivíta a od Děpolta\.       '
 contentType: prose
 ---
 
+<section>
+
 Neklaň dva syny jmějieše,
 
 starějšiemu jmě Hostivít bieše,
@@ -85,3 +87,5 @@ ti sě po krásném šcítě znajú.
 Nosie-ť v zlatě fioletniej orlici,
 
 knězi Vlastislavovi rodiči.
+
+</section>

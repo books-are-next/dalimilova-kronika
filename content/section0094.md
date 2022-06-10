@@ -4,6 +4,8 @@ subtitle: '       Ot násilé, ješto král pánóm českým činil\.     '
 contentType: prose
 ---
 
+<section>
+
 Léta ot narozenie syna božieho
 
 po tisiúciu po dvú stú po šesti dcát čtvrtého,
@@ -149,3 +151,5 @@ ten svatý mučenník jesť veliký svátek,
 léta ot narozenie syna božieho
 
 po tisiúciu po dvú stú po sedmi dcát osmého.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '       O biskupově Heřmanově smrti\.     '
 contentType: prose
 ---
 
+<section>
+
 Biskup Heřman s světa snide;
 
 neb přěd jeho smrtiú hlas přijide,
@@ -125,3 +127,5 @@ ale koronu musíte ote mne vzieti.“
 Ten boj sě sta ot narozenie syna božieho
 
 po tisiúciu po stu po třech dcětech čtvrtého.
+
+</section>

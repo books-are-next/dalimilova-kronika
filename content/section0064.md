@@ -4,6 +4,8 @@ subtitle: '       O dobrém Stepáně\.     '
 contentType: prose
 ---
 
+<section>
+
 Ščepán, dobrý král uherský,
 
 a Vladislav, kněz český,
@@ -75,3 +77,5 @@ a do bratra Bořivoje velmi ufaje,
 přěd zemany pozvav jeho,
 
 postúpi j’mu kněžstva svého.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '       Kako Svatopluk Uhry pobil a u Polás zabit byl\.     '
 contentType: prose
 ---
 
+<section>
+
 Tehdy král uherský u Moravu vnide,
 
 kněz Svatopluk proti jemu vynide.
@@ -95,3 +97,5 @@ a nám sú hrdla řězali.“
 Pro to knězě Otty nerodiechu,
 
 ale jeho bratra Vladislava za kněz jmiechu.
+
+</section>

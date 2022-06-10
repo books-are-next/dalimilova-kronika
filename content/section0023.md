@@ -4,6 +4,8 @@ subtitle: '         O smrti kniežete žatečského\.       '
 contentType: prose
 ---
 
+<section>
+
 Neklaň sě v Lucko uváza,
 
 na knězě Vlastislavovu čeleď vztáza.
@@ -131,3 +133,5 @@ juž mušiu na dřevě visěti.“
 Blíz u Prahy na jednej nivě
 
 oběsí sě sám Durink na jívě.
+
+</section>

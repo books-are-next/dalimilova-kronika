@@ -4,6 +4,8 @@ subtitle: '       O skončení sv\. Prokopa opata\.     '
 contentType: prose
 ---
 
+<section>
+
 Léta ot narozenie syna božieho
 
 po tisiúciu po stu čtvrtého
@@ -89,3 +91,5 @@ i počě jim ciesařem hroziti.
 Zeměné tu krále inhed chtiechu zabiti:
 
 ukryv sě král, musi z země jíti.
+
+</section>

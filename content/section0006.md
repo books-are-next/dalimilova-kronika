@@ -4,6 +4,8 @@ subtitle: '         O Libušinu proročství\.       '
 contentType: prose
 ---
 
+<section>
+
 T’dy Liubušě otpovědě,
 
 řkúc: „To-ť vám beze lsti povědě,
@@ -93,3 +95,5 @@ po tisiuc let bude-ť zemi škoditi.“
 Liubušě sě na své věstby vzpusti,
 
 kóň osedlaný bez uzdy pusti.
+
+</section>

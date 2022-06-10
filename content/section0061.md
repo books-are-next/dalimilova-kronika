@@ -4,6 +4,8 @@ subtitle: '       Kako ciesař u Praze na sudě seděl\.     '
 contentType: prose
 ---
 
+<section>
+
 Vladislav je sě ciesařě prositi,
 
 by ráčil do Čech přijíti.
@@ -135,3 +137,5 @@ jide do Miličic, kde bydlieše pan Bena.
 Ten pán bratry u mír svede,
 
 a pak knězě ctně do Prahy vede.
+
+</section>

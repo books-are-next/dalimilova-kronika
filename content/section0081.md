@@ -4,6 +4,8 @@ subtitle: '       (Nadpisu není\.)     '
 contentType: prose
 ---
 
+<section>
+
 Pak na velikú rozkoš sě otdachu,
 
 pro to o dobrém jmeni nic netbachu.
@@ -83,3 +85,5 @@ tiem jmene dobrého zbychu.
 Tehdy kněz Pelhřim biskupstva sstúpi,
 
 kněz Jan na biskupstvo vstúpi.
+
+</section>

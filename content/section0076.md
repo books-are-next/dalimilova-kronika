@@ -4,6 +4,8 @@ subtitle: '       O českém boji s Němci\.     '
 contentType: prose
 ---
 
+<section>
+
 Toho léta kněz Bedřich s světa snide,
 
 na jeho stolec syn jeho Otta vznide.
@@ -103,3 +105,5 @@ ten na ščítě ostrvu jmějieše.
 Tu ostrva k jmeni přijide,
 
 slušno by bylo slyšěti, kak ten rod najprv vznide.
+
+</section>

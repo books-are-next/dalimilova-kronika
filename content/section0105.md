@@ -4,6 +4,8 @@ subtitle: '       O Korutanského potupení a o pražských měšťan volení\. 
 contentType: prose
 ---
 
+<section>
+
 Kněz ot pánóv u potupě bieše,
 
 tak že často jiesti nejmieše.
@@ -91,3 +93,5 @@ rytieřiu mladému, ale přěšlechetnému,
 do něhož vieru i hrdinstvo vzvědě,
 
 a příslovie i jednoho do něho nevzvědě.
+
+</section>

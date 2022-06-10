@@ -4,6 +4,8 @@ subtitle: '       O naháčích\.     '
 contentType: prose
 ---
 
+<section>
+
 Léta ot narozenie syna božieho
 
 po tisiúciu po dvú stú po pěti dcát devátého
@@ -55,3 +57,5 @@ všěm ohněm jako kacieřóm životy ot jechu;
 neb sú kacieři byli,
 
 svój tajný blud tak zjevili.
+
+</section>

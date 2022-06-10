@@ -4,6 +4,8 @@ subtitle: '         Od Svatopluka, moravského krále\.       '
 contentType: prose
 ---
 
+<section>
+
 Tuto drbiu do moravské kroniky málo zajiti,
 
 abych mohl k svej cti i řeči sličně přijíti.
@@ -119,3 +121,5 @@ i by do své smrti v tom húščiu.
 I dnes na tom miestě črní mnišie pějú,
 
 a tomu klášteru v Uhřiech Zaboř dějú.
+
+</section>

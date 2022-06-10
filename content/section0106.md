@@ -4,6 +4,8 @@ subtitle: '       O Míšeňských nemilosti\.     '
 contentType: prose
 ---
 
+<section>
+
 Pak té nemúdrosti kněz sě dopusti,
 
 že v témdni, Heřmanovi hrad otjem, Míšňany na-ň vzpusti.
@@ -67,3 +69,5 @@ tehdy Čechóvé Němce u městě tepiechu.
 V zástupiech Čechy po městu chodiechu,
 
 ale Němci v svých domiech zatvořeni sědiechu.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: '         O závisti Boleslava\.       '
 contentType: prose
 ---
 
+<section>
+
 Bratr jeho je sě jemu záviděti,
 
 i myslieše, kak by mohl zemiu obdržěti.
@@ -131,3 +133,5 @@ bratr jeho maletevstvem sě rozpadl.
 Z jich rodu zlé nemoci jmievajú,
 
 a druzí sě na každé léto vztěkajú.
+
+</section>

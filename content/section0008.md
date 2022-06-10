@@ -4,6 +4,8 @@ subtitle: '         O Přěmyslově zvoleniu\.       '
 contentType: prose
 ---
 
+<section>
+
 Když sobě ten div ukázachu,
 
 na Přěmyslu potázachu,
@@ -51,3 +53,5 @@ i jeho vrahóm napokon bude běda!“
 Řka to, vsta z chlapieho sboru,
 
 jede do Liubušina dvoru.
+
+</section>

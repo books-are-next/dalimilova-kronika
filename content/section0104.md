@@ -4,6 +4,8 @@ subtitle: '       O zlých obyčejích českých\.     '
 contentType: prose
 ---
 
+<section>
+
 Pak sě češčí páni zlých obyčějóv přijechu,
 
 za kratochvíl v kostky jhrajiechu.
@@ -127,3 +129,5 @@ a šlechetné dietky u Horníkóv umřieti chtiechu.
 A pro to je i vrátichu,
 
 a také že přietelie za to mluvicím.
+
+</section>

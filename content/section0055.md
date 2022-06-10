@@ -4,6 +4,8 @@ subtitle: '       Od prvého králova syna\.     '
 contentType: prose
 ---
 
+<section>
+
 Pak král Vratislav snide,
 
 bratr jeho Kunrát na kněžský stolec vznide.
@@ -107,3 +109,5 @@ v čelo postaveni biechu.
 V tom boju mnoho liudí s obú stranu snide,
 
 po boju Bračislav sě s bratřiú snide.
+
+</section>
