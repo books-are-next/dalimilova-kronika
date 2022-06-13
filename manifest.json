@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dalimilova-kronika-7726764",
-  "revision": "7726764",
+  "identifier": "dalimilova-kronika-50d81e2",
+  "revision": "50d81e2",
   "readingOrder": [
     "promo.html",
     "section0002.html",
@@ -122,8 +122,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:31:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655155860687
+    "date": "Mon Jun 13 2022 22:00:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157637308
   },
   "documents": [
     {
