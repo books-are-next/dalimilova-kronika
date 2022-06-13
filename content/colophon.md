@@ -2,12 +2,15 @@
 title: Tiráž
 ---
 
-<section>  
 Dalimilova kronika  
 Vydala **Městská knihovna v Praze**    
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění originálu Dalimilovy kroniky (podle přepisu edice Josefa Jirečka) vychází z  díla Dalimilova kronika tak, jak bylo vydáno v  nakladatelství Evropský literární klub v  roce 1948 (_Dalimilova kronika_. \[Připojen novočeský přepis originálu podle edice Josefa Jirečka\]. Praha : ELK_,_ 1948\. 228 s. Národní klenotnice, sv. 31).
+
 
 ***
 
@@ -19,10 +22,8 @@ Text díla (Dalimilova kronika), publikovaného Městskou knihovnou v Praze, nen
 
 Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko (http://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-</section>
-
 ***
 
 Citační záznam této e-knihy:
 
-Dalimilova kronika \[online\].  Praha : Městská knihovna v Praze, 2011 \[cit. 11. 6. 2022]. Dostupné z: <next-book-url>
+Dalimilova kronika \[online\].  Praha : Městská knihovna v Praze, 2011 \[cit. 13. 6. 2022]. Dostupné z: <next-book-url>
