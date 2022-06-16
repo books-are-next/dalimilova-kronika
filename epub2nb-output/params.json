@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "isbn": "978-80-274-2477-1"
+      "isbn": "978-80-274-2477-1",
+      "contentType": "prose"
     },
     "elements": {
       "title": "s2",
@@ -1978,6 +1979,6 @@
       "user": "books-are-next",
       "repo": "dalimilova-kronika"
     },
-    "generatedAt": 1655271328984
+    "generatedAt": 1655364106988
   }
 }
