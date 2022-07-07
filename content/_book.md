@@ -123,7 +123,7 @@ readingOrder:
   - section0106.html
   - section0107.html
   - section0108.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
