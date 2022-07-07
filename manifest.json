@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dalimilova-kronika-593a02c",
-  "revision": "593a02c",
+  "identifier": "dalimilova-kronika-6394809",
+  "revision": "6394809",
   "readingOrder": [
     "promo.html",
     "section0002.html",
@@ -119,11 +119,11 @@
     "section0106.html",
     "section0107.html",
     "section0108.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:58:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978312195
+    "date": "Thu Jul 07 2022 08:19:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181982762
   },
   "documents": [
     {
@@ -152,7 +152,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "POČÍNÁ SĚ KRONIKA ČESKÁ        I\\.",
+          "name": "POČÍNÁ SĚ KRONIKA ČESKÁ        I\\.",
           "id": null,
           "children": []
         }
@@ -2267,7 +2267,7 @@
       "role": "chapter",
       "order": 107,
       "prev": "section0107.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -2280,11 +2280,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 159,
-      "chars": 1219,
+      "chars": 1216,
       "ideas": 14,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "section0108.html",
       "next": null,
@@ -2302,7 +2302,7 @@
   "totals": {
     "all": {
       "words": 25984,
-      "chars": 146937,
+      "chars": 146934,
       "ideas": 4721
     },
     "chapters": {
