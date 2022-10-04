@@ -6,7 +6,7 @@ Dalimilova kronika
 Vydala **Městská knihovna v Praze**    
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-2477-1 (webová kniha)  
-V MKP 2. elektronické vydání z 1. 10. 2022.
+V MKP 2. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -14,17 +14,17 @@ Znění originálu Dalimilovy kroniky (podle přepisu edice Josefa Jirečka) vyc
 
 ***
 
-![](../Images/pd-88x31.png)  
+  
 Text díla (Dalimilova kronika), publikovaného Městskou knihovnou v Praze, není vázán autorskými právy (http://creativecommons.org/publicdomain/mark/1.0/deed.cs).
 
-![](../Images/88x31.png)  
+  
 Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko (http://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 ***
 
 Citační záznam této e-knihy:
 
-Dalimilova kronika \[online\]. V MKP 2. elektronické vydání z 1. 10. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 1. 10. 2022]. Dostupné z <[books-are-next.github.io/dalimilova-kronika](https://books-are-next.github.io/dalimilova-kronika/)>.
+Dalimilova kronika \[online\]. V MKP 2. elektronické vydání z 4. 10. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 4. 10. 2022]. Dostupné z <[books-are-next.github.io/dalimilova-kronika](https://books-are-next.github.io/dalimilova-kronika/)>.
 
 ***
 
