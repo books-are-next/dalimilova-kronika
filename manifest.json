@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dalimilova-kronika-fac6100",
-  "revision": "fac6100",
+  "identifier": "dalimilova-kronika-380c660",
+  "revision": "380c660",
   "readingOrder": [
     "promo.html",
     "section0002.html",
@@ -122,8 +122,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:39:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901567598
+    "date": "Tue Oct 04 2022 22:49:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664923754946
   },
   "documents": [
     {
