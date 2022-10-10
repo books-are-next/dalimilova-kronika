@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dalimilova-kronika-8b1a9c9",
-  "revision": "8b1a9c9",
+  "identifier": "dalimilova-kronika-e2e0cb8",
+  "revision": "e2e0cb8",
   "readingOrder": [
     "promo.html",
     "section0002.html",
@@ -122,8 +122,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:00:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151231702
+    "date": "Mon Oct 10 2022 15:53:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417196938
   },
   "documents": [
     {
@@ -2282,7 +2282,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 157,
-      "chars": 1219,
+      "chars": 1222,
       "ideas": 12,
       "role": "about",
       "order": null,
@@ -2302,7 +2302,7 @@
   "totals": {
     "all": {
       "words": 25982,
-      "chars": 146937,
+      "chars": 146940,
       "ideas": 4719
     },
     "chapters": {
